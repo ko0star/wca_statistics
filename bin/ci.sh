@@ -24,7 +24,7 @@ else
   github_repo_slug="${GITHUB_REPOSITORY:-jonatanklosko/wca_statistics}"
   github_corner_template_html=`cat bin/templates/github_corner.html`
   github_corner_html="${github_corner_template_html/"<<<GITHUB_REPO_SLUG>>>"/$github_repo_slug}"
-  grep --files-without-match "github-corner" build/* | while read file; do
+  grep --files-without-match "github-corner" docs/* | while read file; do
     echo -e "\n\n$github_corner_html" >> $file
   done
 fi

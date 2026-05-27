@@ -1,6 +1,6 @@
-require_relative "../core/statistic"
+require_relative "../core/grouped_statistic"
 
-class AsianChampionshipPodiumsByPerson < Statistic
+class AsianChampionshipPodiumsByPerson < GroupedStatistic
   def initialize
     @title = "Asian Championship podiums by person"
     @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
@@ -10,7 +10,7 @@ class AsianChampionshipPodiumsByPerson < Statistic
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('**', gold_medals, '**'),
+        gold_medals,
         silver_medals,
         bronze_medals,
         gold_medals + silver_medals + bronze_medals total
@@ -32,7 +32,33 @@ class AsianChampionshipPodiumsByPerson < Statistic
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
        AND person.country_id = 'Korea'
       WHERE gold_medals + silver_medals + bronze_medals > 0
-      ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, person.name
     SQL
+  end
+
+  def transform(query_results)
+    {
+      "By medals" => sort_by_medals(query_results),
+      "By total podiums" => sort_by_total_podiums(query_results)
+    }
+  end
+
+  def sort_by_medals(results)
+    format_rows(results.sort_by { |result| [-result["gold_medals"], -result["silver_medals"], -result["bronze_medals"], result["person_link"]] })
+  end
+
+  def sort_by_total_podiums(results)
+    format_rows(results.sort_by { |result| [-result["total"], -result["gold_medals"], -result["silver_medals"], -result["bronze_medals"], result["person_link"]] })
+  end
+
+  def format_rows(results)
+    results.map do |result|
+      [
+        result["person_link"],
+        "**#{result["gold_medals"]}**",
+        result["silver_medals"],
+        result["bronze_medals"],
+        result["total"]
+      ]
+    end
   end
 end
