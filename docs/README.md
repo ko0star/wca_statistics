@@ -52,6 +52,7 @@
 - [Most visited countries](most_visited_countries)
 - [Moving average](moving_average)
 - [National records count by person](national_records_by_person)
+- [Podiums by person](podiums_by_person)
 - [Potentially seen world records](potentially_seen_world_records)
 - [Records in the highest number of events](records_in_most_events)
 - [Rolling year rankings](rolling_year_rankings)
