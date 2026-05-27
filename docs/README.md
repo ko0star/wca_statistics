@@ -37,6 +37,7 @@
 - [Most 4th places](most_4th_places)
 - [Most attended competitions in a single month](most_attended_competitions_in_single_month)
 - [Most attended competitions in a single week](most_attended_competitions_in_single_week)
+- [Most competitions](most_competitions)
 - [Most competitions abroad](most_competitions_abroad)
 - [Most competitions before winning](most_competitions_before_winning)
 - [Most completed solves](most_completed_solves)
