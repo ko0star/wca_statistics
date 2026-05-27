@@ -2,6 +2,8 @@ require "time"
 require_relative "database"
 
 class Statistic
+  KOREA_COUNTRY_ID = "Korea"
+
   attr_reader :title
 
   def query
@@ -41,5 +43,21 @@ class Statistic
       table += "| #{([index + 1] + row).join(' | ')} |\n"
     end
     table
+  end
+
+  def korea_country_id
+    KOREA_COUNTRY_ID
+  end
+
+  def korean_person_filter(person_alias = "person")
+    "#{person_alias}.country_id = '#{korea_country_id}'"
+  end
+
+  def korean_competition_filter(competition_alias = "competition")
+    "#{competition_alias}.country_id = '#{korea_country_id}'"
+  end
+
+  def korean_country_filter(country_alias = "country")
+    "#{country_alias}.id = '#{korea_country_id}'"
   end
 end

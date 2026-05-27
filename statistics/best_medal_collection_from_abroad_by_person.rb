@@ -30,6 +30,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
         GROUP BY person_id
       ) AS medals_by_country
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       WHERE gold_medals + silver_medals + bronze_medals > 0
       ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, person.name
       LIMIT 100

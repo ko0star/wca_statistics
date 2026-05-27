@@ -17,6 +17,8 @@ class Most4thPlaces < Statistic
           person_id wca_id,
           COUNT(*) 4th_places_count
         FROM results
+        JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+         AND person.country_id = 'Korea'
         JOIN round_types round_type ON round_type.id = round_type_id
         WHERE round_type.final = 1 AND pos = 4 AND best > 0
         GROUP BY person_id

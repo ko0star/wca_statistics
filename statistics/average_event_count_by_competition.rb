@@ -23,6 +23,7 @@ class AverageEventCountByCompetition < Statistic
         GROUP BY competition_id, person_id
       ) AS competitors_with_event_count
       JOIN competitions competition ON competition.id = competition_id
+       AND competition.country_id = 'Korea'
       JOIN countries country ON country.id = competition.country_id
       GROUP BY competition_id
       ORDER BY average_event_count DESC

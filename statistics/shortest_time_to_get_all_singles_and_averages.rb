@@ -70,6 +70,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
       JOIN persons person
         ON person.wca_id = single_completion.person_id
        AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       ORDER BY days ASC
     SQL
   end

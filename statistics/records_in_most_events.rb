@@ -16,6 +16,7 @@ class RecordsInMostEvents < GroupedStatistic
         event.name event_name
       FROM results
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN events event ON event.id = event_id
       WHERE (regional_single_record IS NOT NULL AND regional_single_record != '')
          OR (regional_average_record IS NOT NULL AND regional_average_record != '')
@@ -39,6 +40,9 @@ class RecordsInMostEvents < GroupedStatistic
             .map! { |result| result["event_name"] }
             .uniq
           [events.count, person_link, events.join(', ')]
+        end
+        .select do |events_count, _person_link, _events|
+          events_count > 0
         end
         .sort_by! { |events_count, _, _| -events_count }
         .first(20)

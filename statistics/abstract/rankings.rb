@@ -33,7 +33,9 @@ class Rankings < GroupedStatistic
         GROUP BY result_id
       ) attempts
       JOIN results ON results.id = attempts.result_id
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+      JOIN persons person ON person.wca_id = person_id
+       AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN countries country ON country.id = person.country_id
       JOIN competitions competition ON competition.id = competition_id
       #{@condition}

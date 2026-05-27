@@ -36,6 +36,7 @@ class MostDistinctDatesCompetedOn < Statistic
         HAVING attended_dates >= 100
       ) AS comp_dates_by_person
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       ORDER BY attended_dates DESC, person.name
     SQL
   end

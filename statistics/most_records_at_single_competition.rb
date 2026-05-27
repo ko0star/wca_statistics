@@ -15,6 +15,7 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
       FROM results
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       WHERE (regional_single_record IS NOT NULL AND regional_single_record != '')
          OR (regional_average_record IS NOT NULL AND regional_average_record != '')
@@ -39,6 +40,9 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
             end
             .reduce(&:+)
           [records_count, person_link, results_link]
+        end
+        .select do |records_count, _person_link, _results_link|
+          records_count > 0
         end
         .sort_by! { |records_count, person_link, results_link| -records_count }
       [header, take_top_n_with_ties(records_at_single_competition, 20, 0)]

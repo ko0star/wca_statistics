@@ -1,27 +1,27 @@
 require_relative "../core/statistic"
 
-class WorldRecordsByPerson < Statistic
+class AsianRecordsByPerson < Statistic
   def initialize
-    @title = "World records count by person"
-    @table_header = { "WRs" => :right, "Person" => :left }
+    @title = "Asian records count by person"
+    @table_header = { "AsRs" => :right, "Person" => :left }
   end
 
   def query
     <<-SQL
       SELECT
-        wrs_count,
+        asrs_count,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
           person_id,
-          SUM((IF(regional_single_record = 'WR', 1, 0) + IF(regional_average_record = 'WR', 1, 0))) wrs_count
+          SUM((IF(regional_single_record IN ('AsR', 'WR'), 1, 0) + IF(regional_average_record IN ('AsR', 'WR'), 1, 0))) asrs_count
         FROM results
         GROUP BY person_id
-        HAVING wrs_count > 0
-      ) AS wrs_count_by_person
+        HAVING asrs_count > 0
+      ) AS records_count_by_person
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
        AND person.country_id = 'Korea'
-      ORDER BY wrs_count DESC, person.name
+      ORDER BY asrs_count DESC, person.name
     SQL
   end
 end

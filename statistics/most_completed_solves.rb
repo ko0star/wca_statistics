@@ -27,6 +27,7 @@ class MostCompletedSolves < GroupedStatistic
       ) counts
       JOIN results result ON result.id = counts.result_id
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = competition.country_id
       JOIN continents continent ON continent.id = continent_id

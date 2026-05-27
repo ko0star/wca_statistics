@@ -19,6 +19,7 @@ class MostCompetitionsBeforeWinning < GroupedStatistic
         best
       FROM results
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       JOIN round_types round_type ON round_type.id = round_type_id
       ORDER BY start_date

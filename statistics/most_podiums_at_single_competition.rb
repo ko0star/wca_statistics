@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MostPodiumsAtSingleCompetition < Statistic
   def initialize
     @title = "Most podiums at a single competition"
-    @table_header = { "Podiums" => :right, "Person" => :left }
+    @table_header = { "Podiums" => :right, "Person" => :left, "Competition" => :left }
   end
 
   def query
@@ -23,11 +23,13 @@ class MostPodiumsAtSingleCompetition < Statistic
           AND best > 0
           AND pos IN (1, 2, 3)
         GROUP BY person_id, competition_id
-        HAVING podiums_count >= 10
+        HAVING podiums_count >= 3
         ORDER BY podiums_count DESC
       ) AS podiums_count_by_person_by_competition
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
+      ORDER BY podiums_count DESC, person.name, competition.start_date
     SQL
   end
 end

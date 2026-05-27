@@ -28,6 +28,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       ) attempts
       JOIN results ON results.id = attempts.result_id
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       WHERE format_id = 'a'
     SQL

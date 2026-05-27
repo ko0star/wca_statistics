@@ -1,5 +1,6 @@
 require_relative "../core/grouped_statistic"
 require_relative "../core/events"
+require_relative "../core/solve_time"
 
 class MostFrequentResults < GroupedStatistic
   def initialize
@@ -13,6 +14,8 @@ class MostFrequentResults < GroupedStatistic
         event_id,
         ra.value
       FROM results
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN result_attempts ra ON ra.result_id = results.id
       WHERE event_id != '333mbo'
     SQL

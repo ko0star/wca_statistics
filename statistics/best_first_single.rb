@@ -17,6 +17,7 @@ class BestFirstSingle < GroupedStatistic
         ra.value single
       FROM results
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       JOIN round_types round_type ON round_type.id = round_type_id
       JOIN result_attempts ra ON ra.result_id = results.id AND ra.attempt_number = 1

@@ -26,6 +26,7 @@ class AverageOfX < GroupedStatistic
       JOIN persons person
         ON person.wca_id = result.person_id
        AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition
         ON competition.id = result.competition_id
       JOIN round_types round_type
@@ -51,6 +52,7 @@ class AverageOfX < GroupedStatistic
             JOIN persons p
               ON p.wca_id = r.person_id
              AND p.sub_id = 1
+             AND p.country_id = 'Korea'
             WHERE r.best > 0
               AND r.event_id NOT IN ('333mbf', '333mbo')
             GROUP BY r.event_id, r.person_id

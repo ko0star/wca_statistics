@@ -20,9 +20,10 @@ class MostVisitedContinents < Statistic
         JOIN countries country ON country.id = competition.country_id
         WHERE continent_id != "_Multiple Continents"
         GROUP BY person_id
-        HAVING visited_continents >= 4
+        HAVING visited_continents >= 2
       ) AS people_with_visited_continents
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       ORDER BY visited_continents DESC
     SQL
   end

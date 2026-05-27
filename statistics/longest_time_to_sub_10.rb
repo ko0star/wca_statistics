@@ -26,6 +26,7 @@ class LongestTimeToSub10 < Statistic
       JOIN persons person
         ON person.wca_id = t.person_id
        AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       WHERE t.first_sub_10_date IS NOT NULL
       ORDER BY years DESC
       LIMIT 100

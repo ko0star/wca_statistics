@@ -13,8 +13,10 @@ class DnfRateByEvent < Statistic
         event_id,
         SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) dnfs,
         SUM(CASE WHEN ra.value != -2 THEN 1 ELSE 0 END) attempts
-      FROM results
-      JOIN result_attempts ra ON ra.result_id = results.id
+      FROM results result
+      JOIN persons person ON person.wca_id = result.person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
+      JOIN result_attempts ra ON ra.result_id = result.id
       GROUP BY event_id
     SQL
   end

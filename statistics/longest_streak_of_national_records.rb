@@ -1,8 +1,11 @@
 require_relative "../core/statistic"
+require_relative "../core/events"
 
-class LongestStreakOfWorldRecords < Statistic
+class LongestStreakOfNationalRecords < Statistic
+  RECORD_IDS = %w(NR AsR WR)
+
   def initialize
-    @title = "Longest streak of world records of the same type in the given event"
+    @title = "Longest streak of national records of the same type in the given event"
     @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Years" => :right }
   end
 
@@ -21,24 +24,28 @@ class LongestStreakOfWorldRecords < Statistic
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
        AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
-      WHERE regional_single_record = 'WR' OR regional_average_record = 'WR'
+      WHERE regional_single_record IN ('NR', 'AsR', 'WR') OR regional_average_record IN ('NR', 'AsR', 'WR')
     SQL
   end
 
   def transform(query_results)
+    record_streaks(query_results, RECORD_IDS)
+  end
+
+  def record_streaks(query_results, record_ids)
     Events::ALL.flat_map do |event_id, event_name|
       %w(single average).flat_map do |type|
         query_results
-          .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "WR" }
+          .select { |result| result["event_id"] == event_id && record_ids.include?(result["regional_#{type}_record"]) }
           .sort_by! { |result| [result["competition_date"], -result[type]] }
-          .reduce([]) do |wr_streaks, result|
-            current_wrs_streak = wr_streaks.last || {}
-            if result["person_link"] == current_wrs_streak[:person_link]
-              current_wrs_streak[:count] += 1
+          .reduce([]) do |streaks, result|
+            current_streak = streaks.last || {}
+            if result["person_link"] == current_streak[:person_link]
+              current_streak[:count] += 1
             else
-              current_wrs_streak[:last_competition] = result["competition_link"]
-              current_wrs_streak[:end_date] = result["competition_date"]
-              wr_streaks << {
+              current_streak[:last_competition] = result["competition_link"]
+              current_streak[:end_date] = result["competition_date"]
+              streaks << {
                 count: 1,
                 event: event_name,
                 type: type.capitalize,
@@ -48,15 +55,15 @@ class LongestStreakOfWorldRecords < Statistic
                 first_competition: result["competition_link"]
               }
             end
-            wr_streaks
+            streaks
           end
       end
     end
-    .select { |wr_streak| wr_streak[:count] > 1 }
-    .sort_by! { |wr_streak| -wr_streak[:count] }
-    .map! do |wr_streak|
-      years = (wr_streak[:end_date] - wr_streak[:start_date]).to_i / 365.25
-      [wr_streak[:count], wr_streak[:event], wr_streak[:type], wr_streak[:person_link], wr_streak[:first_competition], wr_streak[:last_competition], "%0.2f" % years]
+    .select { |streak| streak[:count] > 1 }
+    .sort_by! { |streak| -streak[:count] }
+    .map! do |streak|
+      years = (streak[:end_date] - streak[:start_date]).to_i / 365.25
+      [streak[:count], streak[:event], streak[:type], streak[:person_link], streak[:first_competition], streak[:last_competition], "%0.2f" % years]
     end
   end
 end

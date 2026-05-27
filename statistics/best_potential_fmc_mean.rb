@@ -26,6 +26,7 @@ class BestPotentialFmcMean < Statistic
         GROUP BY competition_id, round_type_id
       ) AS best_attempts_by_competition_and_round
       JOIN competitions competition ON competition.id = competition_id
+       AND competition.country_id = 'Korea'
       WHERE LEAST(best1, best2, best3) IS NOT NULL
       ORDER BY mean
       LIMIT 100

@@ -15,6 +15,7 @@ class MostPodiumsTogether < GroupedStatistic
         ) people
       FROM results
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN round_types round_type ON round_type.id = round_type_id
       WHERE 1
         AND round_type.final = 1

@@ -25,6 +25,7 @@ class CompleteCompetitionWinners < Statistic
         HAVING COUNT(DISTINCT person_id) = 1
       ) AS competitions_with_complete_winners
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = person.country_id
       ORDER BY events_count DESC, person.name

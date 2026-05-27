@@ -16,6 +16,8 @@ class MostCompetitionsAbroad < Statistic
           person_id,
           COUNT(DISTINCT competition_id) competitions_abroad
         FROM results result
+        JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+         AND person.country_id = 'Korea'
         JOIN competitions competition ON competition.id = competition_id
         WHERE 1
           AND result.country_id != competition.country_id

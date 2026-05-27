@@ -19,6 +19,7 @@ class SmallestDiffBetweenSingleAndAverage < GroupedStatistic
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
       FROM results
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       WHERE event_id != '333fm' AND average > 0
     SQL

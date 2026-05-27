@@ -16,6 +16,8 @@ class MostVisitedCountries < Statistic
           person_id,
           COUNT(DISTINCT competition.country_id) visited_countries
         FROM results result
+        JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+         AND person.country_id = 'Korea'
         JOIN competitions competition ON competition.id = competition_id
         WHERE competition.country_id -- Ignore Multiple Countries used for continental FMC competitions.
           NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')

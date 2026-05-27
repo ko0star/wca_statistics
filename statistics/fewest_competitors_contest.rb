@@ -17,9 +17,10 @@ class FewestCompetitorsContest < Statistic
           competition_id
         FROM results
         GROUP BY competition_id
-        HAVING competitors_count <= 15
+        HAVING competitors_count <= 100
       ) AS competitors_count_by_competition
       JOIN competitions competition ON competition.id = competition_id
+       AND competition.country_id = 'Korea'
       ORDER BY competitors_count
     SQL
   end

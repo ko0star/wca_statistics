@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class WorldChampionshipPodiumsByPerson < Statistic
+class AsianChampionshipPodiumsByPerson < Statistic
   def initialize
-    @title = "World Championship podiums by person"
+    @title = "Asian Championship podiums by person"
     @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
@@ -26,7 +26,7 @@ class WorldChampionshipPodiumsByPerson < Statistic
         WHERE 1
           AND round_type_id IN ('c', 'f')
           AND best > 0
-          AND championship_type = 'world'
+          AND championship_type = '_Asia'
         GROUP BY person_id
       ) AS medals_by_country
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1

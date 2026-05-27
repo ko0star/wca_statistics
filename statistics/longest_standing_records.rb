@@ -4,7 +4,7 @@ require_relative "../core/solve_time"
 
 class LongestStandingRecords < GroupedStatistic
   def initialize
-    @title = "Longest standing records"
+    @title = "Longest standing national records"
     @table_header = { "Event" => :left, "Type" => :left, "Days" => :right, "Result" => :right, "Person" => :left, "Competition" => :left }
   end
 
@@ -22,30 +22,24 @@ class LongestStandingRecords < GroupedStatistic
         continent.name continent
       FROM results result
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1
+       AND person.country_id = 'Korea'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = result.country_id
       JOIN continents continent ON continent.id = country.continent_id
-      WHERE regional_single_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
-         OR regional_average_record IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+      WHERE regional_single_record IN ('NR', 'AsR', 'WR')
+         OR regional_average_record IN ('NR', 'AsR', 'WR')
       ORDER BY competition_date
     SQL
   end
 
   def transform(query_results)
     {
-      "World" => %w(WR),
-      "Africa" => %w(AfR WR),
-      "Asia" => %w(AsR WR),
-      "Europe" => %w(ER WR),
-      "North America" => %w(NAR WR),
-      "Oceania" => %w(OcR WR),
-      "South America" => %w(SAR WR)
+      "National" => %w(NR AsR WR)
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results
           .select do |result|
             record_ids.include?(result["regional_#{type}_record"]) &&
-            (region == "World" || region == result["continent"]) &&
             Events::OFFICIAL.has_key?(result["event_id"])
           end
           .group_by { |result| result["event_id"] }
