@@ -99,15 +99,15 @@
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **18.09** | 22.49 | [Tokyo BLD Spring 2026](https://www.worldcubeassociation.org/competitions/TokyoBLDSpring2026/results/all#e333bf_f) | 5 |
-| 2 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **18.09** | 22.49 | [Tokyo BLD Spring 2026](https://www.worldcubeassociation.org/competitions/TokyoBLDSpring2026/results/all#e333bf_f) | 5 |
-| 3 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **22.49** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 4 |
-| 4 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **22.49** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 4 |
-| 5 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **23.22** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 5 |
-| 6 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **23.22** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 5 |
-| 7 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **25.42** | DNF | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 4 |
-| 8 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **25.42** | DNF | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 4 |
-| 9 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **25.48** | 32.52 | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 5 |
-| 10 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **25.48** | 32.52 | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 5 |
+| 2 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **22.49** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 4 |
+| 3 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **23.22** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 5 |
+| 4 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **25.42** | DNF | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 4 |
+| 5 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **25.48** | 32.52 | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 5 |
+| 6 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **25.58** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333bf_f) | 4 |
+| 7 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | **25.61** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333bf_f) | 5 |
+| 8 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **26.02** | 36.05 | [Please Be Quiet Brisbane 2024](https://www.worldcubeassociation.org/competitions/PleaseBeQuietBrisbane2024/results/all#e333bf_f) | 4 |
+| 9 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26.51** | DNF | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 6 |
+| 10 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26.80** | DNF | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333bf_f) | 10 |
 
 ### 3x3x3 Fewest Moves
 

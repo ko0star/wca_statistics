@@ -14,6 +14,7 @@ class BestResultOffPodium < GroupedStatistic
       SELECT
         format.sort_by,
         format.sort_by_second,
+        results.id result_id,
         results.event_id,
         best single,
         average,
@@ -41,6 +42,7 @@ class BestResultOffPodium < GroupedStatistic
         .sort_by! do |result|
           [result[result["sort_by"]], result[result["sort_by_second"]]]
         end
+        .uniq { |result| result["result_id"] }
         .first(10)
         .map! do |result|
           result[result["sort_by"]] = "**#{result[result["sort_by"]].clock_format}**"

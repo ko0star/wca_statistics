@@ -99,15 +99,15 @@
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
-| 2 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | **10:24.00** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 3 |
-| 3 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
-| 4 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
-| 5 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | **6:48.42** | DNF | [Gauteng Winter 2017](https://www.worldcubeassociation.org/competitions/GautengWinter2017/results/podiums#e333bf) | 3 |
-| 6 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | **6:48.42** | DNF | [Gauteng Winter 2017](https://www.worldcubeassociation.org/competitions/GautengWinter2017/results/podiums#e333bf) | 3 |
-| 7 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | **4:11.47** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 2 |
-| 8 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | **4:11.47** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 2 |
-| 9 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | **3:50.58** | DNF | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums#e333bf) | 3 |
-| 10 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | **3:50.58** | DNF | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums#e333bf) | 3 |
+| 2 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | **10:11.00** | DNF | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008/results/podiums#e333bf) | 3 |
+| 3 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | **6:48.42** | DNF | [Gauteng Winter 2017](https://www.worldcubeassociation.org/competitions/GautengWinter2017/results/podiums#e333bf) | 3 |
+| 4 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | **4:11.47** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 2 |
+| 5 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | **3:50.58** | DNF | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums#e333bf) | 3 |
+| 6 | [Kim Seung-Hoon](https://www.worldcubeassociation.org/persons/2007SEUN02) | **3:45.08** | DNF | [Korea 2009](https://www.worldcubeassociation.org/competitions/Korea2009/results/podiums#e333bf) | 3 |
+| 7 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | **3:27.25** |  | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008/results/podiums#e333bf) | 3 |
+| 8 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | **3:21.65** | DNF | [Johannesburg Open 2015](https://www.worldcubeassociation.org/competitions/JohannesburgOpen2015/results/podiums#e333bf) | 1 |
+| 9 | [Kim Seung-Hoon](https://www.worldcubeassociation.org/persons/2007SEUN02) | **3:17.65** |  | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008/results/podiums#e333bf) | 2 |
+| 10 | [Kim Kyung-Ho](https://www.worldcubeassociation.org/persons/2006KYUN02) | **3:17.22** |  | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums#e333bf) | 1 |
 
 ### 3x3x3 Fewest Moves
 
