@@ -1,14 +1,14 @@
 ## Asian Championship podiums by person
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### By medals
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
-| 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5** | 6 | 4 | 15 |
-| 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **1** | 1 | 1 | 3 |
+| 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **11** | 4 | 2 | 17 |
+| 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **2** | 0 | 1 | 3 |
 | 3 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) | **1** | 0 | 2 | 3 |
 | 4 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | **1** | 0 | 0 | 1 |
 | 5 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | **1** | 0 | 0 | 1 |
@@ -24,9 +24,9 @@
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
-| 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5** | 6 | 4 | 15 |
+| 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **11** | 4 | 2 | 17 |
 | 2 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **0** | 2 | 2 | 4 |
-| 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **1** | 1 | 1 | 3 |
+| 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **2** | 0 | 1 | 3 |
 | 4 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) | **1** | 0 | 2 | 3 |
 | 5 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | **0** | 2 | 0 | 2 |
 | 6 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | **1** | 0 | 0 | 1 |

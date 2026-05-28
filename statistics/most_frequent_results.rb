@@ -29,7 +29,7 @@ class MostFrequentResults < GroupedStatistic
         .group_by { |result| result["value"] }
         .map { |value, results| [value, results.length] }
         .sort_by { |value, count| -count }
-        .first(10)
+        .first(20)
         .map { |value, count| [count, SolveTime.new(event_id, :single, value).clock_format] }
       [event_name, counts_with_results]
     end

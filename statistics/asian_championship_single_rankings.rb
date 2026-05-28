@@ -5,7 +5,7 @@ require_relative "../core/events"
 class AsianChampionshipSingleRankings < GroupedStatistic
   def initialize
     @title = "Asian Championship single rankings"
-    @note = "Top 10 Korean competitors by event at Asian Championships."
+    @note = "Top 20 Korean competitors by event at Asian Championships."
     @table_header = { "Result" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end
 
@@ -34,7 +34,7 @@ class AsianChampionshipSingleRankings < GroupedStatistic
         .select { |result| result["event_id"] == event_id }
         .each { |result| result["single"] = SolveTime.new(event_id, :single, result["single"]) }
         .sort_by! { |result| result["single"] }
-        .first(10)
+        .first(20)
         .map! do |result|
           [result["single"].clock_format, result["person_link"], result["country_name"], result["competition_link"]]
         end

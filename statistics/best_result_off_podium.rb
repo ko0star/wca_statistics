@@ -43,7 +43,7 @@ class BestResultOffPodium < GroupedStatistic
           [result[result["sort_by"]], result[result["sort_by_second"]]]
         end
         .uniq { |result| result["result_id"] }
-        .first(10)
+        .first(20)
         .map! do |result|
           result[result["sort_by"]] = "**#{result[result["sort_by"]].clock_format}**"
           result[result["sort_by_second"]] = result[result["sort_by_second"]].clock_format

@@ -58,7 +58,7 @@ class LongestStandingRecords < GroupedStatistic
           end
         end
         .sort_by! { |event, type, days, *rest| -days }
-        .take(10)
+        # .take(10)
         .map! { |event, type, days, *rest| [event, type, "**#{days}**", *rest] }
       [region, results]
     end

@@ -1,6 +1,6 @@
 ## Longest streak of Asian records of the same type in the given event
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 | # | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -10,9 +10,9 @@
 | 4 | 9 | 7x7x7 Cube | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [China Championship 2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018) |  | 7.65 |
 | 5 | 8 | Megaminx | Single | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | [Korean Style 2013](https://www.worldcubeassociation.org/competitions/KoreanStyle2013) |  | 13.39 |
 | 6 | 7 | Megaminx | Average | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | [Korean Style 2013](https://www.worldcubeassociation.org/competitions/KoreanStyle2013) |  | 13.39 |
-| 7 | 5 | Rubik's Cube | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Valentine in Daegu 2016](https://www.worldcubeassociation.org/competitions/ValentineinDaegu2016) |  | 10.28 |
+| 7 | 5 | Rubik's Cube | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Valentine in Daegu 2016](https://www.worldcubeassociation.org/competitions/ValentineinDaegu2016) |  | 10.29 |
 | 8 | 5 | 4x4x4 Cube | Single | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) |  | 11.57 |
-| 9 | 5 | 6x6x6 Cube | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022) |  | 3.44 |
+| 9 | 5 | 6x6x6 Cube | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Taiwan Championship 2022](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2022) |  | 3.45 |
 | 10 | 4 | 6x6x6 Cube | Single | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023) |  | 2.98 |
 | 11 | 3 | 3x3x3 One-Handed | Average | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017) |  | 8.83 |
 | 12 | 3 | 7x7x7 Cube | Single | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 5.73 |
@@ -26,7 +26,7 @@
 | 20 | 2 | Skewb | Average | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) | [Korean KAIST Style 2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015) | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023) | 8.18 |
 | 21 | 2 | Skewb | Average | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [US Nationals 2014](https://www.worldcubeassociation.org/competitions/USNationals2014) | [Korean KAIST Style 2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015) | 1.19 |
 | 22 | 2 | Rubik's Clock | Average | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) |  | 11.57 |
-| 23 | 2 | Rubik's Clock | Single | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Good Cube Show Korea 2015](https://www.worldcubeassociation.org/competitions/GoodCubeShowKorea2015) |  | 10.99 |
+| 23 | 2 | Rubik's Clock | Single | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | [Good Cube Show Korea 2015](https://www.worldcubeassociation.org/competitions/GoodCubeShowKorea2015) |  | 11.00 |
 | 24 | 2 | Pyraminx | Average | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | [Winter Cube Anniversary 2015](https://www.worldcubeassociation.org/competitions/WinterCubeAnniversary2015) |  | 11.30 |
 | 25 | 2 | 4x4x4 Cube | Average | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) | 7.22 |
 | 26 | 2 | 3x3x3 One-Handed | Average | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016) | 9.60 |

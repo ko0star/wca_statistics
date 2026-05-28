@@ -45,7 +45,7 @@ class RecordsInMostEvents < GroupedStatistic
           events_count > 0
         end
         .sort_by! { |events_count, _, _| -events_count }
-        .first(20)
+        .first(50)
       [header, events_with_people]
     end
   end
