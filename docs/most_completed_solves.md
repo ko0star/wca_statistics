@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 
 ### Competition
@@ -36,14 +36,14 @@
 | 2 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5295** | 5400 |
 | 3 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **4391** | 4609 |
 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **3866** | 4074 |
-| 5 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | **3405** | 3531 |
+| 5 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | **3475** | 3611 |
 | 6 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | **3324** | 3593 |
 | 7 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | **3246** | 3388 |
 | 8 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | **3140** | 3190 |
-| 9 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **2976** | 3242 |
-| 10 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **2911** | 3066 |
-| 11 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **2158** | 2194 |
-| 12 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **2150** | 2205 |
+| 9 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **3018** | 3177 |
+| 10 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **2976** | 3242 |
+| 11 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **2215** | 2273 |
+| 12 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **2158** | 2194 |
 | 13 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | **1986** | 2041 |
 | 14 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **1933** | 2060 |
 | 15 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | **1928** | 1996 |
@@ -58,20 +58,20 @@
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | Republic of Korea | **222206** | 232564 |
-| 2 | United States | **30538** | 31596 |
-| 3 | Canada | **5609** | 5892 |
+| 2 | United States | **30828** | 31910 |
+| 3 | Canada | **5785** | 6073 |
 | 4 | Chinese Taipei | **2618** | 2757 |
 | 5 | Australia | **2580** | 2727 |
 | 6 | Malaysia | **2457** | 2559 |
 | 7 | Philippines | **2326** | 2394 |
 | 8 | China | **2202** | 2305 |
-| 9 | Japan | **2178** | 2344 |
-| 10 | Germany | **1760** | 1826 |
-| 11 | Singapore | **1713** | 1872 |
+| 9 | Japan | **2194** | 2367 |
+| 10 | Germany | **1770** | 1836 |
+| 11 | Singapore | **1731** | 1891 |
 | 12 | United Kingdom | **1595** | 1649 |
 | 13 | New Zealand | **1551** | 1654 |
 | 14 | Thailand | **1436** | 1482 |
-| 15 | Poland | **925** | 968 |
+| 15 | Poland | **991** | 1037 |
 | 16 | Hong Kong, China | **817** | 851 |
 | 17 | Netherlands | **791** | 817 |
 | 18 | Indonesia | **745** | 778 |
@@ -82,9 +82,9 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | Asia | **240704** | 252033 |
-| 2 | North America | **36359** | 37713 |
-| 3 | Europe | **9444** | 9833 |
+| 1 | Asia | **240738** | 252075 |
+| 2 | North America | **36825** | 38208 |
+| 3 | Europe | **9520** | 9912 |
 | 4 | Oceania | **4131** | 4381 |
 | 5 | South America | **682** | 715 |
 | 6 | Africa | **585** | 628 |
@@ -94,10 +94,10 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 2025 | **58120** | 60447 |
-| 2 | 2024 | **49700** | 51859 |
+| 1 | 2025 | **58212** | 60546 |
+| 2 | 2024 | **49705** | 51864 |
 | 3 | 2023 | **35171** | 36850 |
-| 4 | 2026 | **23333** | 24446 |
+| 4 | 2026 | **23812** | 24958 |
 | 5 | 2019 | **22364** | 23533 |
 | 6 | 2022 | **18922** | 19920 |
 | 7 | 2018 | **16321** | 17081 |
@@ -119,23 +119,23 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **98232** | 100265 |
-| 2 | 2x2x2 Cube | **43971** | 45073 |
-| 3 | 4x4x4 Cube | **29046** | 29776 |
-| 4 | Pyraminx | **22408** | 22938 |
-| 5 | 3x3x3 One-Handed | **21347** | 21924 |
-| 6 | 5x5x5 Cube | **18204** | 18582 |
-| 7 | Skewb | **17416** | 17808 |
-| 8 | Megaminx | **10034** | 10312 |
-| 9 | Clock | **8209** | 9496 |
-| 10 | Square-1 | **7601** | 7837 |
-| 11 | 6x6x6 Cube | **5117** | 5256 |
-| 12 | 7x7x7 Cube | **4106** | 4265 |
-| 13 | 3x3x3 Blindfolded | **2194** | 5815 |
-| 14 | 3x3x3 Fewest Moves | **1520** | 1905 |
+| 1 | 3x3x3 Cube | **98428** | 100465 |
+| 2 | 2x2x2 Cube | **44058** | 45163 |
+| 3 | 4x4x4 Cube | **29085** | 29815 |
+| 4 | Pyraminx | **22434** | 22965 |
+| 5 | 3x3x3 One-Handed | **21377** | 21954 |
+| 6 | 5x5x5 Cube | **18224** | 18602 |
+| 7 | Skewb | **17469** | 17863 |
+| 8 | Megaminx | **10068** | 10347 |
+| 9 | Clock | **8258** | 9553 |
+| 10 | Square-1 | **7608** | 7844 |
+| 11 | 6x6x6 Cube | **5129** | 5268 |
+| 12 | 7x7x7 Cube | **4116** | 4275 |
+| 13 | 3x3x3 Blindfolded | **2204** | 5838 |
+| 14 | 3x3x3 Fewest Moves | **1523** | 1908 |
 | 15 | 3x3x3 With Feet | **740** | 826 |
 | 16 | Magic | **716** | 790 |
 | 17 | Master Magic | **408** | 425 |
 | 18 | 3x3x3 Multi-Blind | **326** | 571 |
-| 19 | 4x4x4 Blindfolded | **262** | 896 |
-| 20 | 5x5x5 Blindfolded | **118** | 634 |
+| 19 | 4x4x4 Blindfolded | **262** | 899 |
+| 20 | 5x5x5 Blindfolded | **118** | 639 |

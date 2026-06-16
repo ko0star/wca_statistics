@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 | # | WRs | Person |
 | ---: | ---: | :--- |
@@ -34,17 +34,17 @@
 | 27 | 11 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
 | 28 | 10 | [Jang Junho (장준호)](https://www.worldcubeassociation.org/persons/2014JUNH01) |
 | 29 | 10 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) |
-| 30 | 9 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
-| 31 | 9 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
-| 32 | 9 | [Yeeun Park (박예은)](https://www.worldcubeassociation.org/persons/2018PARK09) |
-| 33 | 9 | [Park Byung-Gu](https://www.worldcubeassociation.org/persons/2010BYUN02) |
-| 34 | 9 | [Yuji Yoon (尹 裕智)](https://www.worldcubeassociation.org/persons/2008YOON01) |
-| 35 | 9 | [AhYoung Kim (김아영)](https://www.worldcubeassociation.org/persons/2014KIMA01) |
-| 36 | 9 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
-| 37 | 9 | [Seung-Gi Chae](https://www.worldcubeassociation.org/persons/2017CHAE03) |
-| 38 | 9 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 39 | 9 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) |
-| 40 | 8 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
+| 30 | 9 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
+| 31 | 9 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
+| 32 | 9 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
+| 33 | 9 | [Yeeun Park (박예은)](https://www.worldcubeassociation.org/persons/2018PARK09) |
+| 34 | 9 | [Park Byung-Gu](https://www.worldcubeassociation.org/persons/2010BYUN02) |
+| 35 | 9 | [Yuji Yoon (尹 裕智)](https://www.worldcubeassociation.org/persons/2008YOON01) |
+| 36 | 9 | [AhYoung Kim (김아영)](https://www.worldcubeassociation.org/persons/2014KIMA01) |
+| 37 | 9 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
+| 38 | 9 | [Seung-Gi Chae](https://www.worldcubeassociation.org/persons/2017CHAE03) |
+| 39 | 9 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
+| 40 | 9 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) |
 | 41 | 8 | [Donguk Kim (김동욱)](https://www.worldcubeassociation.org/persons/2012KIMD06) |
 | 42 | 8 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 43 | 8 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |

@@ -1,7 +1,7 @@
 ## Asian Championship single rankings
 
 *Note: Top 20 Korean competitors by event at Asian Championships.*
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 
 ### Rubik's Cube

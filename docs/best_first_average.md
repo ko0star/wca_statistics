@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 
 ### Rubik's Cube
@@ -20,8 +20,8 @@
 | 10 | 9.94 | [Song JiHun (송지훈)](https://www.worldcubeassociation.org/persons/2024JIHU01) |
 | 11 | 9.95 | [Lim Yun-ho](https://www.worldcubeassociation.org/persons/2022YUNH01) |
 | 12 | 10.01 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
-| 13 | 10.07 | [Jun Myeong Kim (김준명)](https://www.worldcubeassociation.org/persons/2022KIMJ07) |
-| 14 | 10.07 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) |
+| 13 | 10.07 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) |
+| 14 | 10.07 | [Jun Myeong Kim (김준명)](https://www.worldcubeassociation.org/persons/2022KIMJ07) |
 | 15 | 10.13 | [DongGeon Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD08) |
 | 16 | 10.22 | [Chanyoung Heo (허찬영)](https://www.worldcubeassociation.org/persons/2024CHAN67) |
 | 17 | 10.38 | [Joonwoo Choi (최준우)](https://www.worldcubeassociation.org/persons/2025CHOI03) |
@@ -39,8 +39,8 @@
 | 4 | 2.89 | [Park Geon-Hee (박건희)](https://www.worldcubeassociation.org/persons/2024GEON01) |
 | 5 | 2.99 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
 | 6 | 3.00 | [Jeongwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2023KIMJ24) |
-| 7 | 3.14 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
-| 8 | 3.14 | [Sung Siwoo (성시우)](https://www.worldcubeassociation.org/persons/2023SIWO02) |
+| 7 | 3.14 | [Sung Siwoo (성시우)](https://www.worldcubeassociation.org/persons/2023SIWO02) |
+| 8 | 3.14 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
 | 9 | 3.24 | [Mun Jung Hwan](https://www.worldcubeassociation.org/persons/2022HWAN07) |
 | 10 | 3.29 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) |
 | 11 | 3.34 | [Gibaek Lee (이기백)](https://www.worldcubeassociation.org/persons/2024LEEG06) |
@@ -52,7 +52,7 @@
 | 17 | 3.70 | [YuSung An](https://www.worldcubeassociation.org/persons/2017ANYU01) |
 | 18 | 3.71 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) |
 | 19 | 3.73 | [Shin Yeon Ho (신연호)](https://www.worldcubeassociation.org/persons/2025HOSH01) |
-| 20 | 3.74 | [SeungMin Kim](https://www.worldcubeassociation.org/persons/2017KIMS01) |
+| 20 | 3.74 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) |
 
 ### 4x4x4 Cube
 
@@ -279,8 +279,8 @@
 | 7 | 7.34 | [Sung Siwoo (성시우)](https://www.worldcubeassociation.org/persons/2023SIWO02) |
 | 8 | 7.64 | [Jaehyeon Seo (서재현)](https://www.worldcubeassociation.org/persons/2024SEOJ06) |
 | 9 | 7.70 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) |
-| 10 | 7.83 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) |
-| 11 | 7.83 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) |
+| 10 | 7.83 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) |
+| 11 | 7.83 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) |
 | 12 | 7.86 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) |
 | 13 | 8.07 | [Junhyuk Choi (최준혁)](https://www.worldcubeassociation.org/persons/2021CHOI04) |
 | 14 | 8.31 | [Seung Hyeon Sung (성승현)](https://www.worldcubeassociation.org/persons/2023SUNG02) |

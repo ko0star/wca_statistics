@@ -1,6 +1,6 @@
 ## Podiums by person
 
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 
 ### By medals
@@ -108,7 +108,7 @@
 | 99 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | **1** | 5 | 15 | 21 |
 | 100 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | **1** | 5 | 1 | 7 |
 | 101 | [Chae Jiseok (채지석)](https://www.worldcubeassociation.org/persons/2008JISE02) | **1** | 4 | 4 | 9 |
-| 102 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **1** | 3 | 3 | 7 |
+| 102 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **1** | 3 | 4 | 8 |
 | 103 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) | **1** | 3 | 3 | 7 |
 | 104 | [Kim Seung-Hoon](https://www.worldcubeassociation.org/persons/2007SEUN02) | **1** | 3 | 2 | 6 |
 | 105 | [Dongheon Ryu (류동헌)](https://www.worldcubeassociation.org/persons/2017RYUD02) | **1** | 2 | 8 | 11 |
@@ -370,12 +370,12 @@
 | 79 | [Kim Kyung-Ho](https://www.worldcubeassociation.org/persons/2006KYUN02) | **7** | 1 | 0 | 8 |
 | 80 | [Jaemin Jeon (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) | **4** | 2 | 2 | 8 |
 | 81 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) | **2** | 2 | 4 | 8 |
-| 82 | [JaeSeong Choe (최재성)](https://www.worldcubeassociation.org/persons/2014CHOE01) | **0** | 4 | 4 | 8 |
-| 83 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | **6** | 1 | 0 | 7 |
-| 84 | [Park Sang-Min (박상민)](https://www.worldcubeassociation.org/persons/2008SANG04) | **5** | 2 | 0 | 7 |
-| 85 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **2** | 1 | 4 | 7 |
-| 86 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | **1** | 5 | 1 | 7 |
-| 87 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **1** | 3 | 3 | 7 |
+| 82 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **1** | 3 | 4 | 8 |
+| 83 | [JaeSeong Choe (최재성)](https://www.worldcubeassociation.org/persons/2014CHOE01) | **0** | 4 | 4 | 8 |
+| 84 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | **6** | 1 | 0 | 7 |
+| 85 | [Park Sang-Min (박상민)](https://www.worldcubeassociation.org/persons/2008SANG04) | **5** | 2 | 0 | 7 |
+| 86 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **2** | 1 | 4 | 7 |
+| 87 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | **1** | 5 | 1 | 7 |
 | 88 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) | **1** | 3 | 3 | 7 |
 | 89 | [Kim Se-Han](https://www.worldcubeassociation.org/persons/2008SEHA01) | **0** | 4 | 3 | 7 |
 | 90 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) | **3** | 1 | 2 | 6 |

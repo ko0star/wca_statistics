@@ -1,14 +1,14 @@
 ## Competitions count by year
 
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 | # | Competitions | Year | List on WCA |
 | ---: | :--: | ---: | :--: |
 | 1 | 24 | 2024 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2024-01-06&to_date=2024-12-28) |
 | 2 | 18 | 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2025-01-18&to_date=2025-12-28) |
-| 3 | 11 | 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2023-02-25&to_date=2023-12-23) |
-| 4 | 10 | 2019 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2019-01-19&to_date=2019-12-28) |
-| 5 | 8 | 2026 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2026-01-17&to_date=2026-06-13) |
+| 3 | 11 | 2026 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2026-01-17&to_date=2026-08-17) |
+| 4 | 11 | 2023 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2023-02-25&to_date=2023-12-23) |
+| 5 | 10 | 2019 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2019-01-19&to_date=2019-12-28) |
 | 6 | 8 | 2022 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2022-05-29&to_date=2022-11-20) |
 | 7 | 8 | 2017 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2017-02-18&to_date=2017-12-30) |
 | 8 | 7 | 2018 | [List](https://www.worldcubeassociation.org/competitions?state=custom&region=KR&from_date=2018-01-26&to_date=2018-12-16) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 May 2026*
+*Updated on 13 June 2026*
 
 
 ### 100 Competitions
@@ -36,7 +36,7 @@
 | 17 | 4614 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) |
 | 18 | 4985 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 19 | 5299 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
-| 20 | 5888 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
+| 20 | 5482 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
 
 ### 25 Competitions
 
@@ -58,10 +58,10 @@
 | 14 | 1044 | [Woobin Hwang (황우빈)](https://www.worldcubeassociation.org/persons/2023HWAN05) |
 | 15 | 1093 | [SeongYong Yoo (유성용)](https://www.worldcubeassociation.org/persons/2022YOOS01) |
 | 16 | 1128 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
-| 17 | 1219 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) |
-| 18 | 1234 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) |
-| 19 | 1324 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 20 | 1401 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) |
+| 17 | 1142 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) |
+| 18 | 1219 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) |
+| 19 | 1234 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) |
+| 20 | 1324 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
 
 ### 10 Competitions
 
@@ -78,9 +78,9 @@
 | 9 | 330 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 10 | 338 | [Junghyun Kim](https://www.worldcubeassociation.org/persons/2014KIMJ06) |
 | 11 | 338 | [Yunsung Nam](https://www.worldcubeassociation.org/persons/2024NAMY01) |
-| 12 | 344 | [Jaemin Lee (이재민)](https://www.worldcubeassociation.org/persons/2024LEEJ01) |
-| 13 | 344 | [Sangjin Na (나상진)](https://www.worldcubeassociation.org/persons/2023NASA01) |
-| 14 | 344 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) |
+| 12 | 344 | [Sangjin Na (나상진)](https://www.worldcubeassociation.org/persons/2023NASA01) |
+| 13 | 344 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) |
+| 14 | 344 | [Jaemin Lee (이재민)](https://www.worldcubeassociation.org/persons/2024LEEJ01) |
 | 15 | 345 | [Juhyeok Park (박주혁)](https://www.worldcubeassociation.org/persons/2024PARK48) |
 | 16 | 350 | [Geunyeong Lee (이근영)](https://www.worldcubeassociation.org/persons/2023LEEG03) |
 | 17 | 351 | [A-Jung Kim (김아정)](https://www.worldcubeassociation.org/persons/2025KIMA01) |
@@ -93,22 +93,22 @@
 | # | Days | Person |
 | ---: | ---: | :--- |
 | 1 | 70 | [Doyu Lee](https://www.worldcubeassociation.org/persons/2023LEED06) |
-| 2 | 98 | [JuWan Jeon (전주완)](https://www.worldcubeassociation.org/persons/2023JEON15) |
-| 3 | 98 | [Jihun Ock (옥지훈)](https://www.worldcubeassociation.org/persons/2023OCKJ01) |
+| 2 | 98 | [Jihun Ock (옥지훈)](https://www.worldcubeassociation.org/persons/2023OCKJ01) |
+| 3 | 98 | [JuWan Jeon (전주완)](https://www.worldcubeassociation.org/persons/2023JEON15) |
 | 4 | 99 | [Haram Jang (장하람)](https://www.worldcubeassociation.org/persons/2024JANG06) |
 | 5 | 105 | [JiO Han (한지오)](https://www.worldcubeassociation.org/persons/2023HANJ05) |
-| 6 | 106 | [Junghyun Kim](https://www.worldcubeassociation.org/persons/2014KIMJ06) |
+| 6 | 106 | [In Gyu Baek (백인규)](https://www.worldcubeassociation.org/persons/2024BAEK06) |
 | 7 | 106 | [Andrew Deshazer](https://www.worldcubeassociation.org/persons/2024DESH06) |
 | 8 | 106 | [Michael Deshazer](https://www.worldcubeassociation.org/persons/2024IIIM01) |
-| 9 | 106 | [In Gyu Baek (백인규)](https://www.worldcubeassociation.org/persons/2024BAEK06) |
+| 9 | 106 | [Junghyun Kim](https://www.worldcubeassociation.org/persons/2014KIMJ06) |
 | 10 | 113 | [Hani Joo (주하니)](https://www.worldcubeassociation.org/persons/2019JOOH01) |
 | 11 | 114 | [Choi Joowon](https://www.worldcubeassociation.org/persons/2025JOOW01) |
 | 12 | 120 | [Alexander Seungu Hu](https://www.worldcubeassociation.org/persons/2022HUAL02) |
 | 13 | 121 | [Jayden Jung](https://www.worldcubeassociation.org/persons/2022JUNG05) |
 | 14 | 126 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) |
-| 15 | 127 | [Jung Yoonhoo](https://www.worldcubeassociation.org/persons/2024YOON02) |
+| 15 | 127 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
 | 16 | 127 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) |
-| 17 | 127 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
+| 17 | 127 | [Jung Yoonhoo](https://www.worldcubeassociation.org/persons/2024YOON02) |
 | 18 | 128 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) |
 | 19 | 132 | [Dayu Hyun (현다유)](https://www.worldcubeassociation.org/persons/2024HYUN04) |
 | 20 | 133 | [HwiYoon Kim (김휘윤)](https://www.worldcubeassociation.org/persons/2023KIMH06) |
