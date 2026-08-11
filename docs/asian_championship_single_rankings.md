@@ -1,7 +1,7 @@
 ## Asian Championship single rankings
 
 *Note: Top 20 Korean competitors by event at Asian Championships.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -181,8 +181,8 @@
 | # | Result | Person | Citizen of | Competition |
 | ---: | ---: | :--- | :--- | :--- |
 | 1 | 22 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
-| 2 | 23 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
-| 3 | 23 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
+| 2 | 23 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
+| 3 | 23 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 4 | 28 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024) |
 | 5 | 31 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) | Republic of Korea | [Asian Championship 2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016) |
 | 6 | 32 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014) |

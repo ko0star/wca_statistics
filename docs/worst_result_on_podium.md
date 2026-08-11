@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -194,15 +194,15 @@
 | 9 | [GyeongTae Park (박경태)](https://www.worldcubeassociation.org/persons/2011KUNG01) | 26 | **30.67** | [Please Be Quiet Korea 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2019/results/podiums#e333fm) | 2 |
 | 10 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 25 | **29.67** | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023/results/podiums#e333fm) | 3 |
 | 11 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 24 | **29.00** | [Vardagscubing III - Flen B 2023](https://www.worldcubeassociation.org/competitions/VardagscubingIIIFlenB2023/results/podiums#e333fm) | 1 |
-| 12 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 26 | **28.00** | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums#e333fm) | 1 |
-| 13 | [ChoongMyoung Lee (이충명)](https://www.worldcubeassociation.org/persons/2012LEEC01) | 25 | **26.67** | [FMC Asia 2016](https://www.worldcubeassociation.org/competitions/FMCAsia2016/results/podiums#e333fm) | 1 |
-| 14 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 24 | **26.67** | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025/results/podiums#e333fm) | 3 |
-| 15 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 22 | **26.67** | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022/results/podiums#e333fm) | 2 |
-| 16 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 25 | **26.00** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/podiums#e333fm) | 1 |
-| 17 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 25 | **26.00** | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023/results/podiums#e333fm) | 2 |
-| 18 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 24 | **26.00** | [Please Be Quiet Korea 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2019/results/podiums#e333fm) | 1 |
-| 19 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 24 | **26.00** | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023/results/podiums#e333fm) | 2 |
-| 20 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 22 | **25.33** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/podiums#e333fm) | 3 |
+| 12 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) | 27 | **28.33** | [Svealandsmästerskapet 2026](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2026/results/podiums#e333fm) | 1 |
+| 13 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 26 | **28.00** | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023/results/podiums#e333fm) | 1 |
+| 14 | [ChoongMyoung Lee (이충명)](https://www.worldcubeassociation.org/persons/2012LEEC01) | 25 | **26.67** | [FMC Asia 2016](https://www.worldcubeassociation.org/competitions/FMCAsia2016/results/podiums#e333fm) | 1 |
+| 15 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 24 | **26.67** | [Southeast FMC Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastFMCChampionship2025/results/podiums#e333fm) | 3 |
+| 16 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 22 | **26.67** | [Vardagscubing I - Uppsala 2022](https://www.worldcubeassociation.org/competitions/VardagscubingIUppsala2022/results/podiums#e333fm) | 2 |
+| 17 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 25 | **26.00** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/podiums#e333fm) | 1 |
+| 18 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 25 | **26.00** | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023/results/podiums#e333fm) | 2 |
+| 19 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 24 | **26.00** | [Please Be Quiet Korea 2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2019/results/podiums#e333fm) | 1 |
+| 20 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 24 | **26.00** | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023/results/podiums#e333fm) | 2 |
 
 ### 3x3x3 One-Handed
 

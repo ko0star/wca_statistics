@@ -1,7 +1,7 @@
 ## Korean Championship average rankings
 
 *Note: Top 20 Korean competitors by event at Korean Championships.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -287,8 +287,8 @@
 | 2 | 3.67 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 3 | 3.72 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 4 | 3.84 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 5 | 3.94 | [Woo Seongmin (우성민)](https://www.worldcubeassociation.org/persons/2022SEON01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 6 | 3.94 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 5 | 3.94 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 6 | 3.94 | [Woo Seongmin (우성민)](https://www.worldcubeassociation.org/persons/2022SEON01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 7 | 3.96 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 8 | 4.08 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 9 | 4.34 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
@@ -345,7 +345,7 @@
 | 10 | 7.72 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | Republic of Korea | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021) |
 | 11 | 7.94 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 12 | 8.36 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 13 | 8.70 | [Lee Jae-Hyuk (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | Republic of Korea | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |
+| 13 | 8.70 | [Jaehyuk Lee (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | Republic of Korea | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |
 | 14 | 8.74 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | Republic of Korea | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022) |
 | 15 | 9.01 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | Republic of Korea | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |
 | 16 | 9.26 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | Republic of Korea | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |

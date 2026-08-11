@@ -1,7 +1,7 @@
 ## World Championship single rankings
 
 *Note: Top 20 Korean competitors by event at World Championships.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -190,8 +190,8 @@
 | 5 | 25 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 6 | 28 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 7 | 29 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | 29 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 9 | 29 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 8 | 29 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 9 | 29 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 10 | 29 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 11 | 30 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 12 | 32 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
@@ -224,8 +224,8 @@
 | 14 | 10.31 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 15 | 10.58 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 16 | 10.65 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 17 | 10.66 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| 18 | 10.66 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| 17 | 10.66 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| 18 | 10.66 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 19 | 10.77 | [Min-Je Song (송민제)](https://www.worldcubeassociation.org/persons/2016SONG03) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 20 | 11.15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 

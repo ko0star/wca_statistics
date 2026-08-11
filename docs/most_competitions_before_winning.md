@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -34,22 +34,22 @@
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
 | 1 | 15 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | [Providence Fall 2019](https://www.worldcubeassociation.org/competitions/ProvidenceFall2019) |
-| 2 | 13 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Valencia Open 2014](https://www.worldcubeassociation.org/competitions/ValenciaOpen2014) |
-| 3 | 12 | [Habin Kim (김하빈)](https://www.worldcubeassociation.org/persons/2013KIMH01) | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017) |
-| 4 | 10 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024) |
-| 5 | 10 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Geffen Spring 2022](https://www.worldcubeassociation.org/competitions/GeffenSpring2022) |
-| 6 | 9 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) |
-| 7 | 9 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017) |
-| 8 | 8 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | [Daegu Autumn Open 2019](https://www.worldcubeassociation.org/competitions/DaeguAutumnOpen2019) |
-| 9 | 7 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) |
-| 10 | 5 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018) |
-| 11 | 4 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | [Seoul Winter 2019](https://www.worldcubeassociation.org/competitions/SeoulWinter2019) |
+| 2 | 13 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | [Uhseo Osong 2026](https://www.worldcubeassociation.org/competitions/UhseoOsong2026) |
+| 3 | 13 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Valencia Open 2014](https://www.worldcubeassociation.org/competitions/ValenciaOpen2014) |
+| 4 | 12 | [Habin Kim (김하빈)](https://www.worldcubeassociation.org/persons/2013KIMH01) | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017) |
+| 5 | 10 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024) |
+| 6 | 10 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Geffen Spring 2022](https://www.worldcubeassociation.org/competitions/GeffenSpring2022) |
+| 7 | 9 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) |
+| 8 | 9 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017) |
+| 9 | 8 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | [Daegu Autumn Open 2019](https://www.worldcubeassociation.org/competitions/DaeguAutumnOpen2019) |
+| 10 | 7 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) |
+| 11 | 5 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018) |
 | 12 | 4 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [UIUC Fall 2013](https://www.worldcubeassociation.org/competitions/UIUCFall2013) |
-| 13 | 4 | [Kim Jun-Beom](https://www.worldcubeassociation.org/persons/2007JUNB01) | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008) |
-| 14 | 4 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) | [JCC Q8speedcubing Nationals 2024](https://www.worldcubeassociation.org/competitions/JCCQ8speedcubingNationals2024) |
-| 15 | 3 | [Lee Kyeong-Sub (이경섭)](https://www.worldcubeassociation.org/persons/2010KYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
-| 16 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Korea 2009](https://www.worldcubeassociation.org/competitions/Korea2009) |
-| 17 | 1 | [Onyu Cho](https://www.worldcubeassociation.org/persons/2023CHOO02) | [ADA Fall 2023](https://www.worldcubeassociation.org/competitions/ADAFall2023) |
+| 13 | 4 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | [Seoul Winter 2019](https://www.worldcubeassociation.org/competitions/SeoulWinter2019) |
+| 14 | 4 | [Kim Jun-Beom](https://www.worldcubeassociation.org/persons/2007JUNB01) | [Seoul 2008](https://www.worldcubeassociation.org/competitions/Seoul2008) |
+| 15 | 4 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) | [JCC Q8speedcubing Nationals 2024](https://www.worldcubeassociation.org/competitions/JCCQ8speedcubingNationals2024) |
+| 16 | 3 | [Lee Kyeong-Sub (이경섭)](https://www.worldcubeassociation.org/persons/2010KYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
+| 17 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Korea 2009](https://www.worldcubeassociation.org/competitions/Korea2009) |
 | 18 | 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) |
 | 19 | 1 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) |
 | 20 | 1 | [Moon Bum-Seok](https://www.worldcubeassociation.org/persons/2008BUMS01) | [Cebu Open 2008](https://www.worldcubeassociation.org/competitions/CebuOpen2008) |
@@ -151,19 +151,20 @@
 | 1 | 14 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | [Visayas Championship 2023](https://www.worldcubeassociation.org/competitions/VisayasChampionship2023) |
 | 2 | 13 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [FMC Korea Spring 2024](https://www.worldcubeassociation.org/competitions/FMCKoreaSpring2024) |
 | 3 | 11 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024) |
-| 4 | 4 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) |
-| 5 | 4 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) |
-| 6 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017) |
-| 7 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) |
-| 8 | 1 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Grenoble Winter 2014](https://www.worldcubeassociation.org/competitions/GrenobleWinter2014) |
+| 4 | 10 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) | [Svealandsmästerskapet 2026](https://www.worldcubeassociation.org/competitions/Svealandsmasterskapet2026) |
+| 5 | 4 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) |
+| 6 | 4 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) |
+| 7 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017) |
+| 8 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025) |
 | 9 | 1 | [Lee Seung Ha (이승하)](https://www.worldcubeassociation.org/persons/2014HALE02) | [Singapore Open 2015](https://www.worldcubeassociation.org/competitions/SingaporeOpen2015) |
-| 10 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Irvine FMC A 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCA2022) |
-| 11 | 0 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
-| 12 | 0 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
-| 13 | 0 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | [Montreal 2013](https://www.worldcubeassociation.org/competitions/MontrealOpen2013) |
-| 14 | 0 | [ChoongMyoung Lee (이충명)](https://www.worldcubeassociation.org/persons/2012LEEC01) | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) |
-| 15 | 0 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) |
+| 10 | 1 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Grenoble Winter 2014](https://www.worldcubeassociation.org/competitions/GrenobleWinter2014) |
+| 11 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Irvine FMC A 2022](https://www.worldcubeassociation.org/competitions/IrvineFMCA2022) |
+| 12 | 0 | [ChoongMyoung Lee (이충명)](https://www.worldcubeassociation.org/persons/2012LEEC01) | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) |
+| 13 | 0 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) |
+| 14 | 0 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | [Montreal 2013](https://www.worldcubeassociation.org/competitions/MontrealOpen2013) |
+| 15 | 0 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
 | 16 | 0 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022) |
+| 17 | 0 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
 
 ### 3x3x3 One-Handed
 
@@ -289,21 +290,22 @@
 
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
-| 1 | 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [SoCal Silent Spectacular 2022](https://www.worldcubeassociation.org/competitions/SoCalSilentSpectacular2022) |
-| 2 | 9 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cannes Open 2015](https://www.worldcubeassociation.org/competitions/CannesOpen2015) |
-| 3 | 5 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021) |
-| 4 | 3 | [Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02) | [Busan Winter 2016](https://www.worldcubeassociation.org/competitions/BusanWinter2016) |
-| 5 | 3 | [Lee Jae-Hyuk (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) |
-| 6 | 2 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) |
-| 7 | 2 | [Park Sang-Min (박상민)](https://www.worldcubeassociation.org/persons/2008SANG04) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010) |
-| 8 | 2 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Valentine in Daegu 2016](https://www.worldcubeassociation.org/competitions/ValentineinDaegu2016) |
-| 9 | 1 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) |
-| 10 | 1 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017) |
-| 11 | 1 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017) |
-| 12 | 0 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007) |
-| 13 | 0 | [Moon Bum-Seok](https://www.worldcubeassociation.org/persons/2008BUMS01) | [Philippines Open 2008](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2008) |
-| 14 | 0 | [Shin Hyuk Kyo (신혁교)](https://www.worldcubeassociation.org/persons/2014SHIN01) | [Korea New Year 2014](https://www.worldcubeassociation.org/competitions/KoreaNewYear2014) |
-| 15 | 0 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) |
+| 1 | 18 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | [Uhseo Osong 2026](https://www.worldcubeassociation.org/competitions/UhseoOsong2026) |
+| 2 | 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [SoCal Silent Spectacular 2022](https://www.worldcubeassociation.org/competitions/SoCalSilentSpectacular2022) |
+| 3 | 9 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cannes Open 2015](https://www.worldcubeassociation.org/competitions/CannesOpen2015) |
+| 4 | 5 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021) |
+| 5 | 3 | [Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02) | [Busan Winter 2016](https://www.worldcubeassociation.org/competitions/BusanWinter2016) |
+| 6 | 3 | [Jaehyuk Lee (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) |
+| 7 | 2 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) |
+| 8 | 2 | [Park Sang-Min (박상민)](https://www.worldcubeassociation.org/persons/2008SANG04) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010) |
+| 9 | 2 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Valentine in Daegu 2016](https://www.worldcubeassociation.org/competitions/ValentineinDaegu2016) |
+| 10 | 1 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) |
+| 11 | 1 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017) |
+| 12 | 1 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017) |
+| 13 | 0 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007) |
+| 14 | 0 | [Moon Bum-Seok](https://www.worldcubeassociation.org/persons/2008BUMS01) | [Philippines Open 2008](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2008) |
+| 15 | 0 | [Shin Hyuk Kyo (신혁교)](https://www.worldcubeassociation.org/persons/2014SHIN01) | [Korea New Year 2014](https://www.worldcubeassociation.org/competitions/KoreaNewYear2014) |
+| 16 | 0 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) |
 
 ### 4x4x4 Blindfolded
 
@@ -377,8 +379,8 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 10 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | [Chiclayo Open 2012](https://www.worldcubeassociation.org/competitions/ChiclayoOpen2012) |
 | 2 | 4 | [Kang Jun Lee (이광준)](https://www.worldcubeassociation.org/persons/2010JUNL01) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011) |
-| 3 | 2 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012) |
-| 4 | 2 | [Jaemin Jeon (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) | [Magics Korea 2012](https://www.worldcubeassociation.org/competitions/MagicsKorea2012) |
+| 3 | 2 | [Jaemin Jeon (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) | [Magics Korea 2012](https://www.worldcubeassociation.org/competitions/MagicsKorea2012) |
+| 4 | 2 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012) |
 | 5 | 1 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) | [Melbourne Winter Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2010) |
 | 6 | 1 | [Lee Min Woo](https://www.worldcubeassociation.org/persons/2011WOOL01) | [Cubic City 2011](https://www.worldcubeassociation.org/competitions/CubicCity2011) |
 | 7 | 1 | [Kim Tae Hyung (김태형)](https://www.worldcubeassociation.org/persons/2010HYUN01) | [Guangzhou Winter 2011](https://www.worldcubeassociation.org/competitions/GuangzhouWinter2011) |

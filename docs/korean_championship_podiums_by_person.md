@@ -1,6 +1,6 @@
 ## Korean Championship podiums by person
 
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### By medals
@@ -120,15 +120,15 @@
 | 111 | [EunKyeol Seo (서은결)](https://www.worldcubeassociation.org/persons/2022SEOE01) | **0** | 0 | 1 | 1 |
 | 112 | [Ho Yeon Jang (장호연)](https://www.worldcubeassociation.org/persons/2014JANG01) | **0** | 0 | 1 | 1 |
 | 113 | [Hyunseong Hwang (황현성)](https://www.worldcubeassociation.org/persons/2024HWAN01) | **0** | 0 | 1 | 1 |
-| 114 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **0** | 0 | 1 | 1 |
-| 115 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | **0** | 0 | 1 | 1 |
-| 116 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | **0** | 0 | 1 | 1 |
-| 117 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) | **0** | 0 | 1 | 1 |
-| 118 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | **0** | 0 | 1 | 1 |
-| 119 | [Kim Min-Soo](https://www.worldcubeassociation.org/persons/2011MINS01) | **0** | 0 | 1 | 1 |
-| 120 | [Kim Min-Young](https://www.worldcubeassociation.org/persons/2011MINY01) | **0** | 0 | 1 | 1 |
-| 121 | [Lee HwanHee (이환희)](https://www.worldcubeassociation.org/persons/2022HWAN06) | **0** | 0 | 1 | 1 |
-| 122 | [Lee Jae-Hyuk (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | **0** | 0 | 1 | 1 |
+| 114 | [Jaehyuk Lee (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | **0** | 0 | 1 | 1 |
+| 115 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **0** | 0 | 1 | 1 |
+| 116 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | **0** | 0 | 1 | 1 |
+| 117 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | **0** | 0 | 1 | 1 |
+| 118 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) | **0** | 0 | 1 | 1 |
+| 119 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | **0** | 0 | 1 | 1 |
+| 120 | [Kim Min-Soo](https://www.worldcubeassociation.org/persons/2011MINS01) | **0** | 0 | 1 | 1 |
+| 121 | [Kim Min-Young](https://www.worldcubeassociation.org/persons/2011MINY01) | **0** | 0 | 1 | 1 |
+| 122 | [Lee HwanHee (이환희)](https://www.worldcubeassociation.org/persons/2022HWAN06) | **0** | 0 | 1 | 1 |
 | 123 | [Lee Jae-Seung](https://www.worldcubeassociation.org/persons/2008JAES01) | **0** | 0 | 1 | 1 |
 | 124 | [Lee Tae-Sub (이태섭)](https://www.worldcubeassociation.org/persons/2010TAES01) | **0** | 0 | 1 | 1 |
 | 125 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **0** | 0 | 1 | 1 |
@@ -255,15 +255,15 @@
 | 111 | [EunKyeol Seo (서은결)](https://www.worldcubeassociation.org/persons/2022SEOE01) | **0** | 0 | 1 | 1 |
 | 112 | [Ho Yeon Jang (장호연)](https://www.worldcubeassociation.org/persons/2014JANG01) | **0** | 0 | 1 | 1 |
 | 113 | [Hyunseong Hwang (황현성)](https://www.worldcubeassociation.org/persons/2024HWAN01) | **0** | 0 | 1 | 1 |
-| 114 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **0** | 0 | 1 | 1 |
-| 115 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | **0** | 0 | 1 | 1 |
-| 116 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | **0** | 0 | 1 | 1 |
-| 117 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) | **0** | 0 | 1 | 1 |
-| 118 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | **0** | 0 | 1 | 1 |
-| 119 | [Kim Min-Soo](https://www.worldcubeassociation.org/persons/2011MINS01) | **0** | 0 | 1 | 1 |
-| 120 | [Kim Min-Young](https://www.worldcubeassociation.org/persons/2011MINY01) | **0** | 0 | 1 | 1 |
-| 121 | [Lee HwanHee (이환희)](https://www.worldcubeassociation.org/persons/2022HWAN06) | **0** | 0 | 1 | 1 |
-| 122 | [Lee Jae-Hyuk (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | **0** | 0 | 1 | 1 |
+| 114 | [Jaehyuk Lee (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | **0** | 0 | 1 | 1 |
+| 115 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **0** | 0 | 1 | 1 |
+| 116 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | **0** | 0 | 1 | 1 |
+| 117 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | **0** | 0 | 1 | 1 |
+| 118 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) | **0** | 0 | 1 | 1 |
+| 119 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | **0** | 0 | 1 | 1 |
+| 120 | [Kim Min-Soo](https://www.worldcubeassociation.org/persons/2011MINS01) | **0** | 0 | 1 | 1 |
+| 121 | [Kim Min-Young](https://www.worldcubeassociation.org/persons/2011MINY01) | **0** | 0 | 1 | 1 |
+| 122 | [Lee HwanHee (이환희)](https://www.worldcubeassociation.org/persons/2022HWAN06) | **0** | 0 | 1 | 1 |
 | 123 | [Lee Jae-Seung](https://www.worldcubeassociation.org/persons/2008JAES01) | **0** | 0 | 1 | 1 |
 | 124 | [Lee Tae-Sub (이태섭)](https://www.worldcubeassociation.org/persons/2010TAES01) | **0** | 0 | 1 | 1 |
 | 125 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **0** | 0 | 1 | 1 |

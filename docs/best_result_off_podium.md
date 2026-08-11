@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -13,21 +13,21 @@
 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 5.63 | **6.69** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333_f) | 10 |
 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 5.75 | **6.74** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333_f) | 16 |
 | 5 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 6.33 | **6.85** | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all#e333_f) | 6 |
-| 6 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.44 | **6.96** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 4 |
-| 7 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.38 | **7.04** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 5 |
-| 8 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.45 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 4 |
-| 9 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 6.92 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 5 |
-| 10 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.74 | **7.18** | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/all#e333_f) | 4 |
-| 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.20 | **7.29** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e333_f) | 4 |
-| 12 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.48 | **7.35** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#e333_f) | 4 |
-| 13 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | 6.46 | **7.38** | [HIT - Kona 2025](https://www.worldcubeassociation.org/competitions/HawaiianIslandTourKona2025/results/all#e333_f) | 4 |
-| 14 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 5.89 | **7.43** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#e333_f) | 4 |
-| 15 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 5.82 | **7.46** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e333_f) | 5 |
-| 16 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.33 | **7.46** | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333_f) | 4 |
-| 17 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | 6.93 | **7.47** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 6 |
-| 18 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.35 | **7.48** | [Anyang Haseyo 2024](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2024/results/all#e333_f) | 4 |
-| 19 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 6.60 | **7.49** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e333_f) | 4 |
-| 20 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.64 | **7.49** | [Temecula Valley Spring 2024](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2024/results/all#e333_f) | 4 |
+| 6 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 6.56 | **6.87** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e333_f) | 4 |
+| 7 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.44 | **6.96** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 4 |
+| 8 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.38 | **7.04** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 5 |
+| 9 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.45 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 4 |
+| 10 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 6.92 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 5 |
+| 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.74 | **7.18** | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/all#e333_f) | 4 |
+| 12 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.20 | **7.29** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e333_f) | 4 |
+| 13 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.48 | **7.35** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#e333_f) | 4 |
+| 14 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | 6.57 | **7.35** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e333_f) | 5 |
+| 15 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | 6.46 | **7.38** | [HIT - Kona 2025](https://www.worldcubeassociation.org/competitions/HawaiianIslandTourKona2025/results/all#e333_f) | 4 |
+| 16 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 5.89 | **7.43** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#e333_f) | 4 |
+| 17 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 5.82 | **7.46** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e333_f) | 5 |
+| 18 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.33 | **7.46** | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333_f) | 4 |
+| 19 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | 6.93 | **7.47** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 6 |
+| 20 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 6.06 | **7.48** | [Shimonoseki Summer 2026](https://www.worldcubeassociation.org/competitions/ShimonosekiSummer2026/results/all#e333_f) | 4 |
 
 ### 2x2x2 Cube
 
@@ -42,17 +42,17 @@
 | 7 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.35 | **2.03** | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026/results/all#e222_f) | 4 |
 | 8 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | 1.61 | **2.03** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#e222_f) | 5 |
 | 9 | [Yeohun Chwa (좌여훈)](https://www.worldcubeassociation.org/persons/2022CHWA01) | 1.54 | **2.05** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 4 |
-| 10 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.80 | **2.07** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 5 |
-| 11 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 1.43 | **2.09** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 5 |
-| 12 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.44 | **2.09** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e222_f) | 4 |
-| 13 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.71 | **2.09** | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/all#e222_f) | 4 |
-| 14 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.70 | **2.12** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 6 |
-| 15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.78 | **2.14** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#e222_f) | 4 |
-| 16 | [DongKeon Lee (이동건)](https://www.worldcubeassociation.org/persons/2023LEED08) | 1.80 | **2.15** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#e222_f) | 6 |
-| 17 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.84 | **2.15** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 7 |
-| 18 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.61 | **2.18** | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026/results/all#e222_f) | 4 |
-| 19 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.87 | **2.19** | [Philippine Championship 2024](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2024/results/all#e222_f) | 4 |
-| 20 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.87 | **2.20** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e222_f) | 5 |
+| 10 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.49 | **2.06** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 4 |
+| 11 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.80 | **2.07** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 5 |
+| 12 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 1.43 | **2.09** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 5 |
+| 13 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.44 | **2.09** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e222_f) | 4 |
+| 14 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.71 | **2.09** | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/all#e222_f) | 4 |
+| 15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.33 | **2.10** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 5 |
+| 16 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.70 | **2.12** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 6 |
+| 17 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | 0.85 | **2.13** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 6 |
+| 18 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.78 | **2.14** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#e222_f) | 4 |
+| 19 | [DongKeon Lee (이동건)](https://www.worldcubeassociation.org/persons/2023LEED08) | 1.80 | **2.15** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#e222_f) | 6 |
+| 20 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.84 | **2.15** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 7 |
 
 ### 4x4x4 Cube
 
@@ -147,12 +147,12 @@
 | 12 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 2:11.40 | **2:18.13** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 4 |
 | 13 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:11.91 | **2:18.66** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e777_f) | 4 |
 | 14 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | 2:10.29 | **2:18.74** | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025/results/all#e777_f) | 5 |
-| 15 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 2:10.92 | **2:19.75** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 14 |
-| 16 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:11.15 | **2:19.87** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e777_f) | 4 |
-| 17 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:16.05 | **2:20.97** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 5 |
-| 18 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:17.35 | **2:21.56** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#e777_f) | 4 |
-| 19 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | 2:19.70 | **2:21.95** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 6 |
-| 20 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:06.13 | **2:22.35** | [Taiwan Championship 2024](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2024/results/all#e777_f) | 8 |
+| 15 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:13.77 | **2:19.43** | [Uhseo Osong 2026](https://www.worldcubeassociation.org/competitions/UhseoOsong2026/results/all#e777_f) | 4 |
+| 16 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 2:10.92 | **2:19.75** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e777_f) | 14 |
+| 17 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:11.15 | **2:19.87** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e777_f) | 4 |
+| 18 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:16.05 | **2:20.97** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 5 |
+| 19 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:17.35 | **2:21.56** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#e777_f) | 4 |
+| 20 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | 2:19.70 | **2:21.95** | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024/results/all#e777_f) | 6 |
 
 ### 3x3x3 Blindfolded
 
@@ -173,36 +173,36 @@
 | 13 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **28.42** | DNF | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026/results/all#e333bf_f) | 6 |
 | 14 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **28.61** | 34.42 | [Taiwan Championship 2025](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2025/results/all#e333bf_f) | 7 |
 | 15 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **28.79** | DNF | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333bf_f) | 7 |
-| 16 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **29.02** | 36.55 | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026/results/all#e333bf_f) | 4 |
-| 17 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **29.07** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e333bf_f) | 5 |
-| 18 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **29.49** | 36.47 | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 7 |
-| 19 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **29.62** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e333bf_f) | 6 |
-| 20 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **30.15** | 43.04 | [Taiwan Championship 2019](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2019/results/all#e333bf_f) | 4 |
+| 16 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **28.83** | DNF | [Taipei PBQ Open 2026](https://www.worldcubeassociation.org/competitions/TaipeiPBQOpen2026/results/all#e333bf_f) | 4 |
+| 17 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **29.02** | 36.55 | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026/results/all#e333bf_f) | 4 |
+| 18 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **29.07** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e333bf_f) | 5 |
+| 19 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **29.49** | 36.47 | [Uhseo Osong 2025](https://www.worldcubeassociation.org/competitions/UhseoOsong2025/results/all#e333bf_f) | 7 |
+| 20 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **29.62** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e333bf_f) | 6 |
 
 ### 3x3x3 Fewest Moves
 
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
-| 1 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 23 | **23.33** | [FMC Asia 2025](https://www.worldcubeassociation.org/competitions/FMCAsia2025/results/all#e333fm_f) | 4 |
-| 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 23 | **23.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 5 |
-| 3 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 23 | **23.67** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 4 |
-| 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 21 | **24.00** | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333fm_f) | 5 |
-| 5 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 21 | **24.33** | [FMC Busan 2025](https://www.worldcubeassociation.org/competitions/FMCBusan2025/results/all#e333fm_f) | 4 |
-| 6 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 21 | **24.33** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 5 |
-| 7 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 23 | **24.67** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 7 |
-| 8 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 23 | **25.00** | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e333fm_f) | 4 |
-| 9 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
-| 10 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
-| 11 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
-| 12 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 23 | **25.67** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e333fm_f) | 4 |
-| 13 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 24 | **25.67** | [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023/results/all#e333fm_f) | 4 |
-| 14 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 22 | **26.00** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 8 |
-| 15 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 23 | **26.00** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333fm_f) | 8 |
-| 16 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **26.00** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e333fm_f) | 5 |
-| 17 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 23 | **26.33** | [FMC Asia 2025](https://www.worldcubeassociation.org/competitions/FMCAsia2025/results/all#e333fm_f) | 21 |
-| 18 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 22 | **26.67** | [FMC Asia 2025](https://www.worldcubeassociation.org/competitions/FMCAsia2025/results/all#e333fm_f) | 22 |
-| 19 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **27.00** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333fm_f) | 11 |
-| 20 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 22 | **27.33** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e333fm_f) | 6 |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 19 | **21.00** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026/results/all#e333fm_f) | 15 |
+| 2 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 22 | **23.33** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026/results/all#e333fm_f) | 47 |
+| 3 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 23 | **23.33** | [FMC Asia 2025](https://www.worldcubeassociation.org/competitions/FMCAsia2025/results/all#e333fm_f) | 4 |
+| 4 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 23 | **23.33** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e333fm_f) | 5 |
+| 5 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 23 | **23.67** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 4 |
+| 6 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 21 | **24.00** | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333fm_f) | 5 |
+| 7 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 21 | **24.33** | [FMC Busan 2025](https://www.worldcubeassociation.org/competitions/FMCBusan2025/results/all#e333fm_f) | 4 |
+| 8 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 21 | **24.33** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 5 |
+| 9 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 23 | **24.67** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 7 |
+| 10 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 23 | **25.00** | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e333fm_f) | 4 |
+| 11 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **25.00** | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e333fm_f) | 4 |
+| 12 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
+| 13 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
+| 14 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | 24 | **25.33** | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025/results/all#e333fm_f) | 6 |
+| 15 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 23 | **25.67** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e333fm_f) | 4 |
+| 16 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 24 | **25.67** | [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023/results/all#e333fm_f) | 4 |
+| 17 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 22 | **26.00** | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024/results/all#e333fm_f) | 8 |
+| 18 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | 23 | **26.00** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333fm_f) | 8 |
+| 19 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | 25 | **26.00** | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e333fm_f) | 5 |
+| 20 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 23 | **26.33** | [FMC Asia 2025](https://www.worldcubeassociation.org/competitions/FMCAsia2025/results/all#e333fm_f) | 21 |
 
 ### 3x3x3 One-Handed
 
@@ -247,12 +247,12 @@
 | 12 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 39.32 | **41.89** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#eminx_f) | 5 |
 | 13 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 37.70 | **42.06** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#eminx_f) | 4 |
 | 14 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 39.08 | **42.29** | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025/results/all#eminx_f) | 4 |
-| 15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 39.56 | **42.75** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#eminx_f) | 4 |
-| 16 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 38.37 | **43.19** | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/all#eminx_f) | 4 |
-| 17 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 39.31 | **43.31** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#eminx_f) | 7 |
-| 18 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 38.58 | **43.44** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#eminx_f) | 5 |
-| 19 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 38.33 | **43.52** | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022/results/all#eminx_f) | 5 |
-| 20 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | 41.60 | **43.92** | [Please Minx Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseMinxKorea2025/results/all#eminx_f) | 6 |
+| 15 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 35.83 | **42.48** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#eminx_f) | 4 |
+| 16 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 40.32 | **42.50** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#eminx_f) | 5 |
+| 17 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 39.56 | **42.75** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#eminx_f) | 4 |
+| 18 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 36.28 | **42.78** | [Taipei Cube Open 2026](https://www.worldcubeassociation.org/competitions/TaipeiCubeOpen2026/results/all#eminx_f) | 4 |
+| 19 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 38.37 | **43.19** | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/all#eminx_f) | 4 |
+| 20 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 39.31 | **43.31** | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#eminx_f) | 7 |
 
 ### Pyraminx
 
@@ -299,10 +299,10 @@
 | 14 | [Yoon Beom Kim (김윤범)](https://www.worldcubeassociation.org/persons/2024BEOM01) | 4.64 | **5.43** | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026/results/all#eclock_c) | 4 |
 | 15 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 3.48 | **5.46** | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026/results/all#eclock_c) | 5 |
 | 16 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) | 3.58 | **5.51** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#eclock_f) | 6 |
-| 17 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 4.64 | **5.64** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#eclock_f) | 4 |
-| 18 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 3.83 | **5.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 9 |
-| 19 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 5.32 | **5.89** | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026/results/all#eclock_c) | 5 |
-| 20 | [Sangyoon Park (박상윤)](https://www.worldcubeassociation.org/persons/2023PARK10) | 4.95 | **6.15** | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026/results/all#eclock_c) | 6 |
+| 17 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) | 4.32 | **5.63** | [Gniezno Open 2026](https://www.worldcubeassociation.org/competitions/GnieznoOpen2026/results/all#eclock_c) | 5 |
+| 18 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 4.64 | **5.64** | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/all#eclock_f) | 4 |
+| 19 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 3.83 | **5.74** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#eclock_f) | 9 |
+| 20 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 5.32 | **5.89** | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026/results/all#eclock_c) | 5 |
 
 ### Skewb
 
@@ -359,25 +359,25 @@
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **3:23.26** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e444bf_f) | 4 |
-| 2 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **3:28.45** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e444bf_f) | 4 |
-| 3 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **3:38.89** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 11 |
-| 4 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **3:41.10** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 12 |
-| 5 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | **3:48.92** | DNF | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e444bf_f) | 4 |
-| 6 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **4:01.48** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e444bf_f) | 5 |
-| 7 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **4:26.35** | 5:10.12 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022/results/all#e444bf_f) | 4 |
-| 8 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **4:31.10** | DNF | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#e444bf_f) | 6 |
-| 9 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **4:43.18** | DNF | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/all#e444bf_f) | 4 |
-| 10 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **4:43.53** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e444bf_f) | 4 |
-| 11 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **5:00.13** | DNF | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e444bf_f) | 5 |
-| 12 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) | **5:04.73** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 23 |
-| 13 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **5:08.86** | DNF | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e444bf_f) | 4 |
-| 14 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **5:09.18** | DNF | [UCLA PBQ 2023](https://www.worldcubeassociation.org/competitions/UCLAPBQ2023/results/all#e444bf_f) | 4 |
-| 15 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **5:32.38** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e444bf_f) | 5 |
-| 16 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **5:49.69** | 6:10.62 | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e444bf_f) | 4 |
-| 17 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **5:52.19** | DNF | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022/results/all#e444bf_f) | 4 |
-| 18 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **5:53.95** | 6:10.94 | [Kidderminster - BBO 2022](https://www.worldcubeassociation.org/competitions/KidderminsterBlindOff2022/results/all#e444bf_f) | 7 |
-| 19 | [Dong Hyun Park (박동현)](https://www.worldcubeassociation.org/persons/2024PARK30) | **5:57.36** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e444bf_f) | 5 |
-| 20 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **6:00.16** | DNF | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023/results/all#e444bf_f) | 4 |
+| 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **3:25.02** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e444bf_f) | 4 |
+| 3 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **3:28.45** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e444bf_f) | 4 |
+| 4 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **3:38.89** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 11 |
+| 5 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **3:39.85** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e444bf_f) | 5 |
+| 6 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **3:41.10** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 12 |
+| 7 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | **3:48.92** | DNF | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e444bf_f) | 4 |
+| 8 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **4:01.48** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e444bf_f) | 5 |
+| 9 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **4:26.35** | 5:10.12 | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022/results/all#e444bf_f) | 4 |
+| 10 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **4:31.10** | DNF | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/all#e444bf_f) | 6 |
+| 11 | [Yeonghwan Heo](https://www.worldcubeassociation.org/persons/2026HEOY01) | **4:38.22** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e444bf_f) | 6 |
+| 12 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **4:43.18** | DNF | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/all#e444bf_f) | 4 |
+| 13 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **4:43.53** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e444bf_f) | 4 |
+| 14 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **5:00.13** | DNF | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024/results/all#e444bf_f) | 5 |
+| 15 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) | **5:04.73** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e444bf_f) | 23 |
+| 16 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **5:08.86** | DNF | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e444bf_f) | 4 |
+| 17 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **5:09.18** | DNF | [UCLA PBQ 2023](https://www.worldcubeassociation.org/competitions/UCLAPBQ2023/results/all#e444bf_f) | 4 |
+| 18 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **5:32.38** | DNF | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/all#e444bf_f) | 5 |
+| 19 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **5:49.69** | 6:10.62 | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e444bf_f) | 4 |
+| 20 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **5:52.19** | DNF | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022/results/all#e444bf_f) | 4 |
 
 ### 5x5x5 Blindfolded
 
@@ -386,23 +386,23 @@
 | 1 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **7:59.06** | DNF | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e555bf_f) | 13 |
 | 2 | [Won Jae Choi (최원재)](https://www.worldcubeassociation.org/persons/2024CHOI04) | **11:31.00** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e555bf_f) | 5 |
 | 3 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **12:01.00** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e555bf_f) | 5 |
-| 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **12:39.00** | DNF | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e555bf_f) | 4 |
-| 5 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **14:08.00** | DNF | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e555bf_f) | 4 |
-| 6 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **15:35.00** | DNF | [Do You Remember San Diego 2024](https://www.worldcubeassociation.org/competitions/DoYouRememberSanDiego2024/results/all#e555bf_f) | 4 |
-| 7 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16:32.00** | DNF | [5BLD Madness Seongnam 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeongnam2024/results/all#e555bf_f) | 4 |
-| 8 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16:51.00** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e555bf_f) | 6 |
-| 9 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **17:02.00** | DNF | [5BLD Madness Seongnam 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeongnam2024/results/all#e555bf_f) | 5 |
-| 10 | [Dong Hyun Park (박동현)](https://www.worldcubeassociation.org/persons/2024PARK30) | **17:12.00** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e555bf_f) | 7 |
-| 11 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **18:05.00** | DNF | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e555bf_f) | 4 |
-| 12 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **18:52.00** | DNF | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e555bf_f) | 13 |
-| 13 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **20:02.00** | DNF | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e555bf_f) | 4 |
-| 14 | [Song Seunggi (송승기)](https://www.worldcubeassociation.org/persons/2025SEUN02) | **20:55.00** | DNF | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e555bf_f) | 5 |
-| 15 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **20:58.00** | DNF | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024/results/all#e555bf_f) | 4 |
-| 16 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **21:16.00** | DNF | [Georgia Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaQuietChampionship2026/results/all#e555bf_f) | 4 |
-| 17 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **21:53.00** | DNF | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022/results/all#e555bf_f) | 4 |
-| 18 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **22:18.00** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e555bf_f) | 7 |
-| 19 | [Lee Seung Ha (이승하)](https://www.worldcubeassociation.org/persons/2014HALE02) | **23:01.00** | DNF | [Singapore Championship 2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018/results/all#e555bf_f) | 4 |
-| 20 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **23:07.00** | DNF | [5BLD Madness Suwon 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSuwon2024/results/all#e555bf_f) | 4 |
+| 4 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | **12:23.00** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e555bf_f) | 4 |
+| 5 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **12:39.00** | DNF | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e555bf_f) | 4 |
+| 6 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **14:08.00** | DNF | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e555bf_f) | 4 |
+| 7 | [Kim Eden (김이든)](https://www.worldcubeassociation.org/persons/2024EDEN01) | **15:16.00** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e555bf_f) | 5 |
+| 8 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **15:35.00** | DNF | [Do You Remember San Diego 2024](https://www.worldcubeassociation.org/competitions/DoYouRememberSanDiego2024/results/all#e555bf_f) | 4 |
+| 9 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **16:08.00** | DNF | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e555bf_f) | 6 |
+| 10 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16:32.00** | DNF | [5BLD Madness Seongnam 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeongnam2024/results/all#e555bf_f) | 4 |
+| 11 | [Kim Dongyi (김동이)](https://www.worldcubeassociation.org/persons/2026DONG04) | **16:45.00** | 18:14.00 | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e555bf_f) | 7 |
+| 12 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16:51.00** | DNF | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e555bf_f) | 6 |
+| 13 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | **17:02.00** | DNF | [5BLD Madness Seongnam 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeongnam2024/results/all#e555bf_f) | 5 |
+| 14 | [Dong Hyun Park (박동현)](https://www.worldcubeassociation.org/persons/2024PARK30) | **17:12.00** | DNF | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e555bf_f) | 7 |
+| 15 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **18:05.00** | DNF | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e555bf_f) | 4 |
+| 16 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **18:52.00** | DNF | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e555bf_f) | 13 |
+| 17 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **20:02.00** | DNF | [Taiwan Championship 2023](https://www.worldcubeassociation.org/competitions/TaiwanChampionship2023/results/all#e555bf_f) | 4 |
+| 18 | [Song Seunggi (송승기)](https://www.worldcubeassociation.org/persons/2025SEUN02) | **20:55.00** | DNF | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e555bf_f) | 5 |
+| 19 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **20:58.00** | DNF | [5BLD Madness Seoul 2024](https://www.worldcubeassociation.org/competitions/5BLDMadnessSeoul2024/results/all#e555bf_f) | 4 |
+| 20 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **21:16.00** | DNF | [Georgia Quiet Championship 2026](https://www.worldcubeassociation.org/competitions/GeorgiaQuietChampionship2026/results/all#e555bf_f) | 4 |
 
 ### 3x3x3 Multi-Blind
 
@@ -411,20 +411,20 @@
 | 1 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **29/37 59:30** |  | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e333mbf_f) | 4 |
 | 2 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **23/26 56:31** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 4 |
 | 3 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **20/22 57:41** |  | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/all#e333mbf_f) | 4 |
-| 4 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **17/18 58:34** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 5 |
-| 5 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **25/34 1:00:00** |  | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333mbf_c) | 15 |
-| 6 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26/36 1:00:00** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333mbf_f) | 27 |
-| 7 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **17/19 56:47** |  | [Kansai Odd and BLD 2025](https://www.worldcubeassociation.org/competitions/KansaiOddandBLD2025/results/all#e333mbf_f) | 6 |
-| 8 | [Eum Paul (음바울)](https://www.worldcubeassociation.org/persons/2015PAUL02) | **17/19 57:57** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 4 |
-| 9 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **17/19 58:35** |  | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333mbf_f) | 4 |
-| 10 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **17/19 58:41** |  | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333mbf_f) | 4 |
-| 11 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **15/16 50:40** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 5 |
-| 12 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **17/20 55:03** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 7 |
-| 13 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **25/36 58:19** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 6 |
-| 14 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **23/32 1:00:00** |  | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333mbf_c) | 18 |
-| 15 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16/19 57:57** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 8 |
-| 16 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **13/14 55:51** |  | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333mbf_f) | 6 |
-| 17 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **15/18 59:30** |  | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333mbf_f) | 5 |
-| 18 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26/40 1:00:02** |  | [Please Be Quiet Taiwan 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietTaiwan2025/results/all#e333mbf_f) | 4 |
-| 19 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **12/13 59:27** |  | [Southeast Championship 2025](https://www.worldcubeassociation.org/competitions/SoutheastChampionship2025/results/all#e333mbf_f) | 5 |
-| 20 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **10/10 51:37** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 7 |
+| 4 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **21/25 55:43** |  | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e333mbf_f) | 4 |
+| 5 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **17/18 58:34** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 5 |
+| 6 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **25/34 1:00:00** |  | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333mbf_c) | 15 |
+| 7 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26/36 1:00:00** |  | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/all#e333mbf_f) | 27 |
+| 8 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **17/19 56:47** |  | [Kansai Odd and BLD 2025](https://www.worldcubeassociation.org/competitions/KansaiOddandBLD2025/results/all#e333mbf_f) | 6 |
+| 9 | [Eum Paul (음바울)](https://www.worldcubeassociation.org/persons/2015PAUL02) | **17/19 57:57** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 4 |
+| 10 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **17/19 58:35** |  | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333mbf_f) | 4 |
+| 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **17/19 58:41** |  | [Western Championship 2023](https://www.worldcubeassociation.org/competitions/CubingUSAWesternChampionship2023/results/all#e333mbf_f) | 4 |
+| 12 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **15/16 50:40** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 5 |
+| 13 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | **17/20 55:03** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 7 |
+| 14 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | **25/36 58:19** |  | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/all#e333mbf_f) | 6 |
+| 15 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **23/32 1:00:00** |  | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e333mbf_c) | 18 |
+| 16 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **16/19 57:57** |  | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e333mbf_f) | 8 |
+| 17 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) | **13/14 55:51** |  | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/all#e333mbf_f) | 6 |
+| 18 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **15/18 59:30** |  | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/all#e333mbf_f) | 5 |
+| 19 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | **26/40 1:00:02** |  | [Please Be Quiet Taiwan 2025](https://www.worldcubeassociation.org/competitions/PleaseBeQuietTaiwan2025/results/all#e333mbf_f) | 4 |
+| 20 | [Yeonghwan Heo](https://www.worldcubeassociation.org/persons/2026HEOY01) | **12/13 51:01** |  | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/all#e333mbf_f) | 5 |

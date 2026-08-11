@@ -1,7 +1,7 @@
 ## World Championship average rankings
 
 *Note: Top 20 Korean competitors by event at World Championships.*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### Rubik's Cube
@@ -15,8 +15,8 @@
 | 5 | 6.43 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 6 | 6.46 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 7 | 6.50 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 8 | 6.66 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
-| 9 | 6.66 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| 8 | 6.66 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
+| 9 | 6.66 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025) |
 | 10 | 6.68 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 11 | 6.76 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 12 | 6.85 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |

@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 13 June 2026*
+*Updated on 10 August 2026*
 
 
 ### World
@@ -35,28 +35,29 @@
 | 10 | 2 | [Kim Hyun-Gyum](https://www.worldcubeassociation.org/persons/2007HYUN01) | 2x2x2 Cube, Pyraminx |
 | 11 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | 3x3x3 One-Handed |
 | 12 | 1 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Pyraminx |
-| 13 | 1 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | Clock |
-| 14 | 1 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | Square-1 |
-| 15 | 1 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) | Pyraminx |
-| 16 | 1 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) | Skewb |
-| 17 | 1 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | Square-1 |
-| 18 | 1 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) | Square-1 |
-| 19 | 1 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) | 3x3x3 With Feet |
-| 20 | 1 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) | 3x3x3 With Feet |
-| 21 | 1 | [Lee Jung-Hyun](https://www.worldcubeassociation.org/persons/2008JUNG01) | 3x3x3 With Feet |
-| 22 | 1 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | 3x3x3 With Feet |
-| 23 | 1 | [Cho Won-Bang](https://www.worldcubeassociation.org/persons/2006WONB01) | Master Magic |
-| 24 | 1 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | Skewb |
-| 25 | 1 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | 3x3x3 With Feet |
-| 26 | 1 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | Megaminx |
-| 27 | 1 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | 4x4x4 Cube |
-| 28 | 1 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | Square-1 |
-| 29 | 1 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) | 2x2x2 Cube |
-| 30 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 3x3x3 Fewest Moves |
-| 31 | 1 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) | 3x3x3 With Feet |
-| 32 | 1 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) | 2x2x2 Cube |
-| 33 | 1 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | Megaminx |
-| 34 | 1 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) | 3x3x3 Cube |
+| 13 | 1 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 3x3x3 Fewest Moves |
+| 14 | 1 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) | Clock |
+| 15 | 1 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | Square-1 |
+| 16 | 1 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) | Pyraminx |
+| 17 | 1 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) | Skewb |
+| 18 | 1 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) | Square-1 |
+| 19 | 1 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) | Square-1 |
+| 20 | 1 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) | 3x3x3 With Feet |
+| 21 | 1 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) | 3x3x3 With Feet |
+| 22 | 1 | [Lee Jung-Hyun](https://www.worldcubeassociation.org/persons/2008JUNG01) | 3x3x3 With Feet |
+| 23 | 1 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) | 3x3x3 With Feet |
+| 24 | 1 | [Cho Won-Bang](https://www.worldcubeassociation.org/persons/2006WONB01) | Master Magic |
+| 25 | 1 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | Skewb |
+| 26 | 1 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | 3x3x3 With Feet |
+| 27 | 1 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | Megaminx |
+| 28 | 1 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | 4x4x4 Cube |
+| 29 | 1 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | Square-1 |
+| 30 | 1 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) | 2x2x2 Cube |
+| 31 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 3x3x3 Fewest Moves |
+| 32 | 1 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) | 3x3x3 With Feet |
+| 33 | 1 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) | 2x2x2 Cube |
+| 34 | 1 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | Megaminx |
+| 35 | 1 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) | 3x3x3 Cube |
 
 ### National
 
