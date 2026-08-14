@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 
 ### Rubik's Cube
@@ -263,8 +263,8 @@
 | 3 | 3.72 | [Gyure Cho](https://www.worldcubeassociation.org/persons/2025CHOG01) |
 | 4 | 3.85 | [Seungwoo Nam](https://www.worldcubeassociation.org/persons/2014NAMS01) |
 | 5 | 3.87 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) |
-| 6 | 4.21 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) |
-| 7 | 4.21 | [Jiwon Mun (문지원)](https://www.worldcubeassociation.org/persons/2016MUNJ03) |
+| 6 | 4.21 | [Jiwon Mun (문지원)](https://www.worldcubeassociation.org/persons/2016MUNJ03) |
+| 7 | 4.21 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) |
 | 8 | 4.35 | [JiYul Yeom (염지율)](https://www.worldcubeassociation.org/persons/2023YEOM01) |
 | 9 | 4.39 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
 | 10 | 4.45 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) |
@@ -277,7 +277,7 @@
 | 17 | 4.89 | [Chun Seung Jae (천승재)](https://www.worldcubeassociation.org/persons/2022JAEC01) |
 | 18 | 5.09 | [Mun Jung Hwan](https://www.worldcubeassociation.org/persons/2022HWAN07) |
 | 19 | 5.20 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) |
-| 20 | 5.21 | [In Guk Lee](https://www.worldcubeassociation.org/persons/2015LEEI01) |
+| 20 | 5.21 | [Choi Ha-Ram](https://www.worldcubeassociation.org/persons/2008CHOI03) |
 
 ### Rubik's Clock
 

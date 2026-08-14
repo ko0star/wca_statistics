@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 
 ### Rubik's Cube
@@ -58,21 +58,22 @@
 
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
-| 1 | 15 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019) |
-| 2 | 14 | [Ha Neul (하늘)](https://www.worldcubeassociation.org/persons/2024HANE01) | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026) |
-| 3 | 12 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Korean Spring 2022](https://www.worldcubeassociation.org/competitions/KoreanSpring2022) |
-| 4 | 10 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [Seoul Winter 2019](https://www.worldcubeassociation.org/competitions/SeoulWinter2019) |
-| 5 | 6 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019) |
-| 6 | 5 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008) |
-| 7 | 4 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
-| 8 | 4 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [UIUC Fall 2013](https://www.worldcubeassociation.org/competitions/UIUCFall2013) |
-| 9 | 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [Cubedu Korea 2018](https://www.worldcubeassociation.org/competitions/CubeduKorea2018) |
-| 10 | 1 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) |
-| 11 | 1 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) |
-| 12 | 1 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012) |
-| 13 | 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) |
-| 14 | 0 | [Yoon Seon-Gyu](https://www.worldcubeassociation.org/persons/2006SEON01) | [Korea 2006](https://www.worldcubeassociation.org/competitions/Korea2006) |
-| 15 | 0 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) |
+| 1 | 48 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Charlottetown Summer 2026](https://www.worldcubeassociation.org/competitions/CharlottetownSummer2026) |
+| 2 | 15 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | [Brooklyn Fall 2019](https://www.worldcubeassociation.org/competitions/BrooklynFall2019) |
+| 3 | 14 | [Ha Neul (하늘)](https://www.worldcubeassociation.org/persons/2024HANE01) | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026) |
+| 4 | 12 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Korean Spring 2022](https://www.worldcubeassociation.org/competitions/KoreanSpring2022) |
+| 5 | 10 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | [Seoul Winter 2019](https://www.worldcubeassociation.org/competitions/SeoulWinter2019) |
+| 6 | 6 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019) |
+| 7 | 5 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008) |
+| 8 | 4 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
+| 9 | 4 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [UIUC Fall 2013](https://www.worldcubeassociation.org/competitions/UIUCFall2013) |
+| 10 | 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [Cubedu Korea 2018](https://www.worldcubeassociation.org/competitions/CubeduKorea2018) |
+| 11 | 1 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008) |
+| 12 | 1 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Suwon 2008](https://www.worldcubeassociation.org/competitions/Suwon2008) |
+| 13 | 1 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012) |
+| 14 | 1 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) |
+| 15 | 0 | [Yoon Seon-Gyu](https://www.worldcubeassociation.org/persons/2006SEON01) | [Korea 2006](https://www.worldcubeassociation.org/competitions/Korea2006) |
+| 16 | 0 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) |
 
 ### 5x5x5 Cube
 

@@ -1,6 +1,6 @@
 ## Most competitions
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -11,7 +11,7 @@
 | 5 | 110 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 6 | 102 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 7 | 100 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
-| 8 | 94 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
+| 8 | 95 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
 | 9 | 89 | [Hyunjo Kim (김현조)](https://www.worldcubeassociation.org/persons/2015KIMH04) |
 | 10 | 87 | [Keunsoo Heo (허근수)](https://www.worldcubeassociation.org/persons/2014HEOG01) |
 | 11 | 86 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
@@ -30,7 +30,7 @@
 | 24 | 53 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
 | 25 | 53 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) |
 | 26 | 52 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
-| 27 | 50 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
+| 27 | 51 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
 | 28 | 49 | [Hyeok Yang (양혁)](https://www.worldcubeassociation.org/persons/2017YANG75) |
 | 29 | 48 | [Jerry Hwang (황동욱)](https://www.worldcubeassociation.org/persons/2017HWAN04) |
 | 30 | 48 | [Oh Chang-Min (오창민)](https://www.worldcubeassociation.org/persons/2018CHAN39) |

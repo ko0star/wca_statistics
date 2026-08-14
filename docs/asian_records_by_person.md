@@ -1,6 +1,6 @@
 ## Asian records count by person
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | AsRs | Person |
 | ---: | ---: | :--- |
@@ -20,22 +20,21 @@
 | 14 | 2 | [Cho Won-Bang](https://www.worldcubeassociation.org/persons/2006WONB01) |
 | 15 | 2 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) |
 | 16 | 2 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) |
-| 17 | 2 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
-| 18 | 2 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 19 | 2 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
-| 20 | 2 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 21 | 2 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) |
-| 22 | 2 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) |
-| 23 | 2 | [Kim Hyun-Gyum](https://www.worldcubeassociation.org/persons/2007HYUN01) |
-| 24 | 2 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) |
-| 25 | 2 | [Lee Jung-Hyun](https://www.worldcubeassociation.org/persons/2008JUNG01) |
-| 26 | 2 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
-| 27 | 1 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
-| 28 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
-| 29 | 1 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) |
-| 30 | 1 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) |
-| 31 | 1 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) |
-| 32 | 1 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) |
-| 33 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
-| 34 | 1 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) |
-| 35 | 1 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) |
+| 17 | 2 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
+| 18 | 2 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
+| 19 | 2 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 20 | 2 | [Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02) |
+| 21 | 2 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) |
+| 22 | 2 | [Kim Hyun-Gyum](https://www.worldcubeassociation.org/persons/2007HYUN01) |
+| 23 | 2 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) |
+| 24 | 2 | [Lee Jung-Hyun](https://www.worldcubeassociation.org/persons/2008JUNG01) |
+| 25 | 2 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
+| 26 | 1 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
+| 27 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
+| 28 | 1 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) |
+| 29 | 1 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) |
+| 30 | 1 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) |
+| 31 | 1 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) |
+| 32 | 1 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
+| 33 | 1 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) |
+| 34 | 1 | [Tae-Yeong Baek (백태영)](https://www.worldcubeassociation.org/persons/2006TAEY01) |

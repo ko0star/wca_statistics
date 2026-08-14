@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -13,7 +13,7 @@
 | 6 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | 149 039 km |
 | 7 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | 139 825 km |
 | 8 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 106 462 km |
-| 9 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 98 145 km |
+| 9 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 99 348 km |
 | 10 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | 90 208 km |
 | 11 | [Kim Dong-Young (김동영)](https://www.worldcubeassociation.org/persons/2008DONG02) | 84 711 km |
 | 12 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 80 045 km |
@@ -51,9 +51,9 @@
 | 44 | [Lee SooHyeon (이수현)](https://www.worldcubeassociation.org/persons/2023SOOH02) | 32 719 km |
 | 45 | [Jiwu Lee (이지우)](https://www.worldcubeassociation.org/persons/2022LEEJ34) | 32 432 km |
 | 46 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2022KIMS12) | 30 883 km |
-| 47 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 30 450 km |
-| 48 | [AhYoung Kim (김아영)](https://www.worldcubeassociation.org/persons/2014KIMA01) | 29 875 km |
-| 49 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 29 845 km |
+| 47 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 30 486 km |
+| 48 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 30 450 km |
+| 49 | [AhYoung Kim (김아영)](https://www.worldcubeassociation.org/persons/2014KIMA01) | 29 875 km |
 | 50 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | 28 424 km |
 | 51 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 27 713 km |
 | 52 | [Kim Simin](https://www.worldcubeassociation.org/persons/2017SIMI02) | 26 618 km |
@@ -220,8 +220,8 @@
 | 213 | [Kyungwook Cho](https://www.worldcubeassociation.org/persons/2023CHOK05) | 7 541 km |
 | 214 | [Inyoung Oh (오인영)](https://www.worldcubeassociation.org/persons/2022OHIN01) | 7 540 km |
 | 215 | [Sihyeon Park](https://www.worldcubeassociation.org/persons/2024PARK77) | 7 535 km |
-| 216 | [JunHyeong Choi (최준형)](https://www.worldcubeassociation.org/persons/2022CHOI16) | 7 506 km |
-| 217 | [Jae Hyeong Choi (최재형)](https://www.worldcubeassociation.org/persons/2022CHOI15) | 7 506 km |
+| 216 | [Jae Hyeong Choi (최재형)](https://www.worldcubeassociation.org/persons/2022CHOI15) | 7 506 km |
+| 217 | [JunHyeong Choi (최준형)](https://www.worldcubeassociation.org/persons/2022CHOI16) | 7 506 km |
 | 218 | [Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01) | 7 453 km |
 | 219 | [Hyeonggyu Lee](https://www.worldcubeassociation.org/persons/2021LEEH01) | 7 356 km |
 | 220 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 7 323 km |
@@ -300,39 +300,39 @@
 | 293 | [Chae Jiseok (채지석)](https://www.worldcubeassociation.org/persons/2008JISE02) | 2 761 km |
 | 294 | [Habin Kim (김하빈)](https://www.worldcubeassociation.org/persons/2013KIMH01) | 2 741 km |
 | 295 | [Juhyeok Park (박주혁)](https://www.worldcubeassociation.org/persons/2024PARK48) | 2 734 km |
-| 296 | [Ye Na Lee (이예나)](https://www.worldcubeassociation.org/persons/2014LEEY03) | 2 691 km |
-| 297 | [Daniel Kim](https://www.worldcubeassociation.org/persons/2019KIMD04) | 2 640 km |
-| 298 | [Minchan Kim](https://www.worldcubeassociation.org/persons/2023KIMM08) | 2 618 km |
-| 299 | [Hyun Wook Kim](https://www.worldcubeassociation.org/persons/2019KIMH01) | 2 615 km |
-| 300 | [Jonathan Kim (김요나단)](https://www.worldcubeassociation.org/persons/2019KIMJ12) | 2 596 km |
-| 301 | [Chanhwi Park (박찬휘)](https://www.worldcubeassociation.org/persons/2019PARK01) | 2 591 km |
-| 302 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | 2 572 km |
-| 303 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 2 566 km |
-| 304 | [Banseok Peter Knapp](https://www.worldcubeassociation.org/persons/2024KNAP02) | 2 541 km |
-| 305 | [Yunsoo Kim (김윤수)](https://www.worldcubeassociation.org/persons/2022KIMY04) | 2 504 km |
-| 306 | [Gyu-Min Kim (김규민)](https://www.worldcubeassociation.org/persons/2016KIMG01) | 2 493 km |
-| 307 | [Hwang Won Ik (황원익)](https://www.worldcubeassociation.org/persons/2016IKHW01) | 2 483 km |
-| 308 | [Kim Chan-Hyo (김찬효)](https://www.worldcubeassociation.org/persons/2015CHAN28) | 2 479 km |
-| 309 | [Seobin Lee (이서빈)](https://www.worldcubeassociation.org/persons/2023LEES07) | 2 459 km |
-| 310 | [Jisan Yim](https://www.worldcubeassociation.org/persons/2023YIMJ02) | 2 457 km |
-| 311 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | 2 441 km |
-| 312 | [Joonhee Lee (이준희)](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 2 380 km |
-| 313 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 2 361 km |
-| 314 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) | 2 360 km |
-| 315 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 2 322 km |
-| 316 | [Jeon Si Hyeon (전시현)](https://www.worldcubeassociation.org/persons/2023HYEO03) | 2 309 km |
-| 317 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 2 280 km |
-| 318 | [Anonymous](https://www.worldcubeassociation.org/persons/2015ANON13) | 2 269 km |
-| 319 | [Dongyoon Kwak (곽동윤)](https://www.worldcubeassociation.org/persons/2015KWAK01) | 2 233 km |
-| 320 | [Seung Jae Han](https://www.worldcubeassociation.org/persons/2017HANS08) | 2 199 km |
-| 321 | [Minhyuk Park](https://www.worldcubeassociation.org/persons/2023PARK64) | 2 193 km |
-| 322 | [Kim Siheon (김시헌)](https://www.worldcubeassociation.org/persons/2023SIHE01) | 2 130 km |
-| 323 | [Yoonsung Jang (장윤성)](https://www.worldcubeassociation.org/persons/2022JANG11) | 2 126 km |
-| 324 | [Yukyum Song](https://www.worldcubeassociation.org/persons/2023SONG12) | 2 115 km |
-| 325 | [Leean Chun (천리안)](https://www.worldcubeassociation.org/persons/2022CHUN08) | 2 108 km |
-| 326 | [Mingi Jo](https://www.worldcubeassociation.org/persons/2012JOMI01) | 2 094 km |
-| 327 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2023KIMD06) | 2 093 km |
-| 328 | [Ethan Yu](https://www.worldcubeassociation.org/persons/2024YUET03) | 2 067 km |
+| 296 | [Ethan Yu](https://www.worldcubeassociation.org/persons/2024YUET03) | 2 708 km |
+| 297 | [Ye Na Lee (이예나)](https://www.worldcubeassociation.org/persons/2014LEEY03) | 2 691 km |
+| 298 | [Daniel Kim](https://www.worldcubeassociation.org/persons/2019KIMD04) | 2 640 km |
+| 299 | [Minchan Kim](https://www.worldcubeassociation.org/persons/2023KIMM08) | 2 618 km |
+| 300 | [Hyun Wook Kim](https://www.worldcubeassociation.org/persons/2019KIMH01) | 2 615 km |
+| 301 | [Jonathan Kim (김요나단)](https://www.worldcubeassociation.org/persons/2019KIMJ12) | 2 596 km |
+| 302 | [Chanhwi Park (박찬휘)](https://www.worldcubeassociation.org/persons/2019PARK01) | 2 591 km |
+| 303 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | 2 572 km |
+| 304 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 2 566 km |
+| 305 | [Banseok Peter Knapp](https://www.worldcubeassociation.org/persons/2024KNAP02) | 2 541 km |
+| 306 | [Yunsoo Kim (김윤수)](https://www.worldcubeassociation.org/persons/2022KIMY04) | 2 504 km |
+| 307 | [Gyu-Min Kim (김규민)](https://www.worldcubeassociation.org/persons/2016KIMG01) | 2 493 km |
+| 308 | [Hwang Won Ik (황원익)](https://www.worldcubeassociation.org/persons/2016IKHW01) | 2 483 km |
+| 309 | [Kim Chan-Hyo (김찬효)](https://www.worldcubeassociation.org/persons/2015CHAN28) | 2 479 km |
+| 310 | [Seobin Lee (이서빈)](https://www.worldcubeassociation.org/persons/2023LEES07) | 2 459 km |
+| 311 | [Jisan Yim](https://www.worldcubeassociation.org/persons/2023YIMJ02) | 2 457 km |
+| 312 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | 2 441 km |
+| 313 | [Joonhee Lee (이준희)](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 2 380 km |
+| 314 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 2 361 km |
+| 315 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) | 2 360 km |
+| 316 | [Choi Yeong-Jun](https://www.worldcubeassociation.org/persons/2013YEON01) | 2 322 km |
+| 317 | [Jeon Si Hyeon (전시현)](https://www.worldcubeassociation.org/persons/2023HYEO03) | 2 309 km |
+| 318 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 2 280 km |
+| 319 | [Anonymous](https://www.worldcubeassociation.org/persons/2015ANON13) | 2 269 km |
+| 320 | [Dongyoon Kwak (곽동윤)](https://www.worldcubeassociation.org/persons/2015KWAK01) | 2 233 km |
+| 321 | [Seung Jae Han](https://www.worldcubeassociation.org/persons/2017HANS08) | 2 199 km |
+| 322 | [Minhyuk Park](https://www.worldcubeassociation.org/persons/2023PARK64) | 2 193 km |
+| 323 | [Kim Siheon (김시헌)](https://www.worldcubeassociation.org/persons/2023SIHE01) | 2 130 km |
+| 324 | [Yoonsung Jang (장윤성)](https://www.worldcubeassociation.org/persons/2022JANG11) | 2 126 km |
+| 325 | [Yukyum Song](https://www.worldcubeassociation.org/persons/2023SONG12) | 2 115 km |
+| 326 | [Leean Chun (천리안)](https://www.worldcubeassociation.org/persons/2022CHUN08) | 2 108 km |
+| 327 | [Mingi Jo](https://www.worldcubeassociation.org/persons/2012JOMI01) | 2 094 km |
+| 328 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2023KIMD06) | 2 093 km |
 | 329 | [GyeHyun Cho (조계현)](https://www.worldcubeassociation.org/persons/2016JOGY01) | 2 065 km |
 | 330 | [Sunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMS10) | 2 059 km |
 | 331 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | 2 049 km |
@@ -369,8 +369,8 @@
 | 362 | [Choi Ha-Rang (최하랑)](https://www.worldcubeassociation.org/persons/2023HARA02) | 1 659 km |
 | 363 | [Junhyuk Choi (최준혁)](https://www.worldcubeassociation.org/persons/2021CHOI04) | 1 645 km |
 | 364 | [Sejun Yim (임세준)](https://www.worldcubeassociation.org/persons/2022YIMS01) | 1 645 km |
-| 365 | [Park Sin Ho (박신호)](https://www.worldcubeassociation.org/persons/2018HOPA01) | 1 632 km |
-| 366 | [Hwan Lee](https://www.worldcubeassociation.org/persons/2025LEEH03) | 1 632 km |
+| 365 | [Hwan Lee](https://www.worldcubeassociation.org/persons/2025LEEH03) | 1 632 km |
+| 366 | [Park Sin Ho (박신호)](https://www.worldcubeassociation.org/persons/2018HOPA01) | 1 632 km |
 | 367 | [Sichan Joseph Lee](https://www.worldcubeassociation.org/persons/2024LEES04) | 1 621 km |
 | 368 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | 1 617 km |
 | 369 | [Jeongwoo Im (임정우)](https://www.worldcubeassociation.org/persons/2024IMJE01) | 1 602 km |
@@ -401,8 +401,8 @@
 | 394 | [Choi Jae-Jung (崔 在貞)](https://www.worldcubeassociation.org/persons/2007JAEJ01) | 1 400 km |
 | 395 | [Han Dong-Hee (한동희)](https://www.worldcubeassociation.org/persons/2015DONG05) | 1 395 km |
 | 396 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | 1 386 km |
-| 397 | [JinSuk Lee (이진숙)](https://www.worldcubeassociation.org/persons/2023LEEJ22) | 1 373 km |
-| 398 | [Jongmyeong Sung](https://www.worldcubeassociation.org/persons/2019SUNG03) | 1 373 km |
+| 397 | [Jongmyeong Sung](https://www.worldcubeassociation.org/persons/2019SUNG03) | 1 373 km |
+| 398 | [JinSuk Lee (이진숙)](https://www.worldcubeassociation.org/persons/2023LEEJ22) | 1 373 km |
 | 399 | [Lee UiJun](https://www.worldcubeassociation.org/persons/2021UIJU01) | 1 363 km |
 | 400 | [Myeong Hyeon Ung (명현웅)](https://www.worldcubeassociation.org/persons/2014UNGM02) | 1 360 km |
 | 401 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | 1 357 km |
@@ -435,22 +435,22 @@
 | 428 | [Junee Koo (구준이)](https://www.worldcubeassociation.org/persons/2025KOOJ01) | 1 167 km |
 | 429 | [Lee Yewon (이예원)](https://www.worldcubeassociation.org/persons/2025YEWO01) | 1 166 km |
 | 430 | [Kang Ji-Jon](https://www.worldcubeassociation.org/persons/2007JIJO01) | 1 162 km |
-| 431 | [SeoYoung Choi (최서영)](https://www.worldcubeassociation.org/persons/2023CHOI31) | 1 159 km |
-| 432 | [Seokyoon Yoo](https://www.worldcubeassociation.org/persons/2018YOOS01) | 1 159 km |
+| 431 | [Seokyoon Yoo](https://www.worldcubeassociation.org/persons/2018YOOS01) | 1 159 km |
+| 432 | [SeoYoung Choi (최서영)](https://www.worldcubeassociation.org/persons/2023CHOI31) | 1 159 km |
 | 433 | [Jihun Ock (옥지훈)](https://www.worldcubeassociation.org/persons/2023OCKJ01) | 1 157 km |
 | 434 | [Sun Woo Park (박선우)](https://www.worldcubeassociation.org/persons/2013PARK13) | 1 147 km |
 | 435 | [Eunho Hwang (황은호)](https://www.worldcubeassociation.org/persons/2024HWAN17) | 1 145 km |
 | 436 | [Chun Seung Jae (천승재)](https://www.worldcubeassociation.org/persons/2022JAEC01) | 1 142 km |
 | 437 | [Dongjae Jang (장동재)](https://www.worldcubeassociation.org/persons/2021JANG02) | 1 139 km |
 | 438 | [Junsu Kim (김준수)](https://www.worldcubeassociation.org/persons/2014KIMJ09) | 1 131 km |
-| 439 | [Seojin Park (박서진)](https://www.worldcubeassociation.org/persons/2025PARK42) | 1 115 km |
-| 440 | [Kim I-Gwon (김이권)](https://www.worldcubeassociation.org/persons/2024IGWO01) | 1 115 km |
+| 439 | [Kim I-Gwon (김이권)](https://www.worldcubeassociation.org/persons/2024IGWO01) | 1 115 km |
+| 440 | [Seojin Park (박서진)](https://www.worldcubeassociation.org/persons/2025PARK42) | 1 115 km |
 | 441 | [Lee Jung Min](https://www.worldcubeassociation.org/persons/2015MINL01) | 1 110 km |
 | 442 | [Kim San (김산)](https://www.worldcubeassociation.org/persons/2022SANK03) | 1 102 km |
 | 443 | [Jihan Kim (김지한)](https://www.worldcubeassociation.org/persons/2022KIMJ10) | 1 101 km |
 | 444 | [Hwang Jiyul (황지율)](https://www.worldcubeassociation.org/persons/2023JIYU01) | 1 101 km |
-| 445 | [Moonkyoo Choi (최문규)](https://www.worldcubeassociation.org/persons/2018CHOI09) | 1 098 km |
-| 446 | [Siwoo Choi (최시우)](https://www.worldcubeassociation.org/persons/2018CHOI10) | 1 098 km |
+| 445 | [Siwoo Choi (최시우)](https://www.worldcubeassociation.org/persons/2018CHOI10) | 1 098 km |
+| 446 | [Moonkyoo Choi (최문규)](https://www.worldcubeassociation.org/persons/2018CHOI09) | 1 098 km |
 | 447 | [Doyu Lee](https://www.worldcubeassociation.org/persons/2023LEED06) | 1 091 km |
 | 448 | [Seung Ho Hur (허승호)](https://www.worldcubeassociation.org/persons/2024HURS01) | 1 084 km |
 | 449 | [Hyun Woo Lee (이현우)](https://www.worldcubeassociation.org/persons/2014LEEH02) | 1 082 km |
@@ -465,10 +465,10 @@
 | 458 | [HyoHui Jiang](https://www.worldcubeassociation.org/persons/2018JIAN42) | 1 056 km |
 | 459 | [YiHyeon Woo](https://www.worldcubeassociation.org/persons/2023WOOY01) | 1 055 km |
 | 460 | [Hyunsu Park (박현수)](https://www.worldcubeassociation.org/persons/2024PARK69) | 1 045 km |
-| 461 | [Kim Chang-Gyun](https://www.worldcubeassociation.org/persons/2006CHAN05) | 1 041 km |
-| 462 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | 1 041 km |
-| 463 | [Kim Jun-Beom](https://www.worldcubeassociation.org/persons/2007JUNB01) | 1 038 km |
-| 464 | [Jiyeong Park (박지영)](https://www.worldcubeassociation.org/persons/2022PARK25) | 1 038 km |
+| 461 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | 1 041 km |
+| 462 | [Kim Chang-Gyun](https://www.worldcubeassociation.org/persons/2006CHAN05) | 1 041 km |
+| 463 | [Jiyeong Park (박지영)](https://www.worldcubeassociation.org/persons/2022PARK25) | 1 038 km |
+| 464 | [Kim Jun-Beom](https://www.worldcubeassociation.org/persons/2007JUNB01) | 1 038 km |
 | 465 | [WonJik Kim (김원직)](https://www.worldcubeassociation.org/persons/2014KIMW01) | 1 031 km |
 | 466 | [Jung Hwan Lee](https://www.worldcubeassociation.org/persons/2015LEEJ05) | 1 029 km |
 | 467 | [Song John (송요한)](https://www.worldcubeassociation.org/persons/2013JOHN09) | 1 027 km |
@@ -481,14 +481,14 @@
 | 474 | [Yejune Goo](https://www.worldcubeassociation.org/persons/2023GOOY01) | 996 km |
 | 475 | [Yunyoung Kim (김윤영)](https://www.worldcubeassociation.org/persons/2023KIMY03) | 989 km |
 | 476 | [Youk MinSeop (육민섭)](https://www.worldcubeassociation.org/persons/2017MINS02) | 982 km |
-| 477 | [Minhan Yoon (윤민한)](https://www.worldcubeassociation.org/persons/2024YOON12) | 975 km |
-| 478 | [Jaejoon Hwang](https://www.worldcubeassociation.org/persons/2016HWAN05) | 975 km |
+| 477 | [Jaejoon Hwang](https://www.worldcubeassociation.org/persons/2016HWAN05) | 975 km |
+| 478 | [Minhan Yoon (윤민한)](https://www.worldcubeassociation.org/persons/2024YOON12) | 975 km |
 | 479 | [Semin Kim (김세민)](https://www.worldcubeassociation.org/persons/2021KIMS04) | 973 km |
 | 480 | [Hyeongi Cho (조현기)](https://www.worldcubeassociation.org/persons/2024CHOH02) | 973 km |
 | 481 | [Tyler Wonwoo Nam (남원우)](https://www.worldcubeassociation.org/persons/2025NAMT02) | 972 km |
 | 482 | [Kang Yongwoo](https://www.worldcubeassociation.org/persons/2015YONG03) | 966 km |
-| 483 | [Junhyeon Hwang](https://www.worldcubeassociation.org/persons/2023HWAN11) | 964 km |
-| 484 | [Yireh Seo (서이레)](https://www.worldcubeassociation.org/persons/2023SEOY02) | 964 km |
+| 483 | [Yireh Seo (서이레)](https://www.worldcubeassociation.org/persons/2023SEOY02) | 964 km |
+| 484 | [Junhyeon Hwang](https://www.worldcubeassociation.org/persons/2023HWAN11) | 964 km |
 | 485 | [Kyuwon Kyung (경규원)](https://www.worldcubeassociation.org/persons/2019KYUN01) | 959 km |
 | 486 | [Sehyun Kim (김세현)](https://www.worldcubeassociation.org/persons/2026KIMS02) | 951 km |
 | 487 | [Seunggyu Shin (신승규)](https://www.worldcubeassociation.org/persons/2025SHIN23) | 943 km |
@@ -517,12 +517,12 @@
 | 510 | [Bae Minjun (배민준)](https://www.worldcubeassociation.org/persons/2022MINJ02) | 872 km |
 | 511 | [Dong Hyun Park (박동현)](https://www.worldcubeassociation.org/persons/2024PARK30) | 871 km |
 | 512 | [Jung In An (안정인)](https://www.worldcubeassociation.org/persons/2016ANJU01) | 867 km |
-| 513 | [Yong Min Kwon](https://www.worldcubeassociation.org/persons/2015KWON01) | 861 km |
-| 514 | [Jungyu Cha (차준규)](https://www.worldcubeassociation.org/persons/2023CHAJ01) | 861 km |
+| 513 | [Jungyu Cha (차준규)](https://www.worldcubeassociation.org/persons/2023CHAJ01) | 861 km |
+| 514 | [Yong Min Kwon](https://www.worldcubeassociation.org/persons/2015KWON01) | 861 km |
 | 515 | [Yijun Kim (김이준)](https://www.worldcubeassociation.org/persons/2023KIMY09) | 859 km |
 | 516 | [Junsoo Lee (이준수)](https://www.worldcubeassociation.org/persons/2023LEEJ27) | 858 km |
-| 517 | [Seo Gwan Woo (서관우)](https://www.worldcubeassociation.org/persons/2022WOOS01) | 856 km |
-| 518 | [Baik Gi Ju (백기주)](https://www.worldcubeassociation.org/persons/2018JUBA01) | 856 km |
+| 517 | [Baik Gi Ju (백기주)](https://www.worldcubeassociation.org/persons/2018JUBA01) | 856 km |
+| 518 | [Seo Gwan Woo (서관우)](https://www.worldcubeassociation.org/persons/2022WOOS01) | 856 km |
 | 519 | [Jung Junhyuk](https://www.worldcubeassociation.org/persons/2015JUNH02) | 853 km |
 | 520 | [Seoha Kim](https://www.worldcubeassociation.org/persons/2025KIMS06) | 850 km |
 | 521 | [Oh Yoon-Tae](https://www.worldcubeassociation.org/persons/2006YOON01) | 847 km |
@@ -530,8 +530,8 @@
 | 523 | [Seung-Woo Choi](https://www.worldcubeassociation.org/persons/2009CHOI01) | 844 km |
 | 524 | [Soobin Jang (장수빈)](https://www.worldcubeassociation.org/persons/2023JANG04) | 844 km |
 | 525 | [Kihoon Kim (김기훈)](https://www.worldcubeassociation.org/persons/2017KIMK03) | 844 km |
-| 526 | [Choi Sung-Hyun (최성현)](https://www.worldcubeassociation.org/persons/2015SUNG02) | 843 km |
-| 527 | [Jang Seon Woo (장선우)](https://www.worldcubeassociation.org/persons/2017WOOJ01) | 843 km |
+| 526 | [Jang Seon Woo (장선우)](https://www.worldcubeassociation.org/persons/2017WOOJ01) | 843 km |
+| 527 | [Choi Sung-Hyun (최성현)](https://www.worldcubeassociation.org/persons/2015SUNG02) | 843 km |
 | 528 | [Yoon Ireh](https://www.worldcubeassociation.org/persons/2022IREH01) | 838 km |
 | 529 | [Yuji Yoon (尹 裕智)](https://www.worldcubeassociation.org/persons/2008YOON01) | 837 km |
 | 530 | [Moon Soo Ho (문수호)](https://www.worldcubeassociation.org/persons/2018HOMO01) | 837 km |
@@ -541,13 +541,13 @@
 | 534 | [Kim Kyung-Ho](https://www.worldcubeassociation.org/persons/2006KYUN02) | 824 km |
 | 535 | [MinJun Son (손민준)](https://www.worldcubeassociation.org/persons/2023SONM01) | 822 km |
 | 536 | [DaeYoon Lee (이대윤)](https://www.worldcubeassociation.org/persons/2022LEED06) | 819 km |
-| 537 | [Yeonseo Na](https://www.worldcubeassociation.org/persons/2025NAYE01) | 815 km |
+| 537 | [Yoon Hoo Na](https://www.worldcubeassociation.org/persons/2025NAYO01) | 815 km |
 | 538 | [Seonwoo Na (나선우)](https://www.worldcubeassociation.org/persons/2024NASE01) | 815 km |
-| 539 | [Yoon Hoo Na](https://www.worldcubeassociation.org/persons/2025NAYO01) | 815 km |
+| 539 | [Yeonseo Na](https://www.worldcubeassociation.org/persons/2025NAYE01) | 815 km |
 | 540 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | 808 km |
 | 541 | [Yosei Kim](https://www.worldcubeassociation.org/persons/2023KIMY08) | 804 km |
-| 542 | [Jun Hyeok Jang (장준혁)](https://www.worldcubeassociation.org/persons/2022JANG06) | 801 km |
-| 543 | [Bun WooJin (변우진)](https://www.worldcubeassociation.org/persons/2022WOOJ01) | 801 km |
+| 542 | [Bun WooJin (변우진)](https://www.worldcubeassociation.org/persons/2022WOOJ01) | 801 km |
+| 543 | [Jun Hyeok Jang (장준혁)](https://www.worldcubeassociation.org/persons/2022JANG06) | 801 km |
 | 544 | [Si-hyeon Byeon (변시현)](https://www.worldcubeassociation.org/persons/2017BYEO01) | 798 km |
 | 545 | [YouMin Shin (신유민)](https://www.worldcubeassociation.org/persons/2024SHIN09) | 794 km |
 | 546 | [SangHun Lee (이상훈)](https://www.worldcubeassociation.org/persons/2023LEES23) | 794 km |
@@ -564,13 +564,13 @@
 | 557 | [Joohyeon Yu (류주현)](https://www.worldcubeassociation.org/persons/2023YUJO02) | 769 km |
 | 558 | [Jung Gyu Bin (정규빈)](https://www.worldcubeassociation.org/persons/2022BINJ04) | 763 km |
 | 559 | [Eunhyul Og (옥은휼)](https://www.worldcubeassociation.org/persons/2024OGEU01) | 757 km |
-| 560 | [JiSung Lee (이지성)](https://www.worldcubeassociation.org/persons/2023LEEJ12) | 756 km |
-| 561 | [Yoo Seung Woo (유승우)](https://www.worldcubeassociation.org/persons/2018WOOY01) | 756 km |
+| 560 | [Yoo Seung Woo (유승우)](https://www.worldcubeassociation.org/persons/2018WOOY01) | 756 km |
+| 561 | [JiSung Lee (이지성)](https://www.worldcubeassociation.org/persons/2023LEEJ12) | 756 km |
 | 562 | [TaeHoon Eum (음태훈)](https://www.worldcubeassociation.org/persons/2022EUMT01) | 755 km |
-| 563 | [On You Kim (김온유)](https://www.worldcubeassociation.org/persons/2025KIMO01) | 751 km |
-| 564 | [Sungyun Kim (김성윤)](https://www.worldcubeassociation.org/persons/2018KIMS07) | 751 km |
-| 565 | [EunKyeol Seo (서은결)](https://www.worldcubeassociation.org/persons/2022SEOE01) | 747 km |
-| 566 | [SeungJean Lee (이승진)](https://www.worldcubeassociation.org/persons/2023LEES21) | 747 km |
+| 563 | [Sungyun Kim (김성윤)](https://www.worldcubeassociation.org/persons/2018KIMS07) | 751 km |
+| 564 | [On You Kim (김온유)](https://www.worldcubeassociation.org/persons/2025KIMO01) | 751 km |
+| 565 | [SeungJean Lee (이승진)](https://www.worldcubeassociation.org/persons/2023LEES21) | 747 km |
+| 566 | [EunKyeol Seo (서은결)](https://www.worldcubeassociation.org/persons/2022SEOE01) | 747 km |
 | 567 | [Wondo Lee (이원도)](https://www.worldcubeassociation.org/persons/2023LEEW01) | 746 km |
 | 568 | [Parang Lee](https://www.worldcubeassociation.org/persons/2022LEEP01) | 745 km |
 | 569 | [Kim Kyung-Ho](https://www.worldcubeassociation.org/persons/2006KYUN01) | 745 km |
@@ -580,8 +580,8 @@
 | 573 | [Seo Jun Park (박서준)](https://www.worldcubeassociation.org/persons/2015PARK05) | 730 km |
 | 574 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | 728 km |
 | 575 | [Jang Han-Wool](https://www.worldcubeassociation.org/persons/2007HANW01) | 725 km |
-| 576 | [You-min Kang](https://www.worldcubeassociation.org/persons/2016KANG01) | 723 km |
-| 577 | [Min-gun Cho](https://www.worldcubeassociation.org/persons/2016CHOM01) | 723 km |
+| 576 | [Min-gun Cho](https://www.worldcubeassociation.org/persons/2016CHOM01) | 723 km |
+| 577 | [You-min Kang](https://www.worldcubeassociation.org/persons/2016KANG01) | 723 km |
 | 578 | [An Jong-Woo](https://www.worldcubeassociation.org/persons/2008JONG01) | 723 km |
 | 579 | [Jo Myeong-Gyu](https://www.worldcubeassociation.org/persons/2006MYEO01) | 715 km |
 | 580 | [Ki Yeun Kim](https://www.worldcubeassociation.org/persons/2008KIMK01) | 707 km |
@@ -589,8 +589,8 @@
 | 582 | [Haein Woo](https://www.worldcubeassociation.org/persons/2023WOOH01) | 697 km |
 | 583 | [Chanyul Kim (김찬율)](https://www.worldcubeassociation.org/persons/2024KIMC02) | 696 km |
 | 584 | [Son Chang-Hwan](https://www.worldcubeassociation.org/persons/2006CHAN08) | 696 km |
-| 585 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) | 695 km |
-| 586 | [U-Chang Cheon (천우창)](https://www.worldcubeassociation.org/persons/2015CHEO02) | 695 km |
+| 585 | [U-Chang Cheon (천우창)](https://www.worldcubeassociation.org/persons/2015CHEO02) | 695 km |
+| 586 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) | 695 km |
 | 587 | [Shin Hyuk Kyo (신혁교)](https://www.worldcubeassociation.org/persons/2014SHIN01) | 694 km |
 | 588 | [Lee Jae-Jun](https://www.worldcubeassociation.org/persons/2007JAEJ02) | 694 km |
 | 589 | [Taewoo Ha (하태우)](https://www.worldcubeassociation.org/persons/2021HATA01) | 693 km |
@@ -600,26 +600,26 @@
 | 593 | [Youngsang Yoo (류영상)](https://www.worldcubeassociation.org/persons/2025YOOY01) | 688 km |
 | 594 | [Sang Woo Han](https://www.worldcubeassociation.org/persons/2013HANS03) | 685 km |
 | 595 | [Jiho Lee (이지호)](https://www.worldcubeassociation.org/persons/2023LEEJ24) | 684 km |
-| 596 | [Eunwoo Heo](https://www.worldcubeassociation.org/persons/2024HEOE01) | 682 km |
-| 597 | [Minjung Kim (김민정)](https://www.worldcubeassociation.org/persons/2025KIMM03) | 682 km |
-| 598 | [Kim Seung-Hwan](https://www.worldcubeassociation.org/persons/2007SEUN03) | 677 km |
-| 599 | [Ha Min-Su](https://www.worldcubeassociation.org/persons/2007MINS02) | 677 km |
-| 600 | [Lee Sung-Ju](https://www.worldcubeassociation.org/persons/2007SUNG01) | 677 km |
+| 596 | [Minjung Kim (김민정)](https://www.worldcubeassociation.org/persons/2025KIMM03) | 682 km |
+| 597 | [Eunwoo Heo](https://www.worldcubeassociation.org/persons/2024HEOE01) | 682 km |
+| 598 | [Lee Sung-Ju](https://www.worldcubeassociation.org/persons/2007SUNG01) | 677 km |
+| 599 | [Kim Seung-Hwan](https://www.worldcubeassociation.org/persons/2007SEUN03) | 677 km |
+| 600 | [Ha Min-Su](https://www.worldcubeassociation.org/persons/2007MINS02) | 677 km |
 | 601 | [Minchae Seo](https://www.worldcubeassociation.org/persons/2017SEOM01) | 676 km |
 | 602 | [Park Geon Wook (박건욱)](https://www.worldcubeassociation.org/persons/2018WOOK01) | 676 km |
-| 603 | [SeungJae Lee (이승재)](https://www.worldcubeassociation.org/persons/2024LEES06) | 674 km |
-| 604 | [Ujin Choi](https://www.worldcubeassociation.org/persons/2023CHOI35) | 674 km |
-| 605 | [Park Minjoon (박민준)](https://www.worldcubeassociation.org/persons/2018MINJ02) | 673 km |
-| 606 | [Park Hyunjoon (박현준)](https://www.worldcubeassociation.org/persons/2018HYUN03) | 673 km |
+| 603 | [Ujin Choi](https://www.worldcubeassociation.org/persons/2023CHOI35) | 674 km |
+| 604 | [SeungJae Lee (이승재)](https://www.worldcubeassociation.org/persons/2024LEES06) | 674 km |
+| 605 | [Park Hyunjoon (박현준)](https://www.worldcubeassociation.org/persons/2018HYUN03) | 673 km |
+| 606 | [Park Minjoon (박민준)](https://www.worldcubeassociation.org/persons/2018MINJ02) | 673 km |
 | 607 | [JiWook Min (민지욱)](https://www.worldcubeassociation.org/persons/2024MINJ02) | 671 km |
-| 608 | [Kim Hyung Min](https://www.worldcubeassociation.org/persons/2015MINK01) | 668 km |
-| 609 | [Ji Hee Bang (방지희)](https://www.worldcubeassociation.org/persons/2013BANG02) | 668 km |
+| 608 | [Ji Hee Bang (방지희)](https://www.worldcubeassociation.org/persons/2013BANG02) | 668 km |
+| 609 | [Kim Hyung Min](https://www.worldcubeassociation.org/persons/2015MINK01) | 668 km |
 | 610 | [Jaejun Kim](https://www.worldcubeassociation.org/persons/2023KIMJ23) | 667 km |
 | 611 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | 666 km |
 | 612 | [Yewon Jang](https://www.worldcubeassociation.org/persons/2024JANG05) | 663 km |
 | 613 | [Yun YeJun (윤예준)](https://www.worldcubeassociation.org/persons/2024YEJU01) | 663 km |
-| 614 | [Jeongmin Moon (문정민)](https://www.worldcubeassociation.org/persons/2023MOON07) | 661 km |
-| 615 | [Hye Rin Kim (김혜린)](https://www.worldcubeassociation.org/persons/2024KIMH02) | 661 km |
+| 614 | [Hye Rin Kim (김혜린)](https://www.worldcubeassociation.org/persons/2024KIMH02) | 661 km |
+| 615 | [Jeongmin Moon (문정민)](https://www.worldcubeassociation.org/persons/2023MOON07) | 661 km |
 | 616 | [JiHo Yu (유지호)](https://www.worldcubeassociation.org/persons/2025YUJI01) | 660 km |
 | 617 | [In Guk Lee](https://www.worldcubeassociation.org/persons/2015LEEI01) | 660 km |
 | 618 | [Eunho Lee (이은호)](https://www.worldcubeassociation.org/persons/2023LEEE04) | 654 km |
@@ -635,10 +635,10 @@
 | 628 | [Ken Cha (차정현)](https://www.worldcubeassociation.org/persons/2014CHAK01) | 631 km |
 | 629 | [Uchang Son (손우창)](https://www.worldcubeassociation.org/persons/2016SONU01) | 630 km |
 | 630 | [Yerim Bae (배예림)](https://www.worldcubeassociation.org/persons/2024BAEY01) | 629 km |
-| 631 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) | 628 km |
-| 632 | [Junghyun Sohn](https://www.worldcubeassociation.org/persons/2017SOHN01) | 628 km |
-| 633 | [YeJun Jeong (정예준)](https://www.worldcubeassociation.org/persons/2023JEON11) | 628 km |
-| 634 | [Park Jun-seo (박준서)](https://www.worldcubeassociation.org/persons/2017PARK25) | 628 km |
+| 631 | [YeJun Jeong (정예준)](https://www.worldcubeassociation.org/persons/2023JEON11) | 628 km |
+| 632 | [Lee Chan-Ho](https://www.worldcubeassociation.org/persons/2007CHAN02) | 628 km |
+| 633 | [Park Jun-seo (박준서)](https://www.worldcubeassociation.org/persons/2017PARK25) | 628 km |
+| 634 | [Junghyun Sohn](https://www.worldcubeassociation.org/persons/2017SOHN01) | 628 km |
 | 635 | [Yi Geon (이건)](https://www.worldcubeassociation.org/persons/2024GEON02) | 626 km |
 | 636 | [Tae Ho Park](https://www.worldcubeassociation.org/persons/2014PARK08) | 624 km |
 | 637 | [Hyunjin Kim (김현진)](https://www.worldcubeassociation.org/persons/2023KIMH03) | 623 km |
@@ -646,13 +646,13 @@
 | 639 | [Junmo Yeon (연준모)](https://www.worldcubeassociation.org/persons/2023YEON02) | 616 km |
 | 640 | [Gyubin Kim (김규빈)](https://www.worldcubeassociation.org/persons/2025KIMG01) | 613 km |
 | 641 | [Beomjune Cha (차범준)](https://www.worldcubeassociation.org/persons/2025CHAB02) | 612 km |
-| 642 | [Son Jeong-Sang](https://www.worldcubeassociation.org/persons/2008JEON03) | 610 km |
-| 643 | [JoonYoung Park (박준영)](https://www.worldcubeassociation.org/persons/2024PARK19) | 610 km |
+| 642 | [JoonYoung Park (박준영)](https://www.worldcubeassociation.org/persons/2024PARK19) | 610 km |
+| 643 | [Son Jeong-Sang](https://www.worldcubeassociation.org/persons/2008JEON03) | 610 km |
 | 644 | [Seojin Park (박서진)](https://www.worldcubeassociation.org/persons/2023PARK72) | 608 km |
 | 645 | [Seungwoo Lim (임승우)](https://www.worldcubeassociation.org/persons/2024LIMS01) | 606 km |
 | 646 | [YunSub Hwang (황윤섭)](https://www.worldcubeassociation.org/persons/2023HWAN08) | 602 km |
-| 647 | [Kyungtae Baek (백경태)](https://www.worldcubeassociation.org/persons/2014BAEK02) | 602 km |
-| 648 | [Heesub Hwang (황희섭)](https://www.worldcubeassociation.org/persons/2023HWAN07) | 602 km |
+| 647 | [Heesub Hwang (황희섭)](https://www.worldcubeassociation.org/persons/2023HWAN07) | 602 km |
+| 648 | [Kyungtae Baek (백경태)](https://www.worldcubeassociation.org/persons/2014BAEK02) | 602 km |
 | 649 | [HeeHwan Chai (채희환)](https://www.worldcubeassociation.org/persons/2023CHAI15) | 597 km |
 | 650 | [Goeun Jeong (정고은)](https://www.worldcubeassociation.org/persons/2025JEON17) | 596 km |
 | 651 | [Kim HyunIl (김현일)](https://www.worldcubeassociation.org/persons/2024HYUN01) | 594 km |
@@ -660,27 +660,27 @@
 | 653 | [SeungJu Baek (백승주)](https://www.worldcubeassociation.org/persons/2025BAEK05) | 591 km |
 | 654 | [Yoojun Ahn (안유준)](https://www.worldcubeassociation.org/persons/2024AHNY02) | 588 km |
 | 655 | [Im Dong-Hyuk (임동혁)](https://www.worldcubeassociation.org/persons/2018DONG21) | 587 km |
-| 656 | [Kwon Ryul (권률)](https://www.worldcubeassociation.org/persons/2024RYUL01) | 586 km |
-| 657 | [Juwan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ18) | 586 km |
+| 656 | [Juwan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ18) | 586 km |
+| 657 | [Kwon Ryul (권률)](https://www.worldcubeassociation.org/persons/2024RYUL01) | 586 km |
 | 658 | [Kim Yu Joon (김유준)](https://www.worldcubeassociation.org/persons/2023JOON01) | 583 km |
 | 659 | [Jaemin Bae (배재민)](https://www.worldcubeassociation.org/persons/2016BAEJ01) | 582 km |
-| 660 | [Choi Young In (최영인)](https://www.worldcubeassociation.org/persons/2018INCH01) | 576 km |
-| 661 | [Jungin Choi (최정인)](https://www.worldcubeassociation.org/persons/2018CHOI08) | 576 km |
-| 662 | [Hyung Chan Kim (김형찬)](https://www.worldcubeassociation.org/persons/2015KIMH01) | 576 km |
-| 663 | [Sung Hyun Park (박성현)](https://www.worldcubeassociation.org/persons/2011PARK06) | 575 km |
-| 664 | [Jung SangWon (정상원)](https://www.worldcubeassociation.org/persons/2017SANG04) | 575 km |
+| 660 | [Hyung Chan Kim (김형찬)](https://www.worldcubeassociation.org/persons/2015KIMH01) | 576 km |
+| 661 | [Choi Young In (최영인)](https://www.worldcubeassociation.org/persons/2018INCH01) | 576 km |
+| 662 | [Jungin Choi (최정인)](https://www.worldcubeassociation.org/persons/2018CHOI08) | 576 km |
+| 663 | [Jung SangWon (정상원)](https://www.worldcubeassociation.org/persons/2017SANG04) | 575 km |
+| 664 | [Sung Hyun Park (박성현)](https://www.worldcubeassociation.org/persons/2011PARK06) | 575 km |
 | 665 | [Yugon Kim](https://www.worldcubeassociation.org/persons/2023KIMY04) | 574 km |
 | 666 | [SeoYeon Ju (주서연)](https://www.worldcubeassociation.org/persons/2024JUSE01) | 572 km |
 | 667 | [Kim Jun Hwi](https://www.worldcubeassociation.org/persons/2015HWIK01) | 569 km |
 | 668 | [Chaeyoung Kim](https://www.worldcubeassociation.org/persons/2021KIMC02) | 566 km |
-| 669 | [Brian Jeong (정형민)](https://www.worldcubeassociation.org/persons/2014JEON07) | 564 km |
-| 670 | [Jaehee Park (박재희)](https://www.worldcubeassociation.org/persons/2025PARK04) | 564 km |
+| 669 | [Jaehee Park (박재희)](https://www.worldcubeassociation.org/persons/2025PARK04) | 564 km |
+| 670 | [Brian Jeong (정형민)](https://www.worldcubeassociation.org/persons/2014JEON07) | 564 km |
 | 671 | [Haim Lee (이하임)](https://www.worldcubeassociation.org/persons/2024LEEH07) | 561 km |
 | 672 | [Sean Choo](https://www.worldcubeassociation.org/persons/2018CHOO02) | 561 km |
 | 673 | [Jin Seo-hu (진서후)](https://www.worldcubeassociation.org/persons/2026SEOH01) | 560 km |
 | 674 | [Gunha Kim (김건하)](https://www.worldcubeassociation.org/persons/2014KIMG02) | 557 km |
-| 675 | [Hyun-Seo Oh](https://www.worldcubeassociation.org/persons/2015HYUN08) | 555 km |
-| 676 | [Dongjoon Ji (지동준)](https://www.worldcubeassociation.org/persons/2014JIDO01) | 555 km |
+| 675 | [Dongjoon Ji (지동준)](https://www.worldcubeassociation.org/persons/2014JIDO01) | 555 km |
+| 676 | [Hyun-Seo Oh](https://www.worldcubeassociation.org/persons/2015HYUN08) | 555 km |
 | 677 | [Minseok Lee](https://www.worldcubeassociation.org/persons/2016LEEM01) | 555 km |
 | 678 | [Geonhee Park (박건희)](https://www.worldcubeassociation.org/persons/2023PARK09) | 553 km |
 | 679 | [HyeonJun Do (도현준)](https://www.worldcubeassociation.org/persons/2024DOHY01) | 553 km |
@@ -707,36 +707,36 @@
 | 700 | [Chayoung Ryu (유차영)](https://www.worldcubeassociation.org/persons/2023RYUC01) | 520 km |
 | 701 | [Yoon Junseo (윤준서)](https://www.worldcubeassociation.org/persons/2015JUNS01) | 520 km |
 | 702 | [MinSeo Cho (조민서)](https://www.worldcubeassociation.org/persons/2023CHOM01) | 517 km |
-| 703 | [Kim Se-Hwan (김세환)](https://www.worldcubeassociation.org/persons/2022KIMS06) | 516 km |
-| 704 | [Cho EunByul (조은별)](https://www.worldcubeassociation.org/persons/2024EUNB02) | 516 km |
+| 703 | [Cho EunByul (조은별)](https://www.worldcubeassociation.org/persons/2024EUNB02) | 516 km |
+| 704 | [Kim Se-Hwan (김세환)](https://www.worldcubeassociation.org/persons/2022KIMS06) | 516 km |
 | 705 | [Kim Sae Woon (김세운)](https://www.worldcubeassociation.org/persons/2024WOON01) | 514 km |
 | 706 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | 513 km |
 | 707 | [Jiho Hwang (황지호)](https://www.worldcubeassociation.org/persons/2022HWAN10) | 512 km |
 | 708 | [Byeong-Wook Jeong](https://www.worldcubeassociation.org/persons/2016JEON04) | 511 km |
 | 709 | [JeongHoon Park](https://www.worldcubeassociation.org/persons/2023PARK18) | 509 km |
 | 710 | [Seungjun Bae (배승준)](https://www.worldcubeassociation.org/persons/2022BAES02) | 508 km |
-| 711 | [Ihan Jin (진이한)](https://www.worldcubeassociation.org/persons/2019JINI01) | 508 km |
-| 712 | [Hwa Rang Kim (김화랑)](https://www.worldcubeassociation.org/persons/2023KIMH02) | 508 km |
+| 711 | [Hwa Rang Kim (김화랑)](https://www.worldcubeassociation.org/persons/2023KIMH02) | 508 km |
+| 712 | [Ihan Jin (진이한)](https://www.worldcubeassociation.org/persons/2019JINI01) | 508 km |
 | 713 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2024YOOS02) | 506 km |
 | 714 | [Ju Hyeon Kim](https://www.worldcubeassociation.org/persons/2016KIMJ10) | 506 km |
 | 715 | [Ro-Hyeon Kim (김로현)](https://www.worldcubeassociation.org/persons/2024KIMR06) | 505 km |
 | 716 | [Ga Deuk Han](https://www.worldcubeassociation.org/persons/2015HANG03) | 505 km |
 | 717 | [Chang Jee-Hoon](https://www.worldcubeassociation.org/persons/2007JEEH01) | 501 km |
 | 718 | [Seunghyun Song (송승현)](https://www.worldcubeassociation.org/persons/2024SONG09) | 500 km |
-| 719 | [Hyunseo Ha](https://www.worldcubeassociation.org/persons/2023HAHY01) | 497 km |
-| 720 | [SeHwan Yang (양세환)](https://www.worldcubeassociation.org/persons/2019YANG77) | 497 km |
+| 719 | [SeHwan Yang (양세환)](https://www.worldcubeassociation.org/persons/2019YANG77) | 497 km |
+| 720 | [Hyunseo Ha](https://www.worldcubeassociation.org/persons/2023HAHY01) | 497 km |
 | 721 | [Hyun-wook Park](https://www.worldcubeassociation.org/persons/2016PARK06) | 494 km |
 | 722 | [Jaesung Kim (김재성)](https://www.worldcubeassociation.org/persons/2022JAES01) | 488 km |
 | 723 | [JungWoo Hong (홍정우)](https://www.worldcubeassociation.org/persons/2025HONG02) | 486 km |
-| 724 | [Minwoo Park (박민우)](https://www.worldcubeassociation.org/persons/2023PARK20) | 483 km |
-| 725 | [Siu Lee (이시우)](https://www.worldcubeassociation.org/persons/2025LEES07) | 483 km |
+| 724 | [Siu Lee (이시우)](https://www.worldcubeassociation.org/persons/2025LEES07) | 483 km |
+| 725 | [Minwoo Park (박민우)](https://www.worldcubeassociation.org/persons/2023PARK20) | 483 km |
 | 726 | [Wootae Kang (강우태)](https://www.worldcubeassociation.org/persons/2026KANG03) | 483 km |
 | 727 | [Sihyun Oh](https://www.worldcubeassociation.org/persons/2014OHSI01) | 482 km |
 | 728 | [David Noh](https://www.worldcubeassociation.org/persons/2016NOHD01) | 482 km |
 | 729 | [Junhyeok Choi (최준혁)](https://www.worldcubeassociation.org/persons/2022CHOI05) | 482 km |
 | 730 | [Jun Seo Lee (이준서)](https://www.worldcubeassociation.org/persons/2026LEEJ02) | 480 km |
-| 731 | [Geonhu Park](https://www.worldcubeassociation.org/persons/2025PARK11) | 479 km |
-| 732 | [Hyuntak Lee](https://www.worldcubeassociation.org/persons/2014LEEH04) | 479 km |
+| 731 | [Hyuntak Lee](https://www.worldcubeassociation.org/persons/2014LEEH04) | 479 km |
+| 732 | [Geonhu Park](https://www.worldcubeassociation.org/persons/2025PARK11) | 479 km |
 | 733 | [Seongun Gu](https://www.worldcubeassociation.org/persons/2018GUSE01) | 478 km |
 | 734 | [Jongbeom Kim](https://www.worldcubeassociation.org/persons/2024KIMJ24) | 478 km |
 | 735 | [Robin Kim (김로빈)](https://www.worldcubeassociation.org/persons/2022KIMR01) | 476 km |
@@ -747,26 +747,26 @@
 | 740 | [JiHwan Kang (강지환)](https://www.worldcubeassociation.org/persons/2025KANG12) | 471 km |
 | 741 | [Toki Kim (김도기)](https://www.worldcubeassociation.org/persons/2025KIMT03) | 471 km |
 | 742 | [Eom Hayule (엄하율)](https://www.worldcubeassociation.org/persons/2026HAYU01) | 469 km |
-| 743 | [Yunseul Bae (배윤슬)](https://www.worldcubeassociation.org/persons/2023BAEY01) | 467 km |
-| 744 | [KyuHyok Yim](https://www.worldcubeassociation.org/persons/2023YIMK02) | 467 km |
-| 745 | [Jiseop Yoon (윤지섭)](https://www.worldcubeassociation.org/persons/2023YOON03) | 467 km |
+| 743 | [Jiseop Yoon (윤지섭)](https://www.worldcubeassociation.org/persons/2023YOON03) | 467 km |
+| 744 | [Yunseul Bae (배윤슬)](https://www.worldcubeassociation.org/persons/2023BAEY01) | 467 km |
+| 745 | [KyuHyok Yim](https://www.worldcubeassociation.org/persons/2023YIMK02) | 467 km |
 | 746 | [Hae Kang Lim (임해강)](https://www.worldcubeassociation.org/persons/2025LIMH01) | 466 km |
 | 747 | [Jinwoo Choi (최진우)](https://www.worldcubeassociation.org/persons/2025CHOI02) | 466 km |
 | 748 | [Ji Gyeongwon](https://www.worldcubeassociation.org/persons/2015GYEO01) | 459 km |
 | 749 | [Yunho Chung](https://www.worldcubeassociation.org/persons/2024CHUN01) | 457 km |
-| 750 | [Joseph Choi (최주현)](https://www.worldcubeassociation.org/persons/2014CHOI03) | 455 km |
-| 751 | [Theo Chin](https://www.worldcubeassociation.org/persons/2023CHIN30) | 455 km |
+| 750 | [Theo Chin](https://www.worldcubeassociation.org/persons/2023CHIN30) | 455 km |
+| 751 | [Joseph Choi (최주현)](https://www.worldcubeassociation.org/persons/2014CHOI03) | 455 km |
 | 752 | [Han Chae Hee (한채희)](https://www.worldcubeassociation.org/persons/2024HEEH01) | 454 km |
 | 753 | [JeongYun Ham (함정윤)](https://www.worldcubeassociation.org/persons/2015HAMJ01) | 451 km |
 | 754 | [Bang Juwan (방주완)](https://www.worldcubeassociation.org/persons/2026JUWA01) | 450 km |
 | 755 | [Jin Ho Seo (서진호)](https://www.worldcubeassociation.org/persons/2015SEOJ04) | 449 km |
 | 756 | [Juwan Ra](https://www.worldcubeassociation.org/persons/2022RAJU03) | 448 km |
 | 757 | [Jaewon Lee](https://www.worldcubeassociation.org/persons/2022LEEJ04) | 444 km |
-| 758 | [Seoa Kwon (권서아)](https://www.worldcubeassociation.org/persons/2025KWON11) | 442 km |
-| 759 | [Jia Kwon (권지아)](https://www.worldcubeassociation.org/persons/2025KWON09) | 442 km |
+| 758 | [Jia Kwon (권지아)](https://www.worldcubeassociation.org/persons/2025KWON09) | 442 km |
+| 759 | [Seoa Kwon (권서아)](https://www.worldcubeassociation.org/persons/2025KWON11) | 442 km |
 | 760 | [Sungwon Moon](https://www.worldcubeassociation.org/persons/2024MOON11) | 441 km |
-| 761 | [Ji Seo Hu (지서후)](https://www.worldcubeassociation.org/persons/2024HUJI02) | 440 km |
-| 762 | [Jae Yong Lee (이재용)](https://www.worldcubeassociation.org/persons/2013LEEJ04) | 440 km |
+| 761 | [Jae Yong Lee (이재용)](https://www.worldcubeassociation.org/persons/2013LEEJ04) | 440 km |
+| 762 | [Ji Seo Hu (지서후)](https://www.worldcubeassociation.org/persons/2024HUJI02) | 440 km |
 | 763 | [Park SeonWoo (박선우)](https://www.worldcubeassociation.org/persons/2024SEON06) | 436 km |
 | 764 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) | 434 km |
 | 765 | [Dayu Hyun (현다유)](https://www.worldcubeassociation.org/persons/2024HYUN04) | 433 km |
@@ -774,18 +774,18 @@
 | 767 | [Cho Jeyeon (조제연)](https://www.worldcubeassociation.org/persons/2024JEYE01) | 429 km |
 | 768 | [Seungjin Kwon (권승진)](https://www.worldcubeassociation.org/persons/2013KWON04) | 428 km |
 | 769 | [Sang-Jun Moon (문상준)](https://www.worldcubeassociation.org/persons/2011SANG02) | 427 km |
-| 770 | [Dahoon Lee (이다훈)](https://www.worldcubeassociation.org/persons/2024LEED02) | 426 km |
-| 771 | [Hojun Lee (이호준)](https://www.worldcubeassociation.org/persons/2023LEEH05) | 426 km |
+| 770 | [Hojun Lee (이호준)](https://www.worldcubeassociation.org/persons/2023LEEH05) | 426 km |
+| 771 | [Dahoon Lee (이다훈)](https://www.worldcubeassociation.org/persons/2024LEED02) | 426 km |
 | 772 | [YuGeon Shin](https://www.worldcubeassociation.org/persons/2025SHIN10) | 425 km |
-| 773 | [Shin Do Hyun (신도현)](https://www.worldcubeassociation.org/persons/2015HYUN10) | 421 km |
+| 773 | [Minjun Kwon (권민준)](https://www.worldcubeassociation.org/persons/2025KWON06) | 421 km |
 | 774 | [Minjae Kwon (권민재)](https://www.worldcubeassociation.org/persons/2025KWON05) | 421 km |
-| 775 | [Minjun Kwon (권민준)](https://www.worldcubeassociation.org/persons/2025KWON06) | 421 km |
+| 775 | [Shin Do Hyun (신도현)](https://www.worldcubeassociation.org/persons/2015HYUN10) | 421 km |
 | 776 | [Jinwoo Lee](https://www.worldcubeassociation.org/persons/2022LEEJ17) | 420 km |
 | 777 | [Jinwoo Lee (이진우)](https://www.worldcubeassociation.org/persons/2018LEEJ08) | 420 km |
 | 778 | [Myeongguk Choi (최명국)](https://www.worldcubeassociation.org/persons/2018CHOI19) | 409 km |
 | 779 | [Lee Jung Hun (이정훈)](https://www.worldcubeassociation.org/persons/2015HUNL01) | 409 km |
-| 780 | [Woohyung Kang](https://www.worldcubeassociation.org/persons/2022KANG08) | 408 km |
-| 781 | [Dong Gyom Ryu (류동겸)](https://www.worldcubeassociation.org/persons/2025RYUD01) | 408 km |
+| 780 | [Dong Gyom Ryu (류동겸)](https://www.worldcubeassociation.org/persons/2025RYUD01) | 408 km |
+| 781 | [Woohyung Kang](https://www.worldcubeassociation.org/persons/2022KANG08) | 408 km |
 | 782 | [Hongsuh Ahn](https://www.worldcubeassociation.org/persons/2015AHNH01) | 407 km |
 | 783 | [David Kim](https://www.worldcubeassociation.org/persons/2022KIMD07) | 407 km |
 | 784 | [Isu Jang](https://www.worldcubeassociation.org/persons/2015JANG02) | 407 km |
@@ -801,24 +801,24 @@
 | 794 | [Lee DoHun (이도훈)](https://www.worldcubeassociation.org/persons/2024DOHU01) | 386 km |
 | 795 | [Gaon Yoon (윤가온)](https://www.worldcubeassociation.org/persons/2024YOON11) | 385 km |
 | 796 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | 384 km |
-| 797 | [Jihun Kim (김지훈)](https://www.worldcubeassociation.org/persons/2024KIMJ27) | 382 km |
-| 798 | [Jang Hyeon Seong](https://www.worldcubeassociation.org/persons/2016SEON01) | 382 km |
-| 799 | [Lee Jaehoon](https://www.worldcubeassociation.org/persons/2022JAEH03) | 382 km |
+| 797 | [Jang Hyeon Seong](https://www.worldcubeassociation.org/persons/2016SEON01) | 382 km |
+| 798 | [Lee Jaehoon](https://www.worldcubeassociation.org/persons/2022JAEH03) | 382 km |
+| 799 | [Jihun Kim (김지훈)](https://www.worldcubeassociation.org/persons/2024KIMJ27) | 382 km |
 | 800 | [Hyeok Bang (방혁)](https://www.worldcubeassociation.org/persons/2024BANG04) | 381 km |
 | 801 | [Sunmuk Kang](https://www.worldcubeassociation.org/persons/2013KANG01) | 380 km |
 | 802 | [Ji-Yu Kim](https://www.worldcubeassociation.org/persons/2016KIMJ08) | 380 km |
-| 803 | [Lee JeongJun (이정준)](https://www.worldcubeassociation.org/persons/2024JEON07) | 379 km |
-| 804 | [Joseph Hong](https://www.worldcubeassociation.org/persons/2008HONG01) | 379 km |
+| 803 | [Joseph Hong](https://www.worldcubeassociation.org/persons/2008HONG01) | 379 km |
+| 804 | [Lee JeongJun (이정준)](https://www.worldcubeassociation.org/persons/2024JEON07) | 379 km |
 | 805 | [Kim Ha Min (김하민)](https://www.worldcubeassociation.org/persons/2024MINK01) | 377 km |
 | 806 | [Taehun Jo (조태훈)](https://www.worldcubeassociation.org/persons/2018JOTA01) | 374 km |
-| 807 | [Park SuChan (박수찬)](https://www.worldcubeassociation.org/persons/2023SUCH06) | 372 km |
-| 808 | [Sungeun Song](https://www.worldcubeassociation.org/persons/2023SONG21) | 372 km |
-| 809 | [Geeoh Park](https://www.worldcubeassociation.org/persons/2024PARK34) | 372 km |
-| 810 | [Seulah Kang (강슬아)](https://www.worldcubeassociation.org/persons/2023KANG31) | 372 km |
-| 811 | [JuWon Choi (최주원)](https://www.worldcubeassociation.org/persons/2023CHOI29) | 372 km |
+| 807 | [Geeoh Park](https://www.worldcubeassociation.org/persons/2024PARK34) | 372 km |
+| 808 | [JuWon Choi (최주원)](https://www.worldcubeassociation.org/persons/2023CHOI29) | 372 km |
+| 809 | [Seulah Kang (강슬아)](https://www.worldcubeassociation.org/persons/2023KANG31) | 372 km |
+| 810 | [Sungeun Song](https://www.worldcubeassociation.org/persons/2023SONG21) | 372 km |
+| 811 | [Park SuChan (박수찬)](https://www.worldcubeassociation.org/persons/2023SUCH06) | 372 km |
 | 812 | [Seo Hyungmin (서형민)](https://www.worldcubeassociation.org/persons/2023HYUN02) | 372 km |
-| 813 | [Dan Kim](https://www.worldcubeassociation.org/persons/2023KIMD04) | 370 km |
-| 814 | [Seongung Yu (유성웅)](https://www.worldcubeassociation.org/persons/2024YUSE03) | 370 km |
+| 813 | [Seongung Yu (유성웅)](https://www.worldcubeassociation.org/persons/2024YUSE03) | 370 km |
+| 814 | [Dan Kim](https://www.worldcubeassociation.org/persons/2023KIMD04) | 370 km |
 | 815 | [Min Kwan Seo (서민관)](https://www.worldcubeassociation.org/persons/2024SEOM01) | 369 km |
 | 816 | [JunSun Park (박준선)](https://www.worldcubeassociation.org/persons/2022PARK51) | 367 km |
 | 817 | [Michael Deshazer](https://www.worldcubeassociation.org/persons/2024IIIM01) | 364 km |
@@ -835,61 +835,61 @@
 | 828 | [Lee Kangjoon](https://www.worldcubeassociation.org/persons/2015KANG06) | 352 km |
 | 829 | [Jeon Jae-Guk](https://www.worldcubeassociation.org/persons/2007JAEG01) | 350 km |
 | 830 | [Geunho Yang](https://www.worldcubeassociation.org/persons/2022YANG12) | 350 km |
-| 831 | [Jang Jun-Min](https://www.worldcubeassociation.org/persons/2007JUNM01) | 350 km |
+| 831 | [Ki Hyuk Moon (문기혁)](https://www.worldcubeassociation.org/persons/2022MOON10) | 350 km |
 | 832 | [Kim Hyun-Gyum](https://www.worldcubeassociation.org/persons/2007HYUN01) | 350 km |
-| 833 | [Ki Hyuk Moon (문기혁)](https://www.worldcubeassociation.org/persons/2022MOON10) | 350 km |
+| 833 | [Jang Jun-Min](https://www.worldcubeassociation.org/persons/2007JUNM01) | 350 km |
 | 834 | [Yang Si Woo (양시우)](https://www.worldcubeassociation.org/persons/2023WOOY02) | 349 km |
 | 835 | [Sungyi Lee](https://www.worldcubeassociation.org/persons/2017LEES09) | 349 km |
 | 836 | [Seonmin Jeong](https://www.worldcubeassociation.org/persons/2024JEON09) | 348 km |
 | 837 | [Minchul Kim (김민철)](https://www.worldcubeassociation.org/persons/2023KIMM12) | 347 km |
-| 838 | [SeYoon Na](https://www.worldcubeassociation.org/persons/2016NASE03) | 347 km |
+| 838 | [Cho Hyeong-jun (조형준)](https://www.worldcubeassociation.org/persons/2015HYEO02) | 347 km |
 | 839 | [Jihun Baek](https://www.worldcubeassociation.org/persons/2022BAEK01) | 347 km |
-| 840 | [Cho Hyeong-jun (조형준)](https://www.worldcubeassociation.org/persons/2015HYEO02) | 347 km |
+| 840 | [SeYoon Na](https://www.worldcubeassociation.org/persons/2016NASE03) | 347 km |
 | 841 | [Jeon Sang-Jae](https://www.worldcubeassociation.org/persons/2006SANG01) | 346 km |
 | 842 | [Sean Park](https://www.worldcubeassociation.org/persons/2018PARK27) | 345 km |
-| 843 | [Lee Jin-Ho](https://www.worldcubeassociation.org/persons/2008JINH01) | 344 km |
-| 844 | [Jung Chang-Hwan](https://www.worldcubeassociation.org/persons/2008CHAN01) | 344 km |
+| 843 | [Jung Chang-Hwan](https://www.worldcubeassociation.org/persons/2008CHAN01) | 344 km |
+| 844 | [Lee Jin-Ho](https://www.worldcubeassociation.org/persons/2008JINH01) | 344 km |
 | 845 | [Noah Lee](https://www.worldcubeassociation.org/persons/2022LEEN05) | 342 km |
 | 846 | [Ihyun Jung (정이현)](https://www.worldcubeassociation.org/persons/2025JUNG01) | 342 km |
 | 847 | [Toda Baek](https://www.worldcubeassociation.org/persons/2024BAEK04) | 341 km |
-| 848 | [Byeong-Hyeon Woo](https://www.worldcubeassociation.org/persons/2013WOOB02) | 340 km |
-| 849 | [Chae Min-Su](https://www.worldcubeassociation.org/persons/2007MINS01) | 340 km |
-| 850 | [Seonghun Kim (김성훈)](https://www.worldcubeassociation.org/persons/2014KIMS01) | 339 km |
-| 851 | [Kanghyun Han](https://www.worldcubeassociation.org/persons/2023HANK05) | 339 km |
-| 852 | [Han Do Hyun (한도현)](https://www.worldcubeassociation.org/persons/2018HYUN01) | 339 km |
-| 853 | [Yerang Joy Kim](https://www.worldcubeassociation.org/persons/2024KIMY08) | 338 km |
-| 854 | [Jun Shin (신준)](https://www.worldcubeassociation.org/persons/2024SHIN08) | 338 km |
+| 848 | [Chae Min-Su](https://www.worldcubeassociation.org/persons/2007MINS01) | 340 km |
+| 849 | [Byeong-Hyeon Woo](https://www.worldcubeassociation.org/persons/2013WOOB02) | 340 km |
+| 850 | [Han Do Hyun (한도현)](https://www.worldcubeassociation.org/persons/2018HYUN01) | 339 km |
+| 851 | [Seonghun Kim (김성훈)](https://www.worldcubeassociation.org/persons/2014KIMS01) | 339 km |
+| 852 | [Kanghyun Han](https://www.worldcubeassociation.org/persons/2023HANK05) | 339 km |
+| 853 | [Jun Shin (신준)](https://www.worldcubeassociation.org/persons/2024SHIN08) | 338 km |
+| 854 | [Yerang Joy Kim](https://www.worldcubeassociation.org/persons/2024KIMY08) | 338 km |
 | 855 | [Youngmin Park (박영민)](https://www.worldcubeassociation.org/persons/2013PARK14) | 337 km |
 | 856 | [Jisung Kim (김지성)](https://www.worldcubeassociation.org/persons/2014KIMJ03) | 336 km |
 | 857 | [Ahn Jongseok](https://www.worldcubeassociation.org/persons/2016JONG02) | 335 km |
 | 858 | [Dawoon Yun](https://www.worldcubeassociation.org/persons/2023YUND01) | 334 km |
 | 859 | [BuHong Cho (조부홍)](https://www.worldcubeassociation.org/persons/2025CHOB01) | 334 km |
-| 860 | [Sieon Jeong](https://www.worldcubeassociation.org/persons/2024JEON04) | 333 km |
-| 861 | [Jaeseok Ryou](https://www.worldcubeassociation.org/persons/2015RYOU01) | 333 km |
-| 862 | [Bae YooChan (배유찬)](https://www.worldcubeassociation.org/persons/2018YOOC01) | 332 km |
-| 863 | [Chae Ju Yeong (채주영)](https://www.worldcubeassociation.org/persons/2018YEON04) | 332 km |
+| 860 | [Jaeseok Ryou](https://www.worldcubeassociation.org/persons/2015RYOU01) | 333 km |
+| 861 | [Sieon Jeong](https://www.worldcubeassociation.org/persons/2024JEON04) | 333 km |
+| 862 | [Chae Ju Yeong (채주영)](https://www.worldcubeassociation.org/persons/2018YEON04) | 332 km |
+| 863 | [Bae YooChan (배유찬)](https://www.worldcubeassociation.org/persons/2018YOOC01) | 332 km |
 | 864 | [Dong Hyeong Kim](https://www.worldcubeassociation.org/persons/2014KIMD04) | 332 km |
-| 865 | [Kitae Park](https://www.worldcubeassociation.org/persons/2022PARK44) | 330 km |
-| 866 | [Shin YuHo (신유호)](https://www.worldcubeassociation.org/persons/2024YUHO01) | 330 km |
+| 865 | [Shin YuHo (신유호)](https://www.worldcubeassociation.org/persons/2024YUHO01) | 330 km |
+| 866 | [Kitae Park](https://www.worldcubeassociation.org/persons/2022PARK44) | 330 km |
 | 867 | [Jeon JaeHyuk (전재혁)](https://www.worldcubeassociation.org/persons/2024JAEH01) | 328 km |
 | 868 | [Byoung Kang](https://www.worldcubeassociation.org/persons/2023KANG02) | 328 km |
 | 869 | [Hong Ji-Young](https://www.worldcubeassociation.org/persons/2007JIYO01) | 327 km |
-| 870 | [Jung Lae-Min](https://www.worldcubeassociation.org/persons/2007LAEM01) | 327 km |
-| 871 | [Ha Young-Duck](https://www.worldcubeassociation.org/persons/2007YOUN01) | 327 km |
-| 872 | [YoungWoo Na (나영우)](https://www.worldcubeassociation.org/persons/2024YOUN17) | 327 km |
+| 870 | [Ha Young-Duck](https://www.worldcubeassociation.org/persons/2007YOUN01) | 327 km |
+| 871 | [YoungWoo Na (나영우)](https://www.worldcubeassociation.org/persons/2024YOUN17) | 327 km |
+| 872 | [Jung Lae-Min](https://www.worldcubeassociation.org/persons/2007LAEM01) | 327 km |
 | 873 | [Garam Lee](https://www.worldcubeassociation.org/persons/2023LEEG08) | 326 km |
 | 874 | [Soo-young Hwang](https://www.worldcubeassociation.org/persons/2016HWAN04) | 326 km |
 | 875 | [Johnavon Kim](https://www.worldcubeassociation.org/persons/2016KIMJ15) | 326 km |
 | 876 | [Gyu-hyeon Lee](https://www.worldcubeassociation.org/persons/2016LEEG02) | 326 km |
-| 877 | [Seoyul Kim (김서율)](https://www.worldcubeassociation.org/persons/2024KIMS16) | 324 km |
-| 878 | [Park Chanseo (박찬서)](https://www.worldcubeassociation.org/persons/2024CHAN02) | 324 km |
+| 877 | [Park Chanseo (박찬서)](https://www.worldcubeassociation.org/persons/2024CHAN02) | 324 km |
+| 878 | [Seoyul Kim (김서율)](https://www.worldcubeassociation.org/persons/2024KIMS16) | 324 km |
 | 879 | [Yujun Kye](https://www.worldcubeassociation.org/persons/2024KYEY01) | 324 km |
-| 880 | [Hansol Lee (이한솔)](https://www.worldcubeassociation.org/persons/2022LEEH04) | 322 km |
-| 881 | [Jinwon Shin (신진원)](https://www.worldcubeassociation.org/persons/2021SHIN02) | 322 km |
-| 882 | [EunChea Lee (이은채)](https://www.worldcubeassociation.org/persons/2023LEEE13) | 322 km |
-| 883 | [Kim Mu Jung (김무중)](https://www.worldcubeassociation.org/persons/2018JUNG06) | 321 km |
-| 884 | [Inseo Yoon (윤인서)](https://www.worldcubeassociation.org/persons/2018YOON05) | 321 km |
-| 885 | [Lee Do Hoon (이도훈)](https://www.worldcubeassociation.org/persons/2018HOON01) | 321 km |
+| 880 | [EunChea Lee (이은채)](https://www.worldcubeassociation.org/persons/2023LEEE13) | 322 km |
+| 881 | [Hansol Lee (이한솔)](https://www.worldcubeassociation.org/persons/2022LEEH04) | 322 km |
+| 882 | [Jinwon Shin (신진원)](https://www.worldcubeassociation.org/persons/2021SHIN02) | 322 km |
+| 883 | [Inseo Yoon (윤인서)](https://www.worldcubeassociation.org/persons/2018YOON05) | 321 km |
+| 884 | [Lee Do Hoon (이도훈)](https://www.worldcubeassociation.org/persons/2018HOON01) | 321 km |
+| 885 | [Kim Mu Jung (김무중)](https://www.worldcubeassociation.org/persons/2018JUNG06) | 321 km |
 | 886 | [Hyunjun Park (박현준)](https://www.worldcubeassociation.org/persons/2021PARK05) | 320 km |
 | 887 | [MinJun Park (박민준)](https://www.worldcubeassociation.org/persons/2024PARK10) | 319 km |
 | 888 | [YeonHo Yoo (유연호)](https://www.worldcubeassociation.org/persons/2024YOOY01) | 318 km |
@@ -902,29 +902,29 @@
 | 895 | [JunWoo Lee (이준우)](https://www.worldcubeassociation.org/persons/2022LEEJ29) | 312 km |
 | 896 | [Choi SiOn (최시온)](https://www.worldcubeassociation.org/persons/2024SION01) | 312 km |
 | 897 | [Juwon Kim](https://www.worldcubeassociation.org/persons/2023KIMJ02) | 311 km |
-| 898 | [Lee Siwon (이시원)](https://www.worldcubeassociation.org/persons/2023SIWO01) | 309 km |
-| 899 | [Seojin Park (박서진)](https://www.worldcubeassociation.org/persons/2023PARK21) | 309 km |
-| 900 | [Lee Kanghyun](https://www.worldcubeassociation.org/persons/2015KANG05) | 309 km |
+| 898 | [Lee Kanghyun](https://www.worldcubeassociation.org/persons/2015KANG05) | 309 km |
+| 899 | [Lee Siwon (이시원)](https://www.worldcubeassociation.org/persons/2023SIWO01) | 309 km |
+| 900 | [Seojin Park (박서진)](https://www.worldcubeassociation.org/persons/2023PARK21) | 309 km |
 | 901 | [Jaeyong Hong](https://www.worldcubeassociation.org/persons/2022HONG17) | 308 km |
 | 902 | [Hojin Kim](https://www.worldcubeassociation.org/persons/2022KIMH11) | 306 km |
-| 903 | [YounJe Kwon (권윤제)](https://www.worldcubeassociation.org/persons/2022KWON05) | 306 km |
-| 904 | [Hajin Kim](https://www.worldcubeassociation.org/persons/2022KIMH10) | 306 km |
+| 903 | [Hajin Kim](https://www.worldcubeassociation.org/persons/2022KIMH10) | 306 km |
+| 904 | [YounJe Kwon (권윤제)](https://www.worldcubeassociation.org/persons/2022KWON05) | 306 km |
 | 905 | [Seunghyo Kang](https://www.worldcubeassociation.org/persons/2023KANG32) | 305 km |
 | 906 | [EunYoo Kim (김은유)](https://www.worldcubeassociation.org/persons/2024KIME02) | 305 km |
 | 907 | [Jaehyuk Lee (이재혁)](https://www.worldcubeassociation.org/persons/2019JAEH01) | 303 km |
 | 908 | [Geon Woo Kang (강건우)](https://www.worldcubeassociation.org/persons/2024KANG06) | 302 km |
 | 909 | [Ian Kim](https://www.worldcubeassociation.org/persons/2025KIMI01) | 302 km |
 | 910 | [MaRu Lee (이마루)](https://www.worldcubeassociation.org/persons/2023LEEM10) | 301 km |
-| 911 | [Seojin Lee](https://www.worldcubeassociation.org/persons/2026LEES05) | 300 km |
+| 911 | [Jiyoung Baik (백지영)](https://www.worldcubeassociation.org/persons/2025BAIK01) | 300 km |
 | 912 | [WooJin Lee](https://www.worldcubeassociation.org/persons/2026LEEW01) | 300 km |
 | 913 | [Sung Jae Lee (이성재)](https://www.worldcubeassociation.org/persons/2015LEES03) | 300 km |
-| 914 | [Jiyoung Baik (백지영)](https://www.worldcubeassociation.org/persons/2025BAIK01) | 300 km |
+| 914 | [Seojin Lee](https://www.worldcubeassociation.org/persons/2026LEES05) | 300 km |
 | 915 | [Yeongseo Hwang (황영서)](https://www.worldcubeassociation.org/persons/2024HWAN12) | 299 km |
 | 916 | [YeoEun Lee (이여은)](https://www.worldcubeassociation.org/persons/2024LEEY05) | 299 km |
-| 917 | [Yeji Seo (서예지)](https://www.worldcubeassociation.org/persons/2021SEOY01) | 297 km |
-| 918 | [Hyeonmyeong Cho](https://www.worldcubeassociation.org/persons/2021CHOH01) | 297 km |
-| 919 | [Si Hun Yu (유시훈)](https://www.worldcubeassociation.org/persons/2023YOOS03) | 297 km |
-| 920 | [Geonhee Kim](https://www.worldcubeassociation.org/persons/2021KIMG01) | 297 km |
+| 917 | [Hyeonmyeong Cho](https://www.worldcubeassociation.org/persons/2021CHOH01) | 297 km |
+| 918 | [Si Hun Yu (유시훈)](https://www.worldcubeassociation.org/persons/2023YOOS03) | 297 km |
+| 919 | [Geonhee Kim](https://www.worldcubeassociation.org/persons/2021KIMG01) | 297 km |
+| 920 | [Yeji Seo (서예지)](https://www.worldcubeassociation.org/persons/2021SEOY01) | 297 km |
 | 921 | [Hyunsoo Choi (최현수)](https://www.worldcubeassociation.org/persons/2021CHOI03) | 297 km |
 | 922 | [Woojun Yang (양우준)](https://www.worldcubeassociation.org/persons/2023YANG97) | 296 km |
 | 923 | [Park Junmo (박준모)](https://www.worldcubeassociation.org/persons/2022JUNM02) | 295 km |
@@ -932,74 +932,74 @@
 | 925 | [ChaeWon Han (한채원)](https://www.worldcubeassociation.org/persons/2013HANC01) | 295 km |
 | 926 | [Siwoo Lee (이시우)](https://www.worldcubeassociation.org/persons/2022LEES10) | 294 km |
 | 927 | [Lim Jun (임준)](https://www.worldcubeassociation.org/persons/2026JUNL02) | 293 km |
-| 928 | [Lee Juan (이주안)](https://www.worldcubeassociation.org/persons/2026JUAN01) | 292 km |
-| 929 | [Jaeyoung Kim](https://www.worldcubeassociation.org/persons/2026KIMJ04) | 292 km |
+| 928 | [Lee Hyun Gyu (이현규)](https://www.worldcubeassociation.org/persons/2023GYUL01) | 292 km |
+| 929 | [Lee Juan (이주안)](https://www.worldcubeassociation.org/persons/2026JUAN01) | 292 km |
 | 930 | [Lee Hoyeul (이호열)](https://www.worldcubeassociation.org/persons/2026HOYE02) | 292 km |
 | 931 | [Lee Hoo Seung (이후승)](https://www.worldcubeassociation.org/persons/2026SEUN02) | 292 km |
-| 932 | [Taewon Kang (강태원)](https://www.worldcubeassociation.org/persons/2026KANG10) | 292 km |
-| 933 | [YuHo Lee (이유호)](https://www.worldcubeassociation.org/persons/2026LEEY07) | 292 km |
+| 932 | [Gaeun Ko (고가은)](https://www.worldcubeassociation.org/persons/2026KOGA01) | 292 km |
+| 933 | [Geon U Kim (김건우)](https://www.worldcubeassociation.org/persons/2026KIMG04) | 292 km |
 | 934 | [Woojin Jo (조우진)](https://www.worldcubeassociation.org/persons/2026JOWO01) | 292 km |
-| 935 | [Geon U Kim (김건우)](https://www.worldcubeassociation.org/persons/2026KIMG04) | 292 km |
-| 936 | [Gaeun Ko (고가은)](https://www.worldcubeassociation.org/persons/2026KOGA01) | 292 km |
-| 937 | [Lee Hyun Gyu (이현규)](https://www.worldcubeassociation.org/persons/2023GYUL01) | 292 km |
-| 938 | [Cho SeungBin (조승빈)](https://www.worldcubeassociation.org/persons/2023SEUN04) | 292 km |
-| 939 | [Choi JiWon (최지원)](https://www.worldcubeassociation.org/persons/2023JIWO01) | 292 km |
-| 940 | [SeokJun Moon](https://www.worldcubeassociation.org/persons/2016MOON02) | 292 km |
-| 941 | [Heejun Jung](https://www.worldcubeassociation.org/persons/2023JUNG19) | 292 km |
-| 942 | [YeSung Ma (마예성)](https://www.worldcubeassociation.org/persons/2023MAYE06) | 292 km |
+| 935 | [Choi JiWon (최지원)](https://www.worldcubeassociation.org/persons/2023JIWO01) | 292 km |
+| 936 | [SeokJun Moon](https://www.worldcubeassociation.org/persons/2016MOON02) | 292 km |
+| 937 | [Heejun Jung](https://www.worldcubeassociation.org/persons/2023JUNG19) | 292 km |
+| 938 | [Jaeyoung Kim](https://www.worldcubeassociation.org/persons/2026KIMJ04) | 292 km |
+| 939 | [Taewon Kang (강태원)](https://www.worldcubeassociation.org/persons/2026KANG10) | 292 km |
+| 940 | [YeSung Ma (마예성)](https://www.worldcubeassociation.org/persons/2023MAYE06) | 292 km |
+| 941 | [Cho SeungBin (조승빈)](https://www.worldcubeassociation.org/persons/2023SEUN04) | 292 km |
+| 942 | [YuHo Lee (이유호)](https://www.worldcubeassociation.org/persons/2026LEEY07) | 292 km |
 | 943 | [Lim Ji Hoon (임지훈)](https://www.worldcubeassociation.org/persons/2023HOON02) | 291 km |
 | 944 | [Devin Kim](https://www.worldcubeassociation.org/persons/2012KIMD05) | 291 km |
 | 945 | [SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01) | 290 km |
 | 946 | [ChanWoo Kim](https://www.worldcubeassociation.org/persons/2023KIMC03) | 289 km |
-| 947 | [Cho Yoon Hyung](https://www.worldcubeassociation.org/persons/2016HYUN01) | 288 km |
-| 948 | [Edwin Kim](https://www.worldcubeassociation.org/persons/2017KIME01) | 288 km |
+| 947 | [Edwin Kim](https://www.worldcubeassociation.org/persons/2017KIME01) | 288 km |
+| 948 | [Cho Yoon Hyung](https://www.worldcubeassociation.org/persons/2016HYUN01) | 288 km |
 | 949 | [Seung-Ho Shin (신승호)](https://www.worldcubeassociation.org/persons/2024SHIN05) | 288 km |
 | 950 | [SeoHu Kim (김서후)](https://www.worldcubeassociation.org/persons/2023KIMS08) | 287 km |
 | 951 | [Hwang Seong (황성)](https://www.worldcubeassociation.org/persons/2024SEON03) | 286 km |
 | 952 | [Dongwoo Jeon (전동우)](https://www.worldcubeassociation.org/persons/2023JEON17) | 286 km |
 | 953 | [Jiho Byun (변지호)](https://www.worldcubeassociation.org/persons/2025BYUN01) | 285 km |
-| 954 | [Jeong SiYeong (정시영)](https://www.worldcubeassociation.org/persons/2021SIYE01) | 284 km |
+| 954 | [Sihyun Kim (김시현)](https://www.worldcubeassociation.org/persons/2024KIMS03) | 284 km |
 | 955 | [JiHoon Kim (김지훈)](https://www.worldcubeassociation.org/persons/2024KIMJ28) | 284 km |
-| 956 | [Sihyun Kim (김시현)](https://www.worldcubeassociation.org/persons/2024KIMS03) | 284 km |
+| 956 | [Jeong SiYeong (정시영)](https://www.worldcubeassociation.org/persons/2021SIYE01) | 284 km |
 | 957 | [Jeong SiOn (정시온)](https://www.worldcubeassociation.org/persons/2021SION01) | 284 km |
-| 958 | [Hyunseung Ko (고현승)](https://www.worldcubeassociation.org/persons/2025KOHY02) | 282 km |
-| 959 | [JaeWon Yang (양재원)](https://www.worldcubeassociation.org/persons/2023YANG76) | 282 km |
+| 958 | [JaeWon Yang (양재원)](https://www.worldcubeassociation.org/persons/2023YANG76) | 282 km |
+| 959 | [Hyunseung Ko (고현승)](https://www.worldcubeassociation.org/persons/2025KOHY02) | 282 km |
 | 960 | [Junseo Lee](https://www.worldcubeassociation.org/persons/2023LEEJ25) | 281 km |
-| 961 | [Nikolai Kumshatskii (쿰샤트스키 니콜라이)](https://www.worldcubeassociation.org/persons/2025KUMS01) | 280 km |
-| 962 | [Gyuri Park (박규리)](https://www.worldcubeassociation.org/persons/2023PARK15) | 280 km |
-| 963 | [Sumin Chae (채수민)](https://www.worldcubeassociation.org/persons/2016CHAE01) | 280 km |
+| 961 | [Gyuri Park (박규리)](https://www.worldcubeassociation.org/persons/2023PARK15) | 280 km |
+| 962 | [Sumin Chae (채수민)](https://www.worldcubeassociation.org/persons/2016CHAE01) | 280 km |
+| 963 | [Nikolai Kumshatskii (쿰샤트스키 니콜라이)](https://www.worldcubeassociation.org/persons/2025KUMS01) | 280 km |
 | 964 | [Yeseong Yang](https://www.worldcubeassociation.org/persons/2023YANG14) | 279 km |
 | 965 | [Cho Minjae (조민재)](https://www.worldcubeassociation.org/persons/2023MINJ02) | 274 km |
-| 966 | [Seung-Woo Song (송승우)](https://www.worldcubeassociation.org/persons/2025SONG06) | 273 km |
-| 967 | [Sehwan Park (박세환)](https://www.worldcubeassociation.org/persons/2021PARK07) | 273 km |
+| 966 | [Sehwan Park (박세환)](https://www.worldcubeassociation.org/persons/2021PARK07) | 273 km |
+| 967 | [Seung-Woo Song (송승우)](https://www.worldcubeassociation.org/persons/2025SONG06) | 273 km |
 | 968 | [Do Lee](https://www.worldcubeassociation.org/persons/2023LEED02) | 272 km |
-| 969 | [Jang Cham Gyeol](https://www.worldcubeassociation.org/persons/2023GYEO01) | 272 km |
-| 970 | [MinKyu Kwon](https://www.worldcubeassociation.org/persons/2023KWON01) | 272 km |
+| 969 | [Junu Park (박준우)](https://www.worldcubeassociation.org/persons/2023PARK19) | 272 km |
+| 970 | [Jiseok Yoon](https://www.worldcubeassociation.org/persons/2023YOON04) | 272 km |
 | 971 | [Song Keon Woo (송건우)](https://www.worldcubeassociation.org/persons/2023WOOS01) | 272 km |
-| 972 | [Hong Jun Hwa (홍준화)](https://www.worldcubeassociation.org/persons/2022HWAH01) | 272 km |
-| 973 | [Jiseok Yoon](https://www.worldcubeassociation.org/persons/2023YOON04) | 272 km |
-| 974 | [Taehyung Kim](https://www.worldcubeassociation.org/persons/2023KIMT01) | 272 km |
-| 975 | [Junu Park (박준우)](https://www.worldcubeassociation.org/persons/2023PARK19) | 272 km |
-| 976 | [Young Joon Kim (김영준)](https://www.worldcubeassociation.org/persons/2011KIMY01) | 272 km |
-| 977 | [Yejun Kim (김예준)](https://www.worldcubeassociation.org/persons/2024KIMY12) | 272 km |
-| 978 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2023YOOS04) | 272 km |
-| 979 | [Jae Wan Lee](https://www.worldcubeassociation.org/persons/2023LEEJ06) | 272 km |
-| 980 | [Juhan Kim](https://www.worldcubeassociation.org/persons/2026KIMJ11) | 272 km |
-| 981 | [Yul Son (손율)](https://www.worldcubeassociation.org/persons/2023SONY01) | 272 km |
-| 982 | [Jeong Woo Park (박정우)](https://www.worldcubeassociation.org/persons/2023PARK17) | 272 km |
-| 983 | [Go Jun (고준)](https://www.worldcubeassociation.org/persons/2022JUNG07) | 272 km |
+| 972 | [Juhan Kim](https://www.worldcubeassociation.org/persons/2026KIMJ11) | 272 km |
+| 973 | [Hong Jun Hwa (홍준화)](https://www.worldcubeassociation.org/persons/2022HWAH01) | 272 km |
+| 974 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2023YOOS04) | 272 km |
+| 975 | [Jang Cham Gyeol](https://www.worldcubeassociation.org/persons/2023GYEO01) | 272 km |
+| 976 | [Jeong Woo Park (박정우)](https://www.worldcubeassociation.org/persons/2023PARK17) | 272 km |
+| 977 | [Taehyung Kim](https://www.worldcubeassociation.org/persons/2023KIMT01) | 272 km |
+| 978 | [Yul Son (손율)](https://www.worldcubeassociation.org/persons/2023SONY01) | 272 km |
+| 979 | [Young Joon Kim (김영준)](https://www.worldcubeassociation.org/persons/2011KIMY01) | 272 km |
+| 980 | [Jae Wan Lee](https://www.worldcubeassociation.org/persons/2023LEEJ06) | 272 km |
+| 981 | [Go Jun (고준)](https://www.worldcubeassociation.org/persons/2022JUNG07) | 272 km |
+| 982 | [MinKyu Kwon](https://www.worldcubeassociation.org/persons/2023KWON01) | 272 km |
+| 983 | [Yejun Kim (김예준)](https://www.worldcubeassociation.org/persons/2024KIMY12) | 272 km |
 | 984 | [Hangyeol Lee](https://www.worldcubeassociation.org/persons/2023LEEH04) | 271 km |
 | 985 | [Jihun Go (고지훈)](https://www.worldcubeassociation.org/persons/2023GOJI01) | 271 km |
 | 986 | [Minsoo Seo (서민수)](https://www.worldcubeassociation.org/persons/2025SEOM01) | 270 km |
 | 987 | [Jung Jay (정재이)](https://www.worldcubeassociation.org/persons/2022JAYJ01) | 270 km |
 | 988 | [Bobae Kim](https://www.worldcubeassociation.org/persons/2025KIMB01) | 269 km |
-| 989 | [Do Eun](https://www.worldcubeassociation.org/persons/2016EUND01) | 269 km |
-| 990 | [Se-jun Park](https://www.worldcubeassociation.org/persons/2016PARK08) | 269 km |
-| 991 | [JiHu Kim (김지후)](https://www.worldcubeassociation.org/persons/2023KIMJ25) | 268 km |
-| 992 | [Yeonu Jeong (정연우)](https://www.worldcubeassociation.org/persons/2023JEON12) | 268 km |
-| 993 | [Jisung Park (박지성)](https://www.worldcubeassociation.org/persons/2026PARK20) | 267 km |
-| 994 | [Seungyun Yu (유승윤)](https://www.worldcubeassociation.org/persons/2026YUSE01) | 267 km |
-| 995 | [SeoJin Park (박서진)](https://www.worldcubeassociation.org/persons/2026PARK21) | 267 km |
+| 989 | [Se-jun Park](https://www.worldcubeassociation.org/persons/2016PARK08) | 269 km |
+| 990 | [Do Eun](https://www.worldcubeassociation.org/persons/2016EUND01) | 269 km |
+| 991 | [Yeonu Jeong (정연우)](https://www.worldcubeassociation.org/persons/2023JEON12) | 268 km |
+| 992 | [JiHu Kim (김지후)](https://www.worldcubeassociation.org/persons/2023KIMJ25) | 268 km |
+| 993 | [Seungyun Yu (유승윤)](https://www.worldcubeassociation.org/persons/2026YUSE01) | 267 km |
+| 994 | [SeoJin Park (박서진)](https://www.worldcubeassociation.org/persons/2026PARK21) | 267 km |
+| 995 | [Jisung Park (박지성)](https://www.worldcubeassociation.org/persons/2026PARK20) | 267 km |
 | 996 | [Siwoo Hwang](https://www.worldcubeassociation.org/persons/2023HWAN04) | 266 km |
 | 997 | [Joowan Choi (최주완)](https://www.worldcubeassociation.org/persons/2024CHOI10) | 265 km |
 | 998 | [SeokWoo Kim](https://www.worldcubeassociation.org/persons/2018KIMS02) | 265 km |

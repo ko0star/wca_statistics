@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | NRs | Person |
 | ---: | ---: | :--- |
@@ -29,17 +29,17 @@
 | 23 | 7 | [Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01) |
 | 24 | 6 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) |
 | 25 | 6 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
-| 26 | 6 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
-| 27 | 6 | [Jaemin Jeon (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) |
-| 28 | 6 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) |
-| 29 | 6 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) |
-| 30 | 6 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
-| 31 | 6 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) |
-| 32 | 5 | [Lee Min Woo](https://www.worldcubeassociation.org/persons/2011WOOL01) |
-| 33 | 5 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) |
-| 34 | 4 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
-| 35 | 4 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
-| 36 | 4 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
+| 26 | 6 | [Jaemin Jeon (전재민)](https://www.worldcubeassociation.org/persons/2011JAEM01) |
+| 27 | 6 | [Kyoungmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2007KYOU01) |
+| 28 | 6 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) |
+| 29 | 6 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
+| 30 | 6 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) |
+| 31 | 5 | [Lee Min Woo](https://www.worldcubeassociation.org/persons/2011WOOL01) |
+| 32 | 5 | [Park Sang-Jun](https://www.worldcubeassociation.org/persons/2008SANG01) |
+| 33 | 4 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
+| 34 | 4 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
+| 35 | 4 | [Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01) |
+| 36 | 4 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) |
 | 37 | 4 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
 | 38 | 4 | [Lee Jin-Hyung (이진형)](https://www.worldcubeassociation.org/persons/2010JINH01) |
 | 39 | 4 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) |

@@ -1,6 +1,6 @@
 ## Most attended competitions in a single week
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | Competitions | Person | Start date | End date | List |
 | ---: | ---: | :--- | :--- | :--- | :--- |
@@ -102,7 +102,7 @@
 | 96 | 2 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | 27&nbsp;Jan&nbsp;2025 |  2&nbsp;Feb&nbsp;2025 | [Caviteminx 2025](https://www.worldcubeassociation.org/competitions/Caviteminx2025), [Big Time Manila 2025](https://www.worldcubeassociation.org/competitions/BigTimeManila2025) |
 | 97 | 2 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | 16&nbsp;Mar&nbsp;2026 | 22&nbsp;Mar&nbsp;2026 | [Guam Open 2026](https://www.worldcubeassociation.org/competitions/GuamOpen2026), [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026) |
 | 98 | 2 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |  1&nbsp;May&nbsp;2023 |  7&nbsp;May&nbsp;2023 | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023), [Seoul Spring 2023](https://www.worldcubeassociation.org/competitions/SeoulSpring2023) |
-| 99 | 2 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 15&nbsp;Jun&nbsp;2026 | 21&nbsp;Jun&nbsp;2026 | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026), [Toronto Mini Big & Blind 2026](https://www.worldcubeassociation.org/competitions/TorontoMiniBigBlind2026) |
+| 99 | 2 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 15&nbsp;Jun&nbsp;2026 | 21&nbsp;Jun&nbsp;2026 | [Toronto Mini Big & Blind 2026](https://www.worldcubeassociation.org/competitions/TorontoMiniBigBlind2026), [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) |
 | 100 | 2 | [Oh Chang-Min (오창민)](https://www.worldcubeassociation.org/persons/2018CHAN39) |  1&nbsp;May&nbsp;2023 |  7&nbsp;May&nbsp;2023 | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023), [Seoul Spring 2023](https://www.worldcubeassociation.org/competitions/SeoulSpring2023) |
 | 101 | 2 | [Sanghoo Park (박상후)](https://www.worldcubeassociation.org/persons/2015PARK26) |  1&nbsp;May&nbsp;2023 |  7&nbsp;May&nbsp;2023 | [FMC Korea 2023](https://www.worldcubeassociation.org/competitions/FMCKorea2023), [Seoul Spring 2023](https://www.worldcubeassociation.org/competitions/SeoulSpring2023) |
 | 102 | 2 | [Seojin Bahng (방서진)](https://www.worldcubeassociation.org/persons/2022BAHN01) | 17&nbsp;Oct&nbsp;2022 | 23&nbsp;Oct&nbsp;2022 | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022), [Please Be Quiet Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBeQuietKorea2022) |

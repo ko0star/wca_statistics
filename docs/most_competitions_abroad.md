@@ -1,13 +1,13 @@
 ## Most competitions abroad
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
 | 1 | 99 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2 | 67 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) |
 | 3 | 48 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
-| 4 | 45 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
+| 4 | 46 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) |
 | 5 | 38 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) |
 | 6 | 37 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 7 | 36 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
@@ -17,7 +17,7 @@
 | 11 | 26 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
 | 12 | 20 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
 | 13 | 20 | [Kunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMK01) |
-| 14 | 19 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
+| 14 | 20 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
 | 15 | 19 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) |
 | 16 | 18 | [Sichan Joseph Lee](https://www.worldcubeassociation.org/persons/2024LEES04) |
 | 17 | 18 | [Chaeyoung Kim](https://www.worldcubeassociation.org/persons/2021KIMC02) |

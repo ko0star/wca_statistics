@@ -1,7 +1,7 @@
 ## Rolling year rankings
 
 *Note: Only results from the last 365 days are included.*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 
 ### Rubik's Cube - Single
@@ -36,8 +36,8 @@
 | 26 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | **6.39** | Republic of Korea | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 8.27, 7.41, 7.01, 7.09, 6.39 |
 | 27 | [Jeongwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2023KIMJ24) | **6.41** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.93, 6.41, 9.18, 7.64, 9.55 |
 | 28 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) | **6.44** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 9.30, 7.90, 6.44, 9.31, 6.92 |
-| 29 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) | **6.46** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 8.21, 10.05, 8.74, 6.46, 9.17 |
-| 30 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | **6.47** | Republic of Korea | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) | 10.09, 6.47, 9.67, 8.80, 8.36 |
+| 29 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **6.45** | Republic of Korea | [Davis Big Summer 2026](https://www.worldcubeassociation.org/competitions/DavisBigSummer2026) | 7.84, 7.64, 9.56, 7.24, 6.45 |
+| 30 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) | **6.46** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 8.21, 10.05, 8.74, 6.46, 9.17 |
 
 ### Rubik's Cube - Average
 
@@ -59,20 +59,20 @@
 | 14 | [Dongyoung Lee](https://www.worldcubeassociation.org/persons/2022LEED07) | **7.34** | Republic of Korea | [Hillister Cube Hustle 2026](https://www.worldcubeassociation.org/competitions/HillisterCubeHustle2026) | 7.93, 8.23, 6.59, 6.91, 7.18 |
 | 15 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | **7.42** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 7.68, 7.35, 7.22, 7.06, 8.92 |
 | 16 | [Yongjun Dan (단용준)](https://www.worldcubeassociation.org/persons/2014DANY02) | **7.56** | Republic of Korea | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026) | 7.39, 7.06, 8.07, 7.23, 8.98 |
-| 17 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | **7.59** | Republic of Korea | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) | 6.68, 8.63, 8.21, 7.11, 7.46 |
-| 18 | [Youyong Kim (김유용)](https://www.worldcubeassociation.org/persons/2019KIMY04) | **7.63** | Republic of Korea | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 7.11, 7.59, 7.81, 7.48, 8.36 |
-| 19 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | **7.65** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 7.31, 7.76, 7.89, 8.89, 7.12 |
-| 20 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | **7.71** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 8.30, 7.23, 8.43, 7.11, 7.61 |
-| 21 | [Yunsung Nam](https://www.worldcubeassociation.org/persons/2024NAMY01) | **7.80** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.66, 5.47, 8.75, 10.83, 7.00 |
-| 22 | [Jeongwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2023KIMJ24) | **7.83** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.14, 7.56, 9.85, 7.75, 8.18 |
-| 23 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **7.90** | Republic of Korea | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026) | 9.16, 7.67, 8.27, 7.51, 7.77 |
-| 24 | [Jihyun Choi (최지현)](https://www.worldcubeassociation.org/persons/2019CHOI10) | **7.91** | Republic of Korea | [Uhseo Osong 2026](https://www.worldcubeassociation.org/competitions/UhseoOsong2026) | 7.97, 9.19, 7.83, 6.63, 7.93 |
-| 25 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | **7.91** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 6.90, 8.38, 8.15, 7.19, 10.62 |
-| 26 | [Kim Eden (김이든)](https://www.worldcubeassociation.org/persons/2024EDEN01) | **7.93** | Republic of Korea | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026) | 6.98, 8.84, 8.00, 8.80, 5.91 |
-| 27 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | **7.94** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.49, 8.38, 7.77, 7.68, 9.18 |
-| 28 | [Mun Jung Hwan](https://www.worldcubeassociation.org/persons/2022HWAN07) | **7.97** | Republic of Korea | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026) | 9.76, 8.20, 8.09, 6.25, 7.62 |
-| 29 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) | **7.98** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 7.63, 7.89, 10.18, 8.43, 7.59 |
-| 30 | [Hyunseung Ko (고현승)](https://www.worldcubeassociation.org/persons/2025KOHY02) | **8.01** | Republic of Korea | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026) | 7.77, 7.07, 8.00, 8.25, 8.94 |
+| 17 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **7.57** | Republic of Korea | [Davis Big Summer 2026](https://www.worldcubeassociation.org/competitions/DavisBigSummer2026) | 7.84, 7.64, 9.56, 7.24, 6.45 |
+| 18 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | **7.59** | Republic of Korea | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) | 6.68, 8.63, 8.21, 7.11, 7.46 |
+| 19 | [Youyong Kim (김유용)](https://www.worldcubeassociation.org/persons/2019KIMY04) | **7.63** | Republic of Korea | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 7.11, 7.59, 7.81, 7.48, 8.36 |
+| 20 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | **7.65** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 7.31, 7.76, 7.89, 8.89, 7.12 |
+| 21 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | **7.71** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 8.30, 7.23, 8.43, 7.11, 7.61 |
+| 22 | [Yunsung Nam](https://www.worldcubeassociation.org/persons/2024NAMY01) | **7.80** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.66, 5.47, 8.75, 10.83, 7.00 |
+| 23 | [Jeongwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2023KIMJ24) | **7.83** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.14, 7.56, 9.85, 7.75, 8.18 |
+| 24 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **7.90** | Republic of Korea | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026) | 9.16, 7.67, 8.27, 7.51, 7.77 |
+| 25 | [Jihyun Choi (최지현)](https://www.worldcubeassociation.org/persons/2019CHOI10) | **7.91** | Republic of Korea | [Uhseo Osong 2026](https://www.worldcubeassociation.org/competitions/UhseoOsong2026) | 7.97, 9.19, 7.83, 6.63, 7.93 |
+| 26 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | **7.91** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 6.90, 8.38, 8.15, 7.19, 10.62 |
+| 27 | [Kim Eden (김이든)](https://www.worldcubeassociation.org/persons/2024EDEN01) | **7.93** | Republic of Korea | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026) | 6.98, 8.84, 8.00, 8.80, 5.91 |
+| 28 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | **7.94** | Republic of Korea | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | 7.49, 8.38, 7.77, 7.68, 9.18 |
+| 29 | [Mun Jung Hwan](https://www.worldcubeassociation.org/persons/2022HWAN07) | **7.97** | Republic of Korea | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026) | 9.76, 8.20, 8.09, 6.25, 7.62 |
+| 30 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) | **7.98** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 7.63, 7.89, 10.18, 8.43, 7.59 |
 
 ### 2x2x2 Cube - Single
 
@@ -212,7 +212,7 @@
 | 27 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) | **31.95** | Republic of Korea | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 33.11, 31.74, 30.99, 29.74, 33.11 |
 | 28 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | **32.58** | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) | 31.27, 33.38, 39.63, 33.08, 26.60 |
 | 29 | [Min-Hyuk Son (손민혁)](https://www.worldcubeassociation.org/persons/2018SONM01) | **32.63** | Republic of Korea | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026) | 35.31, 37.25, 30.64, 31.94, 30.08 |
-| 30 | [Moon Joonwoo (문준우)](https://www.worldcubeassociation.org/persons/2023JOON02) | **32.81** | Republic of Korea | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | 34.08, 31.66, 32.69, 35.38, 28.91 |
+| 30 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **32.64** | Republic of Korea | [Davis Big Summer 2026](https://www.worldcubeassociation.org/competitions/DavisBigSummer2026) | 30.16, 34.40, 35.64, 29.58, 33.35 |
 
 ### 5x5x5 Cube - Single
 
@@ -490,8 +490,8 @@
 
 | # | Person | Result | Country | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- | :--- |
-| 1 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **17** | Republic of Korea | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026) | 21, 17, 20 |
-| 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **19** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 23, 24, 19 |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **19** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 23, 24, 19 |
+| 2 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **20** | Republic of Korea | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026) | 21, 20, 21 |
 | 3 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **21** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 25, 26, 21 |
 | 4 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | **22** | Republic of Korea | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 24, 22, DNF |
 | 5 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | **22** | Republic of Korea | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 22, 26 |
@@ -525,7 +525,7 @@
 
 | # | Person | Result | Country | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- | :--- |
-| 1 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **19.33** | Republic of Korea | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026) | 21, 17, 20 |
+| 1 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | **20.67** | Republic of Korea | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026) | 21, 20, 21 |
 | 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **21.00** | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) | 21, 22, 20 |
 | 3 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | **23.33** | Republic of Korea | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 22, 26 |
 | 4 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | **24.00** | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) | 23, 23, 26 |
