@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 
 ### Rubik's Cube
@@ -163,9 +163,9 @@
 | 12 | 0 | [ChoongMyoung Lee (이충명)](https://www.worldcubeassociation.org/persons/2012LEEC01) | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) |
 | 13 | 0 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) |
 | 14 | 0 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | [Montreal 2013](https://www.worldcubeassociation.org/competitions/MontrealOpen2013) |
-| 15 | 0 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
+| 15 | 0 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
 | 16 | 0 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022) |
-| 17 | 0 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
+| 17 | 0 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012) |
 
 ### 3x3x3 One-Handed
 

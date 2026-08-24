@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 
 ### Competition
@@ -8,59 +8,59 @@
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025) | **11584** | 12063 |
-| 2 | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) | **7932** | 8302 |
-| 3 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | **6852** | 7135 |
-| 4 | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023) | **5648** | 5964 |
-| 5 | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025) | **5205** | 5300 |
-| 6 | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022) | **4487** | 4792 |
-| 7 | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | **4480** | 4696 |
-| 8 | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) | **4300** | 4523 |
-| 9 | [Busan Spring 2024](https://www.worldcubeassociation.org/competitions/BusanSpring2024) | **4288** | 4380 |
-| 10 | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) | **4264** | 4492 |
-| 11 | [Daegu Spring 2023](https://www.worldcubeassociation.org/competitions/DaeguSpring2023) | **4108** | 4215 |
-| 12 | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016) | **4025** | 4260 |
-| 13 | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025) | **3735** | 3857 |
-| 14 | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) | **3692** | 3875 |
-| 15 | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | **3541** | 3689 |
-| 16 | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022) | **3415** | 3499 |
-| 17 | [Suwon Summer 2025](https://www.worldcubeassociation.org/competitions/SuwonSummer2025) | **3364** | 3440 |
-| 18 | [Daejeon Spring 2025](https://www.worldcubeassociation.org/competitions/DaejeonSpring2025) | **3301** | 3373 |
-| 19 | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026) | **3267** | 3443 |
-| 20 | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017) | **3260** | 3437 |
+| 2 | [Korea Open 2026](https://www.worldcubeassociation.org/competitions/KoreaOpen2026) | **9974** | 10407 |
+| 3 | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) | **7932** | 8302 |
+| 4 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) | **6852** | 7135 |
+| 5 | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023) | **5648** | 5964 |
+| 6 | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025) | **5205** | 5300 |
+| 7 | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022) | **4487** | 4792 |
+| 8 | [Seoul Winter 2026](https://www.worldcubeassociation.org/competitions/SeoulWinter2026) | **4480** | 4696 |
+| 9 | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018) | **4300** | 4523 |
+| 10 | [Busan Spring 2024](https://www.worldcubeassociation.org/competitions/BusanSpring2024) | **4288** | 4380 |
+| 11 | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) | **4264** | 4492 |
+| 12 | [Daegu Spring 2023](https://www.worldcubeassociation.org/competitions/DaeguSpring2023) | **4108** | 4215 |
+| 13 | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016) | **4025** | 4260 |
+| 14 | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025) | **3735** | 3857 |
+| 15 | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024) | **3692** | 3875 |
+| 16 | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026) | **3541** | 3689 |
+| 17 | [Seoul Summer 2022](https://www.worldcubeassociation.org/competitions/SeoulSummer2022) | **3415** | 3499 |
+| 18 | [Suwon Summer 2025](https://www.worldcubeassociation.org/competitions/SuwonSummer2025) | **3364** | 3440 |
+| 19 | [Daejeon Spring 2025](https://www.worldcubeassociation.org/competitions/DaejeonSpring2025) | **3301** | 3373 |
+| 20 | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026) | **3267** | 3443 |
 
 ### Person
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **5510** | 5775 |
-| 2 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5466** | 5578 |
-| 3 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **4417** | 4635 |
+| 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | **5650** | 5919 |
+| 2 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | **5571** | 5690 |
+| 3 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | **4528** | 4747 |
 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | **3866** | 4074 |
 | 5 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | **3645** | 3791 |
-| 6 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | **3372** | 3652 |
-| 7 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | **3247** | 3389 |
-| 8 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | **3156** | 3206 |
-| 9 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **3140** | 3304 |
-| 10 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **3105** | 3394 |
+| 6 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | **3457** | 3743 |
+| 7 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | **3286** | 3428 |
+| 8 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | **3225** | 3393 |
+| 9 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | **3200** | 3495 |
+| 10 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | **3171** | 3221 |
 | 11 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | **2271** | 2329 |
-| 12 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **2158** | 2194 |
-| 13 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | **2048** | 2104 |
-| 14 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | **2030** | 2103 |
-| 15 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **1938** | 2071 |
-| 16 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **1880** | 1965 |
-| 17 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | **1874** | 1941 |
-| 18 | [Jerry Hwang (황동욱)](https://www.worldcubeassociation.org/persons/2017HWAN04) | **1831** | 1840 |
-| 19 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | **1727** | 1821 |
-| 20 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | **1565** | 1631 |
+| 12 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | **2187** | 2245 |
+| 13 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | **2158** | 2194 |
+| 14 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | **2150** | 2229 |
+| 15 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | **2073** | 2213 |
+| 16 | [Jerry Hwang (황동욱)](https://www.worldcubeassociation.org/persons/2017HWAN04) | **1917** | 1926 |
+| 17 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | **1880** | 1965 |
+| 18 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | **1874** | 1941 |
+| 19 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | **1805** | 1905 |
+| 20 | [Keunsoo Heo (허근수)](https://www.worldcubeassociation.org/persons/2014HEOG01) | **1582** | 1637 |
 
 ### Country
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | Republic of Korea | **226487** | 237095 |
+| 1 | Republic of Korea | **236461** | 247502 |
 | 2 | United States | **31645** | 32750 |
-| 3 | Canada | **5942** | 6244 |
-| 4 | Chinese Taipei | **2846** | 3004 |
+| 3 | Canada | **6051** | 6358 |
+| 4 | Chinese Taipei | **2861** | 3019 |
 | 5 | Australia | **2628** | 2776 |
 | 6 | Malaysia | **2501** | 2604 |
 | 7 | Philippines | **2326** | 2394 |
@@ -68,10 +68,10 @@
 | 9 | China | **2202** | 2305 |
 | 10 | Germany | **1770** | 1836 |
 | 11 | Singapore | **1743** | 1917 |
-| 12 | United Kingdom | **1695** | 1751 |
-| 13 | New Zealand | **1690** | 1800 |
+| 12 | New Zealand | **1735** | 1845 |
+| 13 | United Kingdom | **1695** | 1751 |
 | 14 | Thailand | **1544** | 1595 |
-| 15 | Poland | **1125** | 1181 |
+| 15 | Poland | **1180** | 1238 |
 | 16 | Hong Kong, China | **817** | 851 |
 | 17 | Netherlands | **791** | 817 |
 | 18 | Indonesia | **745** | 778 |
@@ -82,10 +82,10 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | Asia | **245488** | 257117 |
-| 2 | North America | **37799** | 39219 |
-| 3 | Europe | **10011** | 10427 |
-| 4 | Oceania | **4318** | 4576 |
+| 1 | Asia | **255477** | 267539 |
+| 2 | North America | **37908** | 39333 |
+| 3 | Europe | **10066** | 10484 |
+| 4 | Oceania | **4363** | 4621 |
 | 5 | South America | **682** | 715 |
 | 6 | Africa | **599** | 643 |
 | 7 | Multiple Continents | **131** | 173 |
@@ -96,8 +96,8 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2025 | **58212** | 60546 |
 | 2 | 2024 | **49705** | 51864 |
-| 3 | 2023 | **35171** | 36850 |
-| 4 | 2026 | **30283** | 31804 |
+| 3 | 2026 | **40481** | 42442 |
+| 4 | 2023 | **35171** | 36850 |
 | 5 | 2019 | **22364** | 23533 |
 | 6 | 2022 | **18922** | 19920 |
 | 7 | 2018 | **16321** | 17081 |
@@ -119,20 +119,20 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **100569** | 102645 |
-| 2 | 2x2x2 Cube | **45486** | 46618 |
-| 3 | 4x4x4 Cube | **29844** | 30587 |
-| 4 | Pyraminx | **22653** | 23187 |
-| 5 | 3x3x3 One-Handed | **21501** | 22081 |
-| 6 | 5x5x5 Cube | **18369** | 18749 |
-| 7 | Skewb | **17630** | 18025 |
-| 8 | Megaminx | **10464** | 10749 |
-| 9 | Clock | **8613** | 9970 |
-| 10 | Square-1 | **7890** | 8133 |
-| 11 | 6x6x6 Cube | **5175** | 5316 |
-| 12 | 7x7x7 Cube | **4297** | 4461 |
-| 13 | 3x3x3 Blindfolded | **2224** | 5902 |
-| 14 | 3x3x3 Fewest Moves | **1683** | 2112 |
+| 1 | 3x3x3 Cube | **103104** | 105235 |
+| 2 | 2x2x2 Cube | **47128** | 48298 |
+| 3 | 4x4x4 Cube | **31024** | 31786 |
+| 4 | Pyraminx | **23754** | 24322 |
+| 5 | 3x3x3 One-Handed | **22300** | 22896 |
+| 6 | 5x5x5 Cube | **19174** | 19562 |
+| 7 | Skewb | **18308** | 18717 |
+| 8 | Megaminx | **10835** | 11125 |
+| 9 | Clock | **8951** | 10374 |
+| 10 | Square-1 | **8164** | 8414 |
+| 11 | 6x6x6 Cube | **5396** | 5542 |
+| 12 | 7x7x7 Cube | **4461** | 4636 |
+| 13 | 3x3x3 Blindfolded | **2313** | 6153 |
+| 14 | 3x3x3 Fewest Moves | **1684** | 2113 |
 | 15 | 3x3x3 With Feet | **740** | 826 |
 | 16 | Magic | **716** | 790 |
 | 17 | Master Magic | **408** | 425 |

@@ -1,6 +1,6 @@
 ## Asian records count by person
 
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 | # | AsRs | Person |
 | ---: | ---: | :--- |

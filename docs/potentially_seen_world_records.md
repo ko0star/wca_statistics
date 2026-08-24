@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 | # | WRs | Person |
 | ---: | ---: | :--- |
@@ -41,7 +41,7 @@
 | 34 | 9 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) |
 | 35 | 9 | [Yuji Yoon (尹 裕智)](https://www.worldcubeassociation.org/persons/2008YOON01) |
 | 36 | 9 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 37 | 9 | [Seung-Gi Chae](https://www.worldcubeassociation.org/persons/2017CHAE03) |
+| 37 | 9 | [Seung-Gi Chae (채승기)](https://www.worldcubeassociation.org/persons/2017CHAE03) |
 | 38 | 9 | [Yeeun Park (박예은)](https://www.worldcubeassociation.org/persons/2018PARK09) |
 | 39 | 9 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
 | 40 | 9 | [Lee Jun-Kyo](https://www.worldcubeassociation.org/persons/2005JUNK01) |

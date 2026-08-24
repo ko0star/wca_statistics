@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 
 ### Rubik's Cube
@@ -16,18 +16,18 @@
 | 6 | 6.25 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 5.09, 6.48, 6.69, 6.28, 5.98 |
 | 7 | 6.50 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 5.77, 6.47, 9.87, 7.10, 5.93 |
 | 8 | 6.53 | [JeYoung Park (박제영)](https://www.worldcubeassociation.org/persons/2024PARK56) | 5.67, 10.05, 5.39, 6.83, 7.09 |
-| 9 | 6.60 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 7.00, 7.11, 6.05, 6.75, 5.48 |
-| 10 | 6.63 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) | 6.35, 7.29, 6.64, 6.76, 6.50 |
-| 11 | 6.79 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 6.79, 6.41, 6.24, 7.52, 7.16 |
-| 12 | 6.79 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 6.74, 6.47, 5.06, 9.93, 7.15 |
-| 13 | 6.79 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 6.71, 7.11, 6.55, 7.96, 6.38 |
+| 9 | 6.55 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 6.41, 7.39, 6.40, 6.62, 6.62 |
+| 10 | 6.56 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 6.80, 6.56, 5.28, 8.11, 6.33 |
+| 11 | 6.60 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 7.00, 7.11, 6.05, 6.75, 5.48 |
+| 12 | 6.63 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) | 6.35, 7.29, 6.64, 6.76, 6.50 |
+| 13 | 6.79 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 6.79, 6.41, 6.24, 7.52, 7.16 |
 | 14 | 6.81 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | 6.40, 8.52, 7.16, 6.88, 6.20 |
 | 15 | 6.95 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 6.69, 6.71, 8.89, 7.46, 6.47 |
 | 16 | 6.96 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | 7.01, 7.09, 6.39, 8.02, 6.79 |
 | 17 | 7.00 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 5.52, 8.18, 7.24, 6.31, 7.46 |
 | 18 | 7.07 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | 7.71, 6.55, 7.37, 6.25, 7.29 |
 | 19 | 7.10 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | 7.19, 7.29, 8.25, 6.46, 6.81 |
-| 20 | 7.19 | [Dongyoung Lee](https://www.worldcubeassociation.org/persons/2022LEED07) | 6.73, 7.93, 8.23, 6.59, 6.91 |
+| 20 | 7.11 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 6.83, 7.35, 13.31, 6.22, 7.16 |
 
 ### 2x2x2 Cube
 
@@ -36,23 +36,23 @@
 | 1 | 1.09 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 0.73, 0.94, 1.40, 1.70, 0.94 |
 | 2 | 1.26 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 1.05, 1.75, 1.29, 1.03, 1.43 |
 | 3 | 1.35 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 2.04, 1.26, 1.28, 1.36, 1.41 |
-| 4 | 1.57 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.46, 1.62, 1.49, 2.07, 1.59 |
-| 5 | 1.58 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 5.47, 1.52, 1.53, 1.64, 1.58 |
-| 6 | 1.58 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1.64, 1.46, 4.21, 1.59, 1.51 |
-| 7 | 1.65 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 3.21, 1.58, 1.48, 1.54, 1.83 |
-| 8 | 1.66 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 1.57, 2.53, 1.19, 2.11, 1.30 |
-| 9 | 1.68 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | 1.76, 1.60, 2.23, 0.77, 1.69 |
-| 10 | 1.71 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.94, 1.26, 2.09, 1.69, 1.50 |
-| 11 | 1.72 | [Hajin Jeon (전하진)](https://www.worldcubeassociation.org/persons/2018JEON01) | 1.33, 2.95, 2.26, 1.56, 1.28 |
-| 12 | 1.73 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.70, 1.60, 2.78, 1.35, 1.90 |
-| 13 | 1.73 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | DNF, 1.36, 1.05, 1.67, 2.15 |
-| 14 | 1.78 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | 3.08, 1.78, 1.65, 1.81, 1.75 |
-| 15 | 1.79 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | 1.56, 1.84, 1.79, 3.47, 1.73 |
-| 16 | 1.80 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | 1.65, 1.65, 3.52, 2.10, 1.43 |
-| 17 | 1.82 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | 1.44, 1.89, 1.96, 2.87, 1.60 |
-| 18 | 1.85 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.84, 1.77, 1.69, 3.44, 1.93 |
-| 19 | 1.89 | [DongKeon Lee (이동건)](https://www.worldcubeassociation.org/persons/2023LEED08) | 3.78, 1.87, 1.92, 1.80, 1.87 |
-| 20 | 1.91 | [Seung-Ho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.57, 3.74, 2.17, 1.48, 2.00 |
+| 4 | 1.52 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.69, 1.52, 2.13, 1.18, 1.36 |
+| 5 | 1.57 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.46, 1.62, 1.49, 2.07, 1.59 |
+| 6 | 1.58 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 5.47, 1.52, 1.53, 1.64, 1.58 |
+| 7 | 1.58 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1.64, 1.46, 4.21, 1.59, 1.51 |
+| 8 | 1.60 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | 0.85, 1.27, 1.93, 4.04, 1.61 |
+| 9 | 1.65 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 3.21, 1.58, 1.48, 1.54, 1.83 |
+| 10 | 1.66 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | 1.57, 2.53, 1.19, 2.11, 1.30 |
+| 11 | 1.68 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | 1.76, 1.60, 2.23, 0.77, 1.69 |
+| 12 | 1.71 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.94, 1.26, 2.09, 1.69, 1.50 |
+| 13 | 1.72 | [Hajin Jeon (전하진)](https://www.worldcubeassociation.org/persons/2018JEON01) | 1.33, 2.95, 2.26, 1.56, 1.28 |
+| 14 | 1.73 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | DNF, 1.36, 1.05, 1.67, 2.15 |
+| 15 | 1.74 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 2.47, 1.35, 1.66, 1.56, 2.01 |
+| 16 | 1.78 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | 3.08, 1.78, 1.65, 1.81, 1.75 |
+| 17 | 1.80 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | 1.65, 1.65, 3.52, 2.10, 1.43 |
+| 18 | 1.82 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | 1.44, 1.89, 1.96, 2.87, 1.60 |
+| 19 | 1.85 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.84, 1.77, 1.69, 3.44, 1.93 |
+| 20 | 1.89 | [DongKeon Lee (이동건)](https://www.worldcubeassociation.org/persons/2023LEED08) | 3.78, 1.87, 1.92, 1.80, 1.87 |
 
 ### 4x4x4 Cube
 
@@ -83,8 +83,8 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 36.27 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 34.53, 35.30, 38.97, 39.44, 33.82 |
-| 2 | 42.56 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 40.01, 40.66, 51.65, 41.11, 45.92 |
+| 1 | 36.23 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 35.87, 37.77, 35.03, 41.23, 35.05 |
+| 2 | 42.09 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 43.98, 42.79, 39.70, 43.17, 40.32 |
 | 3 | 43.05 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 40.87, 43.31, 44.44, 42.47, 43.38 |
 | 4 | 47.68 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 52.42, 44.61, 44.48, 52.12, 46.32 |
 | 5 | 48.72 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 48.99, 53.80, 48.05, 47.14, 49.12 |
@@ -102,7 +102,7 @@
 | 17 | 53.78 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 54.86, 56.84, 52.37, 54.12, 50.35 |
 | 18 | 53.80 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) | 53.31, 49.13, 54.84, 1:01.23, 53.26 |
 | 19 | 54.01 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | 51.17, 59.26, 54.93, 54.57, 52.53 |
-| 20 | 54.66 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) | 1:06.33, 56.78, 52.35, 52.09, 54.86 |
+| 20 | 54.30 | [DongGeon Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD08) | 51.37, 53.02, 1:03.06, 58.20, 51.69 |
 
 ### 6x6x6 Cube
 
@@ -110,24 +110,24 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 1:08.77 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:11.57, 1:07.51, 1:09.36, 1:03.81, 1:09.44 |
 | 2 | 1:14.19 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:12.66, 1:12.75, DNF, 1:16.01, 1:13.80 |
-| 3 | 1:29.28 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 1:29.02, 1:45.44, 1:26.64, 1:32.19, 1:23.26 |
-| 4 | 1:29.53 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 1:23.08, 1:27.27, 1:31.54, 1:30.72, 1:30.59 |
+| 3 | 1:28.42 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 1:26.36, 1:31.65, 1:28.88, 1:30.01, 1:21.10 |
+| 4 | 1:29.28 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 1:29.02, 1:45.44, 1:26.64, 1:32.19, 1:23.26 |
 | 5 | 1:30.51 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 1:21.06, 1:43.69, 1:27.16, 1:30.52, 1:33.86 |
-| 6 | 1:33.15 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 1:22.83, 1:33.18, 2:11.82, 1:30.54, 1:35.73 |
+| 6 | 1:32.44 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 1:28.00, 1:33.42, 1:32.74, 1:38.46, 1:31.16 |
 | 7 | 1:33.29 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | 1:43.78, 1:34.44, 1:35.75, 1:20.79, 1:29.69 |
-| 8 | 1:34.80 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 1:29.51, 1:30.22, 1:41.53, 1:41.42, 1:32.77 |
-| 9 | 1:39.11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1:39.65, 1:43.78, 1:42.43, 1:35.24, 1:34.42 |
-| 10 | 1:39.16 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 1:38.37, 1:41.02, 1:44.18, 1:35.18, 1:38.08 |
-| 11 | 1:39.83 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1:33.88, 1:34.46, 1:57.05, 1:51.14, 1:30.16 |
-| 12 | 1:40.36 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | 1:56.07, 1:37.63, 1:41.81, 1:40.69, 1:38.57 |
-| 13 | 1:40.70 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 1:36.70, 1:42.53, 1:46.24, 1:42.87, 1:33.96 |
+| 8 | 1:34.43 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1:33.84, 1:36.94, 1:42.41, 1:32.51, 1:28.28 |
+| 9 | 1:34.80 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 1:29.51, 1:30.22, 1:41.53, 1:41.42, 1:32.77 |
+| 10 | 1:37.72 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 1:47.57, 1:38.43, 1:35.26, 1:38.62, 1:36.10 |
+| 11 | 1:39.11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1:39.65, 1:43.78, 1:42.43, 1:35.24, 1:34.42 |
+| 12 | 1:39.16 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 1:38.37, 1:41.02, 1:44.18, 1:35.18, 1:38.08 |
+| 13 | 1:40.36 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | 1:56.07, 1:37.63, 1:41.81, 1:40.69, 1:38.57 |
 | 14 | 1:40.72 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 2:00.26, 1:35.49, 1:42.31, 1:44.37, 1:33.94 |
 | 15 | 1:41.78 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 1:39.57, 1:42.24, 2:01.71, 1:41.63, 1:41.46 |
 | 16 | 1:41.79 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 1:34.77, 1:56.61, 1:46.91, 1:34.97, 1:43.49 |
-| 17 | 1:47.29 | [Geonhee Park (박건희)](https://www.worldcubeassociation.org/persons/2023PARK09) | 1:43.93, 1:42.16, 1:48.55, 2:04.83, 1:49.38 |
-| 18 | 1:47.34 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | 1:42.64, 1:45.82, 1:54.62, 1:47.40, 1:48.81 |
-| 19 | 1:49.66 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) | 2:03.54, 1:48.56, 1:46.99, 1:49.81, 1:50.60 |
-| 20 | 1:49.82 | [Jerry Hwang (황동욱)](https://www.worldcubeassociation.org/persons/2017HWAN04) | 1:40.61, 1:47.08, 1:56.33, 2:24.13, 1:46.04 |
+| 17 | 1:42.39 | [DongGeon Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD08) | 1:44.36, 1:30.52, 1:53.57, 1:41.94, 1:40.87 |
+| 18 | 1:47.29 | [Geonhee Park (박건희)](https://www.worldcubeassociation.org/persons/2023PARK09) | 1:43.93, 1:42.16, 1:48.55, 2:04.83, 1:49.38 |
+| 19 | 1:47.34 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) | 1:42.64, 1:45.82, 1:54.62, 1:47.40, 1:48.81 |
+| 20 | 1:49.66 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) | 2:03.54, 1:48.56, 1:46.99, 1:49.81, 1:50.60 |
 
 ### 7x7x7 Cube
 
@@ -136,14 +136,14 @@
 | 1 | 1:41.86 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1:39.09, 1:39.63, 1:44.16, 1:48.61, 1:41.80 |
 | 2 | 1:44.46 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1:40.12, 1:42.79, 1:44.80, 2:03.52, 1:45.78 |
 | 3 | 2:07.73 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | 2:07.72, 2:08.13, 2:03.35, 2:30.86, 2:07.35 |
-| 4 | 2:09.50 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 2:04.06, 2:13.00, 2:11.45, 2:15.02, 2:02.25 |
+| 4 | 2:07.78 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 2:02.25, 2:12.12, 2:12.80, 2:08.98, 2:00.02 |
 | 5 | 2:10.38 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | 2:15.53, 2:07.84, 2:19.12, 2:07.54, 2:07.78 |
 | 6 | 2:13.89 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 2:08.83, 2:08.71, 2:21.68, 2:26.79, 2:11.15 |
 | 7 | 2:25.52 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 2:22.49, 2:27.51, 2:26.57, 2:31.65, 2:20.74 |
 | 8 | 2:26.34 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 2:21.57, 2:28.61, 2:35.26, 2:25.83, 2:24.57 |
 | 9 | 2:28.31 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 2:17.91, 2:29.42, 2:31.55, 2:35.57, 2:23.97 |
-| 10 | 2:32.98 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 2:29.58, 2:24.51, 2:34.72, 2:37.87, 2:34.65 |
-| 11 | 2:35.88 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 2:43.17, 2:37.26, 2:35.91, 2:20.22, 2:34.48 |
+| 10 | 2:31.28 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 2:35.91, 2:20.22, 2:34.48, 2:40.35, 2:23.44 |
+| 11 | 2:32.98 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 2:29.58, 2:24.51, 2:34.72, 2:37.87, 2:34.65 |
 | 12 | 2:37.15 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2:35.02, 2:30.49, 2:49.85, 2:39.14, 2:37.30 |
 | 13 | 2:39.62 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | 2:34.83, 2:38.52, 2:51.12, 2:34.54, 2:45.50 |
 | 14 | 2:41.90 | [Jeong Il Hyeok](https://www.worldcubeassociation.org/persons/2022HYEO02) | 2:46.61, 2:43.56, 2:35.54, 3:19.70, 2:33.30 |
@@ -160,7 +160,7 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 21.54 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | 16.67, 20.95, DNF, 21.53, 22.15 |
 | 2 | 21.70 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | DNF, 20.18, 22.07, 21.33, 21.70 |
-| 3 | 22.00 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 21.75, 18.62, 23.40, 22.24, 22.02 |
+| 3 | 21.90 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 20.94, DNF, 23.19, 19.51, 21.58 |
 | 4 | 24.84 | [Dae Jeong Kim (김대정)](https://www.worldcubeassociation.org/persons/2019KIMD11) | 27.70, 23.82, 21.59, DNF, 23.00 |
 | 5 | 25.58 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | 26.45, 22.49, DNF, 22.55, 27.73 |
 | 6 | 25.66 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | 25.14, 30.58, 21.20, 25.34, 26.51 |
@@ -233,17 +233,17 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 28.37 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 29.43, 27.61, 30.80, 28.06, 27.60 |
-| 2 | 29.59 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 35.70, 32.58, 27.82, 27.54, 28.36 |
+| 1 | 28.24 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 27.11, 25.54, 44.59, 28.13, 29.49 |
+| 2 | 29.17 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 27.82, 27.54, 28.36, DNF, 31.34 |
 | 3 | 31.75 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 30.84, 36.43, 30.89, 32.94, 31.41 |
-| 4 | 33.52 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) | 34.84, 29.93, 32.06, 38.74, 33.66 |
+| 4 | 32.91 | [Changhee Yeh (예창희)](https://www.worldcubeassociation.org/persons/2019YEHC02) | 32.33, 35.64, 30.52, 38.59, 30.75 |
 | 5 | 34.76 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 32.90, 34.88, 35.29, 38.21, 34.10 |
 | 6 | 38.16 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | 39.51, 36.89, 38.09, 41.01, 35.98 |
 | 7 | 38.30 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 47.17, 39.66, 35.56, 39.68, 33.76 |
 | 8 | 40.23 | [Do Hyun Kwon (권도현)](https://www.worldcubeassociation.org/persons/2018KWON01) | 39.32, 40.23, 41.15, 46.11, 38.56 |
 | 9 | 40.71 | [Juwhan Jung (정주환)](https://www.worldcubeassociation.org/persons/2017WHAN01) | 37.93, 42.71, 52.16, 39.14, 40.29 |
-| 10 | 42.02 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 45.46, 42.03, 40.57, 41.59, 42.45 |
-| 11 | 42.50 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 43.34, 42.72, 42.95, 40.32, 41.84 |
+| 10 | 41.60 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 37.97, 53.02, 41.50, 45.34, 37.72 |
+| 11 | 42.02 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 45.46, 42.03, 40.57, 41.59, 42.45 |
 | 12 | 43.81 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 1:06.41, 44.78, 43.82, 42.69, 42.82 |
 | 13 | 43.86 | [Jerry Hwang (황동욱)](https://www.worldcubeassociation.org/persons/2017HWAN04) | 43.58, 42.54, 52.49, 40.76, 45.47 |
 | 14 | 45.79 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 48.07, 43.33, 44.53, 55.83, 44.77 |
@@ -260,7 +260,7 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 1.49 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.06, 1.40, 1.60, 2.35, 1.48 |
 | 2 | 1.81 | [Seung-Ho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) | 1.64, 1.64, 4.43, 2.15, 1.65 |
-| 3 | 2.00 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | 2.80, 1.91, 2.24, 1.86, 1.70 |
+| 3 | 1.94 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | 5.05, 1.77, 2.23, 1.58, 1.81 |
 | 4 | 2.15 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 4.08, 2.04, 2.12, 1.86, 2.29 |
 | 5 | 2.16 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) | 2.31, 2.15, 3.09, 2.01, 1.63 |
 | 6 | 2.18 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 2.17, 2.21, 2.04, 2.98, 2.16 |
@@ -283,11 +283,11 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 3.07 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | 3.14, 3.42, 2.96, 2.48, 3.11 |
-| 2 | 3.30 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 3.57, 3.03, 4.84, 2.75, 3.30 |
-| 3 | 3.56 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | 3.41, 3.83, 3.45, DNF, 3.15 |
-| 4 | 3.61 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) | 3.67, 3.14, 3.75, 3.63, 3.54 |
-| 5 | 3.65 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 3.25, 3.22, 3.72, 4.42, 3.98 |
+| 1 | 2.88 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | 3.30, 2.59, 2.95, 3.01, 2.68 |
+| 2 | 3.28 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 2.75, 3.30, DNF, 3.57, 2.98 |
+| 3 | 3.52 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 4.06, 3.25, 3.19, 5.20, 3.26 |
+| 4 | 3.56 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | 3.41, 3.83, 3.45, DNF, 3.15 |
+| 5 | 3.61 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) | 3.67, 3.14, 3.75, 3.63, 3.54 |
 | 6 | 3.86 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | 3.05, 4.55, 3.48, 4.31, 3.80 |
 | 7 | 3.91 | [Woo Seongmin (우성민)](https://www.worldcubeassociation.org/persons/2022SEON01) | 4.89, 4.35, 4.27, 3.12, 3.04 |
 | 8 | 3.91 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) | 3.58, 3.29, 4.29, 5.31, 3.86 |
@@ -308,26 +308,26 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 1.85 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 0.96, 2.13, 1.66, 3.02, 1.76 |
+| 1 | 1.81 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 1.86, 1.85, 1.62, 2.10, 1.71 |
 | 2 | 2.19 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 2.44, 1.92, 1.67, 3.10, 2.21 |
 | 3 | 2.40 | [Junsu Kim (김준수)](https://www.worldcubeassociation.org/persons/2014KIMJ09) | 4.84, 1.73, 2.00, 3.28, 1.91 |
 | 4 | 2.43 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 2.21, 2.20, 4.32, 2.89, 2.17 |
-| 5 | 2.78 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 4.59, 2.15, 3.42, 2.06, 2.76 |
-| 6 | 2.84 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 2.84, 2.64, 3.97, 2.89, 2.80 |
-| 7 | 2.84 | [Jihoon Ha (하지훈)](https://www.worldcubeassociation.org/persons/2022HAJI01) | 4.63, 2.82, 2.89, 2.46, 2.82 |
-| 8 | 2.94 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) | 2.56, 3.27, 5.04, 1.93, 3.00 |
-| 9 | 3.04 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) | 3.14, 2.15, 3.20, 3.54, 2.79 |
-| 10 | 3.10 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 3.74, 3.36, 2.09, 2.62, 3.33 |
+| 5 | 2.60 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | 5.62, 1.96, 2.75, 2.49, 2.56 |
+| 6 | 2.78 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | 4.59, 2.15, 3.42, 2.06, 2.76 |
+| 7 | 2.84 | [Jusun Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04) | 2.84, 2.64, 3.97, 2.89, 2.80 |
+| 8 | 2.84 | [Jihoon Ha (하지훈)](https://www.worldcubeassociation.org/persons/2022HAJI01) | 4.63, 2.82, 2.89, 2.46, 2.82 |
+| 9 | 2.94 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) | 2.56, 3.27, 5.04, 1.93, 3.00 |
+| 10 | 3.04 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) | 3.14, 2.15, 3.20, 3.54, 2.79 |
 | 11 | 3.11 | [Kim Simin](https://www.worldcubeassociation.org/persons/2017SIMI02) | 3.61, 3.47, 1.41, 2.57, 3.29 |
 | 12 | 3.21 | [SeongYong Yoo (유성용)](https://www.worldcubeassociation.org/persons/2022YOOS01) | 2.94, 2.90, DNF, 3.41, 3.27 |
 | 13 | 3.27 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 3.15, 3.04, 4.33, 3.31, 3.34 |
 | 14 | 3.29 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.49, 3.44, 2.91, 3.52, 2.68 |
 | 15 | 3.29 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 3.36, 4.92, 3.44, 2.78, 3.08 |
-| 16 | 3.39 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 3.53, 7.57, 3.06, 3.59, 2.64 |
-| 17 | 3.45 | [Dongheon Ryu (류동헌)](https://www.worldcubeassociation.org/persons/2017RYUD02) | 3.20, 2.94, 4.26, 4.12, 3.04 |
+| 16 | 3.38 | [Woobin Hwang (황우빈)](https://www.worldcubeassociation.org/persons/2023HWAN05) | 2.24, 2.72, 4.39, 3.91, 3.51 |
+| 17 | 3.39 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 3.53, 7.57, 3.06, 3.59, 2.64 |
 | 18 | 3.45 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | 3.23, 4.15, 2.98, 5.36, 2.59 |
-| 19 | 3.48 | [Joonhee Lee (이준희)](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 4.27, 2.87, 3.99, 2.71, 3.58 |
-| 20 | 3.51 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | 1.79, 4.33, 6.70, 2.97, 3.24 |
+| 19 | 3.45 | [Dongheon Ryu (류동헌)](https://www.worldcubeassociation.org/persons/2017RYUD02) | 3.20, 2.94, 4.26, 4.12, 3.04 |
+| 20 | 3.48 | [Joonhee Lee (이준희)](https://www.worldcubeassociation.org/persons/2022LEEJ28) | 4.27, 2.87, 3.99, 2.71, 3.58 |
 
 ### Square-1
 
@@ -345,14 +345,14 @@
 | 10 | 10.42 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 11.27, 10.70, 6.90, 12.80, 9.29 |
 | 11 | 10.42 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) | 13.16, 10.48, 10.17, 10.61, 9.66 |
 | 12 | 10.46 | [Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02) | 11.10, 12.70, 8.99, 10.19, 10.08 |
-| 13 | 10.87 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 16.27, 11.16, 9.87, 11.57, 7.36 |
+| 13 | 10.54 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 8.65, 15.38, 10.84, 12.14, 7.46 |
 | 14 | 11.06 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | 10.82, 12.09, 10.17, 23.12, 10.27 |
 | 15 | 11.22 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 7.97, 12.96, 12.55, 12.60, 8.52 |
-| 16 | 11.41 | [Kim Minjun (김민준)](https://www.worldcubeassociation.org/persons/2022MINJ04) | 14.34, 11.19, 11.35, 10.54, 11.68 |
-| 17 | 11.42 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 15.81, 11.63, 10.04, 11.11, 11.53 |
-| 18 | 11.53 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | 12.01, 10.50, 15.19, 12.09, 9.49 |
-| 19 | 11.87 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 10.76, 11.12, 19.15, 13.20, 11.30 |
-| 20 | 11.92 | [Geonhee Park (박건희)](https://www.worldcubeassociation.org/persons/2023PARK09) | 9.85, 12.52, 28.77, 11.71, 11.53 |
+| 16 | 11.24 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) | 10.68, 14.61, 10.33, 10.09, 12.71 |
+| 17 | 11.37 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | 11.88, 14.37, 10.22, 9.72, 12.01 |
+| 18 | 11.41 | [Kim Minjun (김민준)](https://www.worldcubeassociation.org/persons/2022MINJ04) | 14.34, 11.19, 11.35, 10.54, 11.68 |
+| 19 | 11.53 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | 12.01, 10.50, 15.19, 12.09, 9.49 |
+| 20 | 11.64 | [Sangyoon Park (박상윤)](https://www.worldcubeassociation.org/persons/2023PARK10) | 20.04, 9.75, 9.72, 10.98, 14.18 |
 
 ### 4x4x4 Blindfolded
 

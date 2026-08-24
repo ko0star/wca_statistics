@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 August 2026*
+*Updated on 22 August 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
@@ -22,7 +22,7 @@
 | 15 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | **4** | 2 | 7 | 13 |
 | 16 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) | **4** | 2 | 5 | 11 |
 | 17 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | **3** | 3 | 2 | 8 |
-| 18 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) | **3** | 1 | 1 | 5 |
+| 18 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) | **3** | 1 | 2 | 6 |
 | 19 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | **2** | 4 | 6 | 12 |
 | 20 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) | **2** | 4 | 5 | 11 |
 | 21 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | **2** | 4 | 0 | 6 |
