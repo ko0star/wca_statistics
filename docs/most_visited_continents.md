@@ -1,6 +1,6 @@
 ## Most visited continents
 
-*Updated on 22 August 2026*
+*Updated on 28 October 2026*
 
 | # | Continents | Person |
 | ---: | ---: | :--- |
@@ -163,19 +163,22 @@
 | 157 | 2 | [Benjamin Lee](https://www.worldcubeassociation.org/persons/2024LEEB05) |
 | 158 | 2 | [Park Si Eun (박시은)](https://www.worldcubeassociation.org/persons/2024EUNP01) |
 | 159 | 2 | [Sangyoon Kim (김상윤)](https://www.worldcubeassociation.org/persons/2024KIMS14) |
-| 160 | 2 | [Sihyeon Park](https://www.worldcubeassociation.org/persons/2024PARK77) |
-| 161 | 2 | [Jeongmin Kim](https://www.worldcubeassociation.org/persons/2024KIMJ41) |
-| 162 | 2 | [Junseo Park](https://www.worldcubeassociation.org/persons/2025PARK01) |
-| 163 | 2 | [Park So Hoo (박소후)](https://www.worldcubeassociation.org/persons/2025HOOP01) |
-| 164 | 2 | [Shian Sung (성시안)](https://www.worldcubeassociation.org/persons/2025SUNG03) |
-| 165 | 2 | [Yuchan Han](https://www.worldcubeassociation.org/persons/2025HANY02) |
-| 166 | 2 | [Hyunmin Gu (구현민)](https://www.worldcubeassociation.org/persons/2025GUHY01) |
-| 167 | 2 | [Eugene Choi (최유진)](https://www.worldcubeassociation.org/persons/2025CHOI13) |
-| 168 | 2 | [Seowon Chang](https://www.worldcubeassociation.org/persons/2025CHAN33) |
-| 169 | 2 | [Eunwoo Ahn (안은우)](https://www.worldcubeassociation.org/persons/2025AHNE01) |
-| 170 | 2 | [Doyun Kim (김도연)](https://www.worldcubeassociation.org/persons/2025KIMD10) |
-| 171 | 2 | [Hajoon Chung](https://www.worldcubeassociation.org/persons/2025CHUN20) |
-| 172 | 2 | [Hajoon Cho](https://www.worldcubeassociation.org/persons/2025CHOH05) |
-| 173 | 2 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2026KIMS03) |
-| 174 | 2 | [Jiwon Choi (최지원)](https://www.worldcubeassociation.org/persons/2026CHOI09) |
-| 175 | 2 | [Jonghyeon Seo (서종현)](https://www.worldcubeassociation.org/persons/2026SEOJ02) |
+| 160 | 2 | [JunWoo Lee (이준우)](https://www.worldcubeassociation.org/persons/2024LEEJ29) |
+| 161 | 2 | [Sihyeon Park](https://www.worldcubeassociation.org/persons/2024PARK77) |
+| 162 | 2 | [Jeongmin Kim](https://www.worldcubeassociation.org/persons/2024KIMJ41) |
+| 163 | 2 | [Junseo Park](https://www.worldcubeassociation.org/persons/2025PARK01) |
+| 164 | 2 | [Park So Hoo (박소후)](https://www.worldcubeassociation.org/persons/2025HOOP01) |
+| 165 | 2 | [Shian Sung (성시안)](https://www.worldcubeassociation.org/persons/2025SUNG03) |
+| 166 | 2 | [Yuchan Han](https://www.worldcubeassociation.org/persons/2025HANY02) |
+| 167 | 2 | [Min Ji Hong (민지홍)](https://www.worldcubeassociation.org/persons/2025HONG04) |
+| 168 | 2 | [Hyunmin Gu (구현민)](https://www.worldcubeassociation.org/persons/2025GUHY01) |
+| 169 | 2 | [Eugene Choi (최유진)](https://www.worldcubeassociation.org/persons/2025CHOI13) |
+| 170 | 2 | [Seowon Chang](https://www.worldcubeassociation.org/persons/2025CHAN33) |
+| 171 | 2 | [Eunwoo Ahn (안은우)](https://www.worldcubeassociation.org/persons/2025AHNE01) |
+| 172 | 2 | [Doyun Kim (김도연)](https://www.worldcubeassociation.org/persons/2025KIMD10) |
+| 173 | 2 | [Hajoon Chung](https://www.worldcubeassociation.org/persons/2025CHUN20) |
+| 174 | 2 | [Hajoon Cho](https://www.worldcubeassociation.org/persons/2025CHOH05) |
+| 175 | 2 | [Jiwon Kuk (국지원)](https://www.worldcubeassociation.org/persons/2026KUKJ01) |
+| 176 | 2 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2026KIMS03) |
+| 177 | 2 | [Jiwon Choi (최지원)](https://www.worldcubeassociation.org/persons/2026CHOI09) |
+| 178 | 2 | [Jonghyeon Seo (서종현)](https://www.worldcubeassociation.org/persons/2026SEOJ02) |

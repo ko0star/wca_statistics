@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 August 2026*
+*Updated on 28 October 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -11,22 +11,22 @@
 | 2 | 14 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
 | 3 | 11 | [Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01) |
 | 4 | 11 | [JaeDeok Seo (서재덕)](https://www.worldcubeassociation.org/persons/2015SEOJ01) |
-| 5 | 10 | [Kim Dong-Young (김동영)](https://www.worldcubeassociation.org/persons/2008DONG02) |
-| 6 | 10 | [Haram Jang (장하람)](https://www.worldcubeassociation.org/persons/2024JANG06) |
-| 7 | 9 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) |
+| 5 | 10 | [Haram Jang (장하람)](https://www.worldcubeassociation.org/persons/2024JANG06) |
+| 6 | 10 | [Kim Dong-Young (김동영)](https://www.worldcubeassociation.org/persons/2008DONG02) |
+| 7 | 9 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 8 | 9 | [JeongWon Jung (정정원)](https://www.worldcubeassociation.org/persons/2024JUNG04) |
-| 9 | 9 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
+| 9 | 9 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) |
 | 10 | 8 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) |
-| 11 | 8 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) |
-| 12 | 8 | [Youngsang Yoo (류영상)](https://www.worldcubeassociation.org/persons/2025YOOY01) |
-| 13 | 8 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
-| 14 | 7 | [Yeeun Park (박예은)](https://www.worldcubeassociation.org/persons/2018PARK09) |
-| 15 | 7 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) |
-| 16 | 7 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
-| 17 | 7 | [Kim RaOn (김라온)](https://www.worldcubeassociation.org/persons/2024RAON01) |
-| 18 | 6 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
-| 19 | 6 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
-| 20 | 6 | [Min-Hyuk Son (손민혁)](https://www.worldcubeassociation.org/persons/2018SONM01) |
+| 11 | 8 | [Youngsang Yoo (류영상)](https://www.worldcubeassociation.org/persons/2025YOOY01) |
+| 12 | 8 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
+| 13 | 8 | [Jaeryung Lim (임재령)](https://www.worldcubeassociation.org/persons/2023LIMJ02) |
+| 14 | 8 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) |
+| 15 | 7 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
+| 16 | 7 | [Yeeun Park (박예은)](https://www.worldcubeassociation.org/persons/2018PARK09) |
+| 17 | 7 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) |
+| 18 | 7 | [Kim RaOn (김라온)](https://www.worldcubeassociation.org/persons/2024RAON01) |
+| 19 | 6 | [Jake Park](https://www.worldcubeassociation.org/persons/2022PARK23) |
+| 20 | 6 | [Sanghoo Park (박상후)](https://www.worldcubeassociation.org/persons/2015PARK26) |
 
 ### 4x4x4 Blindfolded
 

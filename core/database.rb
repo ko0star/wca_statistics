@@ -10,6 +10,7 @@ module Database
     championships
     competitions
     competition_delegates
+    competition_venues
     continents
     countries
     events

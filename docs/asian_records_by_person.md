@@ -1,10 +1,10 @@
 ## Asian records count by person
 
-*Updated on 22 August 2026*
+*Updated on 28 October 2026*
 
 | # | AsRs | Person |
 | ---: | ---: | :--- |
-| 1 | 79 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 1 | 81 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 | 2 | 15 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
 | 3 | 7 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |
 | 4 | 7 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) |

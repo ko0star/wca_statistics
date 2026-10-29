@@ -1,14 +1,14 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 22 August 2026*
+*Updated on 28 October 2026*
 
 | # | WRs | Person |
 | ---: | ---: | :--- |
 | 1 | 59 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
 | 2 | 56 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
-| 3 | 52 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
-| 4 | 50 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 3 | 55 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
+| 4 | 52 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) |
 | 5 | 44 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 6 | 27 | [JaeYoung Chun (천재영)](https://www.worldcubeassociation.org/persons/2006JAEY01) |
 | 7 | 27 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
@@ -24,10 +24,10 @@
 | 17 | 15 | [JaeMin Kim (김재민)](https://www.worldcubeassociation.org/persons/2008JAEM01) |
 | 18 | 15 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) |
 | 19 | 12 | [Suhyeon Lee](https://www.worldcubeassociation.org/persons/2011LEES02) |
-| 20 | 11 | [Beom-Jun Kim (김범준)](https://www.worldcubeassociation.org/persons/2013KIMB01) |
-| 21 | 11 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) |
-| 22 | 11 | [Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01) |
-| 23 | 11 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) |
+| 20 | 12 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) |
+| 21 | 11 | [Beom-Jun Kim (김범준)](https://www.worldcubeassociation.org/persons/2013KIMB01) |
+| 22 | 11 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) |
+| 23 | 11 | [Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01) |
 | 24 | 11 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 25 | 11 | [Hani Joo (주하니)](https://www.worldcubeassociation.org/persons/2019JOOH01) |
 | 26 | 11 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) |

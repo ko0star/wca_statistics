@@ -1,6 +1,6 @@
 ## Asian Championship podiums by person
 
-*Updated on 22 August 2026*
+*Updated on 28 October 2026*
 
 
 ### By medals
