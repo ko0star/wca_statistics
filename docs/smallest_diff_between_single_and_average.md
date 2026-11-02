@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube
@@ -171,13 +171,13 @@
 | 11 | 1.63 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 33.99 | 35.62 | [UCSD Spring 2023](https://www.worldcubeassociation.org/competitions/UCSDSpring2023/results/by_person#2017CHOI07) |
 | 12 | 1.92 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 30.85 | 32.77 | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026/results/by_person#2017CHOI07) |
 | 13 | 1.96 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | 21.33 | 23.29 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/by_person#2023YIMJ01) |
-| 14 | 2.31 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 49.27 | 51.58 | [Nub Open MV Summer 2024](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejoSummer2024/results/by_person#2017CHOI07) |
-| 15 | 2.33 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | 21.50 | 23.83 | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/by_person#2018KIMH02) |
-| 16 | 2.35 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 42.98 | 45.33 | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017/results/by_person#2008JONG03) |
-| 17 | 2.37 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 33.41 | 35.78 | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023/results/by_person#2007YOUN04) |
-| 18 | 2.49 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 34.46 | 36.95 | [Fullerton Winter 2024](https://www.worldcubeassociation.org/competitions/FullertonWinter2024/results/by_person#2017CHOI07) |
-| 19 | 2.78 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 36.27 | 39.05 | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025/results/by_person#2016PARK10) |
-| 20 | 2.81 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | 22.22 | 25.03 | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024/results/by_person#2018LEED01) |
+| 14 | 2.26 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 25.61 | 27.87 | [Trick or Blind Seoul 2026](https://www.worldcubeassociation.org/competitions/TrickorBlindSeoul2026/results/by_person#2007YOUN04) |
+| 15 | 2.31 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 49.27 | 51.58 | [Nub Open MV Summer 2024](https://www.worldcubeassociation.org/competitions/NubOpenMissionViejoSummer2024/results/by_person#2017CHOI07) |
+| 16 | 2.33 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | 21.50 | 23.83 | [PBQ Korea Spring 2025](https://www.worldcubeassociation.org/competitions/PBQKoreaSpring2025/results/by_person#2018KIMH02) |
+| 17 | 2.35 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | 42.98 | 45.33 | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017/results/by_person#2008JONG03) |
+| 18 | 2.37 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 33.41 | 35.78 | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023/results/by_person#2007YOUN04) |
+| 19 | 2.49 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 34.46 | 36.95 | [Fullerton Winter 2024](https://www.worldcubeassociation.org/competitions/FullertonWinter2024/results/by_person#2017CHOI07) |
+| 20 | 2.78 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 36.27 | 39.05 | [Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/LuzonChampionship2025/results/by_person#2016PARK10) |
 
 ### 3x3x3 One-Handed
 

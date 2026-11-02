@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube
@@ -174,10 +174,10 @@
 | 14 | 2:21.89 | [Hajin Jeon (전하진)](https://www.worldcubeassociation.org/persons/2018JEON01) |
 | 15 | 2:33.25 | [Ji In Shin (신지인)](https://www.worldcubeassociation.org/persons/2021SHIN01) |
 | 16 | 2:39.88 | [Jonghun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12) |
-| 17 | 2:42.42 | [HoJin Lee (이호진)](https://www.worldcubeassociation.org/persons/2024LEEH09) |
-| 18 | 2:43.13 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2024YOOS02) |
-| 19 | 2:45.22 | [Gibaek Lee (이기백)](https://www.worldcubeassociation.org/persons/2024LEEG06) |
-| 20 | 2:50.17 | [Inyoung Oh (오인영)](https://www.worldcubeassociation.org/persons/2022OHIN01) |
+| 17 | 2:42.16 | [Hogi Park (박호기)](https://www.worldcubeassociation.org/persons/2026PARK57) |
+| 18 | 2:42.42 | [HoJin Lee (이호진)](https://www.worldcubeassociation.org/persons/2024LEEH09) |
+| 19 | 2:43.13 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2024YOOS02) |
+| 20 | 2:45.22 | [Gibaek Lee (이기백)](https://www.worldcubeassociation.org/persons/2024LEEG06) |
 
 ### 3x3x3 Fewest Moves
 
@@ -197,8 +197,8 @@
 | 12 | 34 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) |
 | 13 | 35 | [GyeongTae Park (박경태)](https://www.worldcubeassociation.org/persons/2011KUNG01) |
 | 14 | 35 | [Dongjoon Ji (지동준)](https://www.worldcubeassociation.org/persons/2014JIDO01) |
-| 15 | 36 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) |
-| 16 | 36 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
+| 15 | 36 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
+| 16 | 36 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) |
 | 17 | 36 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 18 | 36 | [Bae Chan Heyung (배찬형)](https://www.worldcubeassociation.org/persons/2017HEYU03) |
 | 19 | 36 | [Kyoungmin Kwon (권경민)](https://www.worldcubeassociation.org/persons/2026KWON02) |
@@ -272,8 +272,8 @@
 | 12 | 4.57 | [JaeWoo Jang](https://www.worldcubeassociation.org/persons/2019JANG05) |
 | 13 | 4.62 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) |
 | 14 | 4.82 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) |
-| 15 | 4.84 | [Noah Lee](https://www.worldcubeassociation.org/persons/2022LEEN05) |
-| 16 | 4.84 | [Minsoo Park](https://www.worldcubeassociation.org/persons/2016PARK12) |
+| 15 | 4.84 | [Minsoo Park](https://www.worldcubeassociation.org/persons/2016PARK12) |
+| 16 | 4.84 | [Noah Lee](https://www.worldcubeassociation.org/persons/2022LEEN05) |
 | 17 | 4.87 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) |
 | 18 | 4.89 | [Chun Seung Jae (천승재)](https://www.worldcubeassociation.org/persons/2022JAEC01) |
 | 19 | 4.98 | [Gyojin Kim (김교진)](https://www.worldcubeassociation.org/persons/2026KIMG06) |
@@ -371,8 +371,9 @@
 | 11 | 13:50.00 | [Han Dong-Hee (한동희)](https://www.worldcubeassociation.org/persons/2015DONG05) |
 | 12 | 16:18.00 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 13 | 17:07.00 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
-| 14 | 19:26.00 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
-| 15 | 21:53.00 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) |
+| 14 | 19:12.00 | [JeongWon Jung (정정원)](https://www.worldcubeassociation.org/persons/2024JUNG04) |
+| 15 | 19:26.00 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
+| 16 | 21:53.00 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) |
 
 ### 5x5x5 Blindfolded
 
@@ -408,7 +409,7 @@
 | 17 | 9/15 1:00:00 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) |
 | 18 | 2/2 10:30 | [Ahn Hajun (안하준)](https://www.worldcubeassociation.org/persons/2013HAJU01) |
 | 19 | 2/2 10:35 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) |
-| 20 | 2/2 12:51 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
+| 20 | 2/2 11:54 | [Donghwa Kim](https://www.worldcubeassociation.org/persons/2026KIMD09) |
 
 ### 3x3x3 With Feet
 

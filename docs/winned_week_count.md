@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube
@@ -203,7 +203,8 @@
 | 1 | [Kim Kyung-Ho](https://www.worldcubeassociation.org/persons/2006KYUN02) | 2 |
 | 2 | [Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01) | 1 |
 | 3 | [Lee Dong-Ju](https://www.worldcubeassociation.org/persons/2008LEED01) | 1 |
-| 4 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | 1 |
+| 4 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | 1 |
+| 5 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | 1 |
 
 ### 3x3x3 With Feet
 

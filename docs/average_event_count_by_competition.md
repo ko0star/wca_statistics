@@ -1,7 +1,7 @@
 ## Average event count by competition
 
 *Note: In other words, average number of events competitors participated in.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 | # | Competition | Average event count | Competitors | Country |
 | ---: | :--- | ---: | ---: | :--- |
@@ -81,27 +81,27 @@
 | 74 | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022) | 2.66 | 70 | Republic of Korea |
 | 75 | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024) | 2.65 | 206 | Republic of Korea |
 | 76 | [Ansan Spring 2023](https://www.worldcubeassociation.org/competitions/AnsanSpring2023) | 2.62 | 104 | Republic of Korea |
-| 77 | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) | 2.59 | 73 | Republic of Korea |
-| 78 | [Cubedu Korea 2018](https://www.worldcubeassociation.org/competitions/CubeduKorea2018) | 2.57 | 127 | Republic of Korea |
-| 79 | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 2.54 | 70 | Republic of Korea |
-| 80 | [Ansan Autumn 2026](https://www.worldcubeassociation.org/competitions/AnsanAutumn2026) | 2.54 | 99 | Republic of Korea |
-| 81 | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 2.53 | 187 | Republic of Korea |
-| 82 | [Cubing Korea 2019](https://www.worldcubeassociation.org/competitions/CubingKorea2019) | 2.53 | 132 | Republic of Korea |
-| 83 | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008) | 2.51 | 115 | Republic of Korea |
-| 84 | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026) | 2.50 | 34 | Republic of Korea |
-| 85 | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019) | 2.47 | 64 | Republic of Korea |
-| 86 | [Osan Summer 2025](https://www.worldcubeassociation.org/competitions/OsanSummer2025) | 2.45 | 137 | Republic of Korea |
-| 87 | [Play Cube 2018](https://www.worldcubeassociation.org/competitions/PlayCube2018) | 2.40 | 105 | Republic of Korea |
-| 88 | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) | 2.40 | 68 | Republic of Korea |
-| 89 | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024) | 2.38 | 39 | Republic of Korea |
-| 90 | [Daejeon Spring 2025](https://www.worldcubeassociation.org/competitions/DaejeonSpring2025) | 2.38 | 205 | Republic of Korea |
-| 91 | [Busan Summer 2014](https://www.worldcubeassociation.org/competitions/BusanSummer2014) | 2.38 | 64 | Republic of Korea |
-| 92 | [Jeonju Spring 2016](https://www.worldcubeassociation.org/competitions/JeonjuSpring2016) | 2.37 | 120 | Republic of Korea |
-| 93 | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) | 2.36 | 50 | Republic of Korea |
-| 94 | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026) | 2.33 | 39 | Republic of Korea |
-| 95 | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) | 2.33 | 100 | Republic of Korea |
-| 96 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024) | 2.31 | 112 | Republic of Korea |
-| 97 | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024) | 2.30 | 50 | Republic of Korea |
-| 98 | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 2.29 | 45 | Republic of Korea |
-| 99 | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024) | 2.27 | 190 | Republic of Korea |
-| 100 | [Anyang Haseyo 2024](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2024) | 2.27 | 161 | Republic of Korea |
+| 77 | [Trick or Blind Seoul 2026](https://www.worldcubeassociation.org/competitions/TrickorBlindSeoul2026) | 2.60 | 35 | Republic of Korea |
+| 78 | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014) | 2.59 | 73 | Republic of Korea |
+| 79 | [Cubedu Korea 2018](https://www.worldcubeassociation.org/competitions/CubeduKorea2018) | 2.57 | 127 | Republic of Korea |
+| 80 | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025) | 2.54 | 70 | Republic of Korea |
+| 81 | [Ansan Autumn 2026](https://www.worldcubeassociation.org/competitions/AnsanAutumn2026) | 2.54 | 99 | Republic of Korea |
+| 82 | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026) | 2.53 | 187 | Republic of Korea |
+| 83 | [Cubing Korea 2019](https://www.worldcubeassociation.org/competitions/CubingKorea2019) | 2.53 | 132 | Republic of Korea |
+| 84 | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008) | 2.51 | 115 | Republic of Korea |
+| 85 | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026) | 2.50 | 34 | Republic of Korea |
+| 86 | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019) | 2.47 | 64 | Republic of Korea |
+| 87 | [Osan Summer 2025](https://www.worldcubeassociation.org/competitions/OsanSummer2025) | 2.45 | 137 | Republic of Korea |
+| 88 | [Play Cube 2018](https://www.worldcubeassociation.org/competitions/PlayCube2018) | 2.40 | 105 | Republic of Korea |
+| 89 | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007) | 2.40 | 68 | Republic of Korea |
+| 90 | [Silent Korea Spring 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaSpring2024) | 2.38 | 39 | Republic of Korea |
+| 91 | [Daejeon Spring 2025](https://www.worldcubeassociation.org/competitions/DaejeonSpring2025) | 2.38 | 205 | Republic of Korea |
+| 92 | [Busan Summer 2014](https://www.worldcubeassociation.org/competitions/BusanSummer2014) | 2.38 | 64 | Republic of Korea |
+| 93 | [Jeonju Spring 2016](https://www.worldcubeassociation.org/competitions/JeonjuSpring2016) | 2.37 | 120 | Republic of Korea |
+| 94 | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) | 2.36 | 50 | Republic of Korea |
+| 95 | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026) | 2.33 | 39 | Republic of Korea |
+| 96 | [HanMaDang 2017](https://www.worldcubeassociation.org/competitions/3x3x3HanMaDang2017) | 2.33 | 100 | Republic of Korea |
+| 97 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024) | 2.31 | 112 | Republic of Korea |
+| 98 | [Silent Korea Winter 2024](https://www.worldcubeassociation.org/competitions/SilentKoreaWinter2024) | 2.30 | 50 | Republic of Korea |
+| 99 | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025) | 2.29 | 45 | Republic of Korea |
+| 100 | [Prime Cubing Day Seoul 2024](https://www.worldcubeassociation.org/competitions/PrimeCubingDaySeoul2024) | 2.27 | 190 | Republic of Korea |

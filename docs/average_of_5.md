@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 500 single are taken into account.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube
@@ -158,12 +158,12 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 21.54 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | 16.67, 20.95, DNF, 21.53, 22.15 |
-| 2 | 21.70 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | DNF, 20.18, 22.07, 21.33, 21.70 |
-| 3 | 21.90 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 20.94, DNF, 23.19, 19.51, 21.58 |
-| 4 | 24.84 | [Dae Jeong Kim (김대정)](https://www.worldcubeassociation.org/persons/2019KIMD11) | 27.70, 23.82, 21.59, DNF, 23.00 |
-| 5 | 25.58 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | 26.45, 22.49, DNF, 22.55, 27.73 |
-| 6 | 25.66 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | 25.14, 30.58, 21.20, 25.34, 26.51 |
+| 1 | 21.49 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) | 19.38, 21.66, 24.27, 23.42, 19.18 |
+| 2 | 21.54 | [Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02) | 16.67, 20.95, DNF, 21.53, 22.15 |
+| 3 | 21.70 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) | DNF, 20.18, 22.07, 21.33, 21.70 |
+| 4 | 21.90 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | 20.94, DNF, 23.19, 19.51, 21.58 |
+| 5 | 24.84 | [Dae Jeong Kim (김대정)](https://www.worldcubeassociation.org/persons/2019KIMD11) | 27.70, 23.82, 21.59, DNF, 23.00 |
+| 6 | 25.58 | [Jonghyun Kim (김종현)](https://www.worldcubeassociation.org/persons/2024KIMJ11) | 26.45, 22.49, DNF, 22.55, 27.73 |
 | 7 | 25.67 | [DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01) | 24.13, DNF, 23.92, 22.22, 28.96 |
 | 8 | 26.27 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 26.14, 22.64, 28.18, 26.33, 26.35 |
 | 9 | 32.45 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 44.40, 28.42, 30.85, 31.21, 35.30 |
@@ -173,11 +173,11 @@
 | 13 | 41.42 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 35.23, 37.98, 48.95, 42.83, 43.44 |
 | 14 | 41.95 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | 52.52, 44.08, 39.08, 34.97, 42.70 |
 | 15 | 49.14 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 43.34, 1:25.17, 40.52, 44.44, 59.64 |
-| 16 | 51.66 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 47.57, 45.77, DNF, 55.44, 51.96 |
-| 17 | 54.93 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) | 1:01.12, 41.48, DNF, 1:00.46, 43.22 |
-| 18 | 55.59 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) | 42.98, 40.32, DNF, 1:10.95, 52.83 |
-| 19 | 1:02.84 | [Jun-Hyuk Jang](https://www.worldcubeassociation.org/persons/2012JANG02) | 55.88, DNF, 1:17.28, 55.35, 48.91 |
-| 20 | 1:03.50 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 59.91, 1:25.95, 54.83, 45.87, 1:15.76 |
+| 16 | 49.34 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | 50.61, 41.89, DNF, 46.44, 50.96 |
+| 17 | 51.66 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 47.57, 45.77, DNF, 55.44, 51.96 |
+| 18 | 54.93 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) | 1:01.12, 41.48, DNF, 1:00.46, 43.22 |
+| 19 | 55.59 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) | 42.98, 40.32, DNF, 1:10.95, 52.83 |
+| 20 | 1:02.84 | [Jun-Hyuk Jang](https://www.worldcubeassociation.org/persons/2012JANG02) | 55.88, DNF, 1:17.28, 55.35, 48.91 |
 
 ### 3x3x3 Fewest Moves
 
@@ -367,12 +367,13 @@
 | 7 | 4:59.92 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) | 4:43.53, 4:26.53, DNF, 3:54.20, 5:49.69 |
 | 8 | 5:05.11 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | 5:30.73, 4:26.35, 5:15.46, 5:48.56, 4:29.15 |
 | 9 | 6:50.70 | [Won Jae Choi (최원재)](https://www.worldcubeassociation.org/persons/2024CHOI04) | 7:45.34, 7:19.70, 6:10.35, 5:23.70, 7:02.04 |
-| 10 | 7:44.96 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 6:00.16, DNF, 6:23.78, 8:45.30, 8:05.79 |
-| 11 | 8:25.56 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 7:27.16, 9:55.31, 9:32.42, 8:17.10, 6:54.80 |
-| 12 | 8:31.57 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 9:17.37, 8:29.41, 7:47.93, DNF, 5:59.62 |
-| 13 | 8:56.23 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 9:42.04, 8:16.29, 8:50.35, 7:30.26, DNF |
-| 14 | 14:39.67 | [Anonymous](https://www.worldcubeassociation.org/persons/2015ANON13) | DNF, 13:32.00, 15:43.00, 10:23.00, 14:44.00 |
-| 15 | 14:41.33 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) | 16:05.00, 10:38.00, 17:21.00, DNF, 9:53.61 |
+| 10 | 7:20.10 | [Kim Dongyi (김동이)](https://www.worldcubeassociation.org/persons/2026DONG04) | DNF, 6:04.73, 7:07.08, 8:48.49, 5:52.17 |
+| 11 | 7:44.96 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | 6:00.16, DNF, 6:23.78, 8:45.30, 8:05.79 |
+| 12 | 8:25.56 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | 7:27.16, 9:55.31, 9:32.42, 8:17.10, 6:54.80 |
+| 13 | 8:31.57 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) | 9:17.37, 8:29.41, 7:47.93, DNF, 5:59.62 |
+| 14 | 8:56.23 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) | 9:42.04, 8:16.29, 8:50.35, 7:30.26, DNF |
+| 15 | 14:39.67 | [Anonymous](https://www.worldcubeassociation.org/persons/2015ANON13) | DNF, 13:32.00, 15:43.00, 10:23.00, 14:44.00 |
+| 16 | 14:41.33 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) | 16:05.00, 10:38.00, 17:21.00, DNF, 9:53.61 |
 
 ### 5x5x5 Blindfolded
 

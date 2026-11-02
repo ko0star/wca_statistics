@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube
@@ -20,8 +20,8 @@
 | 10 | 9.94 | [Song JiHun (송지훈)](https://www.worldcubeassociation.org/persons/2024JIHU01) |
 | 11 | 9.95 | [Lim Yun-ho](https://www.worldcubeassociation.org/persons/2022YUNH01) |
 | 12 | 10.01 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) |
-| 13 | 10.07 | [Jun Myeong Kim (김준명)](https://www.worldcubeassociation.org/persons/2022KIMJ07) |
-| 14 | 10.07 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) |
+| 13 | 10.07 | [Eunchan Lee (이은찬)](https://www.worldcubeassociation.org/persons/2023LEEE05) |
+| 14 | 10.07 | [Jun Myeong Kim (김준명)](https://www.worldcubeassociation.org/persons/2022KIMJ07) |
 | 15 | 10.13 | [DongGeon Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD08) |
 | 16 | 10.22 | [Chanyoung Heo (허찬영)](https://www.worldcubeassociation.org/persons/2024CHAN67) |
 | 17 | 10.26 | [Theo Yoon](https://www.worldcubeassociation.org/persons/2026YOON07) |
@@ -338,8 +338,8 @@
 | 16 | 19.45 | [Jaeryung Lim (임재령)](https://www.worldcubeassociation.org/persons/2023LIMJ02) |
 | 17 | 19.48 | [Juan Kim](https://www.worldcubeassociation.org/persons/2024KIMJ30) |
 | 18 | 20.40 | [Junhan Park (박준한)](https://www.worldcubeassociation.org/persons/2016PARK30) |
-| 19 | 20.50 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
-| 20 | 20.50 | [SuHyeon Hong (홍수현)](https://www.worldcubeassociation.org/persons/2026HONG20) |
+| 19 | 20.50 | [SuHyeon Hong (홍수현)](https://www.worldcubeassociation.org/persons/2026HONG20) |
+| 20 | 20.50 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
 
 ### 4x4x4 Blindfolded
 

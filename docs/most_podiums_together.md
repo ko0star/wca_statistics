@@ -1,6 +1,6 @@
 ## Most podiums together
 
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Pairs
@@ -103,10 +103,10 @@
 | 94 | 5 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) & [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) |
 | 95 | 5 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) & [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
 | 96 | 5 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) & [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) |
-| 97 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) & [Park Byung-Gu](https://www.worldcubeassociation.org/persons/2010BYUN02) |
+| 97 | 4 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) & [Seung-Ho Song (송승호)](https://www.worldcubeassociation.org/persons/2018SONG36) |
 | 98 | 4 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) & [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) |
-| 99 | 4 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) & [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
-| 100 | 4 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) & [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
+| 99 | 4 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) & [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
+| 100 | 4 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) & [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) |
 
 ### Triples
 

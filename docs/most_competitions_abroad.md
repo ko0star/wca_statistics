@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -16,7 +16,7 @@
 | 10 | 28 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 11 | 26 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
 | 12 | 25 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
-| 13 | 22 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) |
+| 13 | 23 | [Jongwon Kook (국종원)](https://www.worldcubeassociation.org/persons/2023KOOK01) |
 | 14 | 22 | [Kunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMK01) |
 | 15 | 20 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
 | 16 | 19 | [Sichan Joseph Lee](https://www.worldcubeassociation.org/persons/2024LEES04) |
@@ -32,19 +32,19 @@
 | 26 | 16 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 27 | 16 | [Yuchan Han](https://www.worldcubeassociation.org/persons/2025HANY02) |
 | 28 | 15 | [Kyumin Shim (심규민)](https://www.worldcubeassociation.org/persons/2023SHIM03) |
-| 29 | 13 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
-| 30 | 13 | [Yejune Goo](https://www.worldcubeassociation.org/persons/2023GOOY01) |
+| 29 | 13 | [Alex Jung](https://www.worldcubeassociation.org/persons/2018JUNG02) |
+| 30 | 13 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2024YOOS02) |
 | 31 | 13 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
-| 32 | 13 | [Sihun Yoo](https://www.worldcubeassociation.org/persons/2024YOOS02) |
-| 33 | 12 | [Alex Jung](https://www.worldcubeassociation.org/persons/2018JUNG02) |
+| 32 | 13 | [Yejune Goo](https://www.worldcubeassociation.org/persons/2023GOOY01) |
+| 33 | 13 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
 | 34 | 11 | [Beomseo Jeon (전범서)](https://www.worldcubeassociation.org/persons/2023JEON18) |
 | 35 | 11 | [Seokyoon Yoo](https://www.worldcubeassociation.org/persons/2018YOOS01) |
 | 36 | 11 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) |
 | 37 | 11 | [Minsoo Park](https://www.worldcubeassociation.org/persons/2016PARK12) |
 | 38 | 11 | [Beom-Jun Kim (김범준)](https://www.worldcubeassociation.org/persons/2013KIMB01) |
 | 39 | 11 | [Seungheon Lee](https://www.worldcubeassociation.org/persons/2023LEES14) |
-| 40 | 10 | [Chanyoung Kim](https://www.worldcubeassociation.org/persons/2017KIMC01) |
-| 41 | 10 | [Aaron Wonsok Choi](https://www.worldcubeassociation.org/persons/2023CHOI19) |
+| 40 | 10 | [Aaron Wonsok Choi](https://www.worldcubeassociation.org/persons/2023CHOI19) |
+| 41 | 10 | [Chanyoung Kim](https://www.worldcubeassociation.org/persons/2017KIMC01) |
 | 42 | 10 | [Sungyi Lee](https://www.worldcubeassociation.org/persons/2017LEES09) |
 | 43 | 10 | [Theodora Lynn Cha (차린)](https://www.worldcubeassociation.org/persons/2023CHAT16) |
 | 44 | 10 | [Lee Seung Ha (이승하)](https://www.worldcubeassociation.org/persons/2014HALE02) |

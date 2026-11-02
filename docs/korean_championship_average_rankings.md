@@ -1,7 +1,7 @@
 ## Korean Championship average rankings
 
 *Note: Top 20 Korean competitors by event at Korean Championships.*
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 
 ### Rubik's Cube

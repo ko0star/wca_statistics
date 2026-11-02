@@ -1,6 +1,6 @@
 ## Competitions count by month
 
-*Updated on 28 October 2026*
+*Updated on  1 November 2026*
 
 | # | Competitions | Month | List on WCA |
 | ---: | :--: | ---: | :--: |
