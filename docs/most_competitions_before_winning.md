@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Rubik's Cube
@@ -19,15 +19,15 @@
 | 9 | 17 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | [Korea Winter 2019](https://www.worldcubeassociation.org/competitions/KoreaWinter2019) |
 | 10 | 16 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | [Korea Newcomers AM 2025](https://www.worldcubeassociation.org/competitions/KoreaNewcomersAM2025) |
 | 11 | 13 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025) |
-| 12 | 12 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019) |
+| 12 | 12 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [KAIST Fall 2014](https://www.worldcubeassociation.org/competitions/KAISTFall2014) |
 | 13 | 12 | [Chong Min (민총)](https://www.worldcubeassociation.org/persons/2019MINC02) | [Korea Qualifier - Daegu B 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierDaeguB2024) |
-| 14 | 12 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [KAIST Fall 2014](https://www.worldcubeassociation.org/competitions/KAISTFall2014) |
+| 14 | 12 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) | [Cubing Operating System 2019](https://www.worldcubeassociation.org/competitions/CubingOperatingSystem2019) |
 | 15 | 12 | [Jimin Byeon (변지민)](https://www.worldcubeassociation.org/persons/2015BYEO01) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) |
 | 16 | 9 | [Lee HwanHee (이환희)](https://www.worldcubeassociation.org/persons/2022HWAN06) | [Korea Qualifier - Seoul A 2024](https://www.worldcubeassociation.org/competitions/KoreaQualifierSeoulA2024) |
 | 17 | 8 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011) |
 | 18 | 8 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) | [Korea New Year 2014](https://www.worldcubeassociation.org/competitions/KoreaNewYear2014) |
 | 19 | 8 | [Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01) | [Jeonju Spring 2016](https://www.worldcubeassociation.org/competitions/JeonjuSpring2016) |
-| 20 | 5 | [Hyeon Kyo Kyoung (경현교)](https://www.worldcubeassociation.org/persons/2013KYOU01) | [Happy Sheep Year 2015](https://www.worldcubeassociation.org/competitions/HappySheepYear2015) |
+| 20 | 7 | [Ian Rhee](https://www.worldcubeassociation.org/persons/2022RHEE02) | [3x3 In San Diego C 2026](https://www.worldcubeassociation.org/competitions/3x3InSanDiegoC2026) |
 
 ### 2x2x2 Cube
 
@@ -250,8 +250,8 @@
 | 4 | 9 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | [Cubing Korea 2019](https://www.worldcubeassociation.org/competitions/CubingKorea2019) |
 | 5 | 8 | [Chae Jiseok (채지석)](https://www.worldcubeassociation.org/persons/2008JISE02) | [Cube Camp in Wonju 2019](https://www.worldcubeassociation.org/competitions/CubeCampinWonju2019) |
 | 6 | 6 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024) |
-| 7 | 5 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026) |
-| 8 | 5 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 7 | 5 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 8 | 5 | [Noh HyunJin (노현진)](https://www.worldcubeassociation.org/persons/2024HYUN05) | [Ansan Favorites 2026](https://www.worldcubeassociation.org/competitions/AnsanFavorites2026) |
 | 9 | 5 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Korean Spring 2022](https://www.worldcubeassociation.org/competitions/KoreanSpring2022) |
 | 10 | 4 | [Keunsoo Heo (허근수)](https://www.worldcubeassociation.org/persons/2014HEOG01) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017) |
 | 11 | 4 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) |

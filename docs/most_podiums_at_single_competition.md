@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 | # | Podiums | Person | Competition |
 | ---: | ---: | :--- | :--- |
@@ -337,72 +337,75 @@
 | 331 | 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/podiums) |
 | 332 | 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Korea Open 2026](https://www.worldcubeassociation.org/competitions/KoreaOpen2026/results/podiums) |
 | 333 | 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/podiums) |
-| 334 | 3 | [Lee Jae-Jun](https://www.worldcubeassociation.org/persons/2007JAEJ02) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums) |
-| 335 | 3 | [Lee Jae-Yong](https://www.worldcubeassociation.org/persons/2007JAEY02) | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums) |
-| 336 | 3 | [Lee Jin-Hyung (이진형)](https://www.worldcubeassociation.org/persons/2010JINH01) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
-| 337 | 3 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [South Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/SouthLuzonChampionship2025/results/podiums) |
-| 338 | 3 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [HIT - Hilo 2025](https://www.worldcubeassociation.org/competitions/HawaiianIslandTourHilo2025/results/podiums) |
-| 339 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017/results/podiums) |
-| 340 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [Westfries Open 2022](https://www.worldcubeassociation.org/competitions/WestFriesOpen2022/results/podiums) |
-| 341 | 3 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | [Guam Open 2026](https://www.worldcubeassociation.org/competitions/GuamOpen2026/results/podiums) |
-| 342 | 3 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/podiums) |
-| 343 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Dockin and Clockin Dunkirk 2026](https://www.worldcubeassociation.org/competitions/DockinandClockinDunkirk2026/results/podiums) |
-| 344 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Winnipeg Spring 2026](https://www.worldcubeassociation.org/competitions/WinnipegSpring2026/results/podiums) |
-| 345 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [King of Prussia Summer 2026](https://www.worldcubeassociation.org/competitions/KingofPrussiaSummer2026/results/podiums) |
-| 346 | 3 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
-| 347 | 3 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026/results/podiums) |
-| 348 | 3 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums) |
-| 349 | 3 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | [Tuks Winter 2015](https://www.worldcubeassociation.org/competitions/TuksWinter2015/results/podiums) |
-| 350 | 3 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | [Big 'n Weird 2016](https://www.worldcubeassociation.org/competitions/BignWeird2016/results/podiums) |
-| 351 | 3 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025/results/podiums) |
-| 352 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014/results/podiums) |
-| 353 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014/results/podiums) |
-| 354 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Good Cube Show Korea 2015](https://www.worldcubeassociation.org/competitions/GoodCubeShowKorea2015/results/podiums) |
-| 355 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean KAIST Style 2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015/results/podiums) |
-| 356 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korea Winter 2015](https://www.worldcubeassociation.org/competitions/KoreaWinter2015/results/podiums) |
-| 357 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Jeonju Spring 2016](https://www.worldcubeassociation.org/competitions/JeonjuSpring2016/results/podiums) |
-| 358 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [KAIST Spring 2017](https://www.worldcubeassociation.org/competitions/KAISTSpring2017/results/podiums) |
-| 359 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017/results/podiums) |
-| 360 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018/results/podiums) |
-| 361 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Play Cube 2018](https://www.worldcubeassociation.org/competitions/PlayCube2018/results/podiums) |
-| 362 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Cutory Autumn Open 2018](https://www.worldcubeassociation.org/competitions/CutoryAutumnOpen2018/results/podiums) |
-| 363 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/podiums) |
-| 364 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [ByeolLae Open 2020](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020/results/podiums) |
-| 365 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/podiums) |
-| 366 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/podiums) |
-| 367 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/podiums) |
-| 368 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/podiums) |
-| 369 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025/results/podiums) |
-| 370 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025/results/podiums) |
-| 371 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Tokai Autumn 2026](https://www.worldcubeassociation.org/competitions/TokaiAutumn2026/results/podiums) |
-| 372 | 3 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017/results/podiums) |
-| 373 | 3 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/podiums) |
-| 374 | 3 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/podiums) |
-| 375 | 3 | [SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01) | [KAIST Fall 2014](https://www.worldcubeassociation.org/competitions/KAISTFall2014/results/podiums) |
-| 376 | 3 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008/results/podiums) |
-| 377 | 3 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010/results/podiums) |
-| 378 | 3 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | [Big n' Blind Caloocan 2024](https://www.worldcubeassociation.org/competitions/BignBlindCaloocan2024/results/podiums) |
-| 379 | 3 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008/results/podiums) |
-| 380 | 3 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021/results/podiums) |
-| 381 | 3 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | [Korean Spring 2022](https://www.worldcubeassociation.org/competitions/KoreanSpring2022/results/podiums) |
-| 382 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/podiums) |
-| 383 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/podiums) |
-| 384 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/podiums) |
-| 385 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026/results/podiums) |
-| 386 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/podiums) |
-| 387 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012/results/podiums) |
-| 388 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/podiums) |
-| 389 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017/results/podiums) |
-| 390 | 3 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/podiums) |
-| 391 | 3 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018/results/podiums) |
-| 392 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Osan Summer 2025](https://www.worldcubeassociation.org/competitions/OsanSummer2025/results/podiums) |
-| 393 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025/results/podiums) |
-| 394 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Otsu Biwako Winter 2026](https://www.worldcubeassociation.org/competitions/OtsuBiwakoWinter2026/results/podiums) |
-| 395 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026/results/podiums) |
-| 396 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026/results/podiums) |
-| 397 | 3 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012/results/podiums) |
-| 398 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Korean Championship 2011](https://www.worldcubeassociation.org/competitions/KoreanChampionship2011/results/podiums) |
-| 399 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
-| 400 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012/results/podiums) |
-| 401 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017/results/podiums) |
-| 402 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Odd Cubing Day 2018](https://www.worldcubeassociation.org/competitions/OddCubingDay2018/results/podiums) |
+| 334 | 3 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/podiums) |
+| 335 | 3 | [Lee Jae-Jun](https://www.worldcubeassociation.org/persons/2007JAEJ02) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums) |
+| 336 | 3 | [Lee Jae-Yong](https://www.worldcubeassociation.org/persons/2007JAEY02) | [KCRC Busan 2007](https://www.worldcubeassociation.org/competitions/KCRCBusan2007/results/podiums) |
+| 337 | 3 | [Lee Jin-Hyung (이진형)](https://www.worldcubeassociation.org/persons/2010JINH01) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
+| 338 | 3 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [South Luzon Championship 2025](https://www.worldcubeassociation.org/competitions/SouthLuzonChampionship2025/results/podiums) |
+| 339 | 3 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) | [HIT - Hilo 2025](https://www.worldcubeassociation.org/competitions/HawaiianIslandTourHilo2025/results/podiums) |
+| 340 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [PSKubing 2017](https://www.worldcubeassociation.org/competitions/PSKubing2017/results/podiums) |
+| 341 | 3 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) | [Westfries Open 2022](https://www.worldcubeassociation.org/competitions/WestFriesOpen2022/results/podiums) |
+| 342 | 3 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) | [Guam Open 2026](https://www.worldcubeassociation.org/competitions/GuamOpen2026/results/podiums) |
+| 343 | 3 | [Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08) | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/podiums) |
+| 344 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Dockin and Clockin Dunkirk 2026](https://www.worldcubeassociation.org/competitions/DockinandClockinDunkirk2026/results/podiums) |
+| 345 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [Winnipeg Spring 2026](https://www.worldcubeassociation.org/competitions/WinnipegSpring2026/results/podiums) |
+| 346 | 3 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) | [King of Prussia Summer 2026](https://www.worldcubeassociation.org/competitions/KingofPrussiaSummer2026/results/podiums) |
+| 347 | 3 | [Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
+| 348 | 3 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) | [Seoul Spring 2026](https://www.worldcubeassociation.org/competitions/SeoulSpring2026/results/podiums) |
+| 349 | 3 | [Park Sang-Dong](https://www.worldcubeassociation.org/persons/2006SANG02) | [Busan 2008](https://www.worldcubeassociation.org/competitions/Busan2008/results/podiums) |
+| 350 | 3 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | [Tuks Winter 2015](https://www.worldcubeassociation.org/competitions/TuksWinter2015/results/podiums) |
+| 351 | 3 | [Sae-ouk Oh](https://www.worldcubeassociation.org/persons/2015OHSA01) | [Big 'n Weird 2016](https://www.worldcubeassociation.org/competitions/BignWeird2016/results/podiums) |
+| 352 | 3 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | [Okcheon Autumn Breeze 2025](https://www.worldcubeassociation.org/competitions/OkcheonAutumnBreeze2025/results/podiums) |
+| 353 | 3 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/podiums) |
+| 354 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Thanks Cubing Day 2014](https://www.worldcubeassociation.org/competitions/ThanksCubingDay2014/results/podiums) |
+| 355 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Asian Championship 2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014/results/podiums) |
+| 356 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Good Cube Show Korea 2015](https://www.worldcubeassociation.org/competitions/GoodCubeShowKorea2015/results/podiums) |
+| 357 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean KAIST Style 2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015/results/podiums) |
+| 358 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korea Winter 2015](https://www.worldcubeassociation.org/competitions/KoreaWinter2015/results/podiums) |
+| 359 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Jeonju Spring 2016](https://www.worldcubeassociation.org/competitions/JeonjuSpring2016/results/podiums) |
+| 360 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [KAIST Spring 2017](https://www.worldcubeassociation.org/competitions/KAISTSpring2017/results/podiums) |
+| 361 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Play Cube 2017](https://www.worldcubeassociation.org/competitions/PlayCube2017/results/podiums) |
+| 362 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [CWR Winter 2018](https://www.worldcubeassociation.org/competitions/CWRWinter2018/results/podiums) |
+| 363 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Play Cube 2018](https://www.worldcubeassociation.org/competitions/PlayCube2018/results/podiums) |
+| 364 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Cutory Autumn Open 2018](https://www.worldcubeassociation.org/competitions/CutoryAutumnOpen2018/results/podiums) |
+| 365 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/podiums) |
+| 366 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [ByeolLae Open 2020](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020/results/podiums) |
+| 367 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/podiums) |
+| 368 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/podiums) |
+| 369 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Selangor Niche 2024](https://www.worldcubeassociation.org/competitions/SelangorNiche2024/results/podiums) |
+| 370 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/podiums) |
+| 371 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Happy Suseong 2025](https://www.worldcubeassociation.org/competitions/HappySuseong2025/results/podiums) |
+| 372 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Please Big Cubes Korea 2025](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2025/results/podiums) |
+| 373 | 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Tokai Autumn 2026](https://www.worldcubeassociation.org/competitions/TokaiAutumn2026/results/podiums) |
+| 374 | 3 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Korean CWR Style 2017](https://www.worldcubeassociation.org/competitions/KoreanCWRStyle2017/results/podiums) |
+| 375 | 3 | [Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01) | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/podiums) |
+| 376 | 3 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/podiums) |
+| 377 | 3 | [SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01) | [KAIST Fall 2014](https://www.worldcubeassociation.org/competitions/KAISTFall2014/results/podiums) |
+| 378 | 3 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008/results/podiums) |
+| 379 | 3 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010/results/podiums) |
+| 380 | 3 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) | [Big n' Blind Caloocan 2024](https://www.worldcubeassociation.org/competitions/BignBlindCaloocan2024/results/podiums) |
+| 381 | 3 | [Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01) | [Cheonan 2008](https://www.worldcubeassociation.org/competitions/Cheonan2008/results/podiums) |
+| 382 | 3 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | [Korean Championship Mini 2021](https://www.worldcubeassociation.org/competitions/KoreanChampionshipMini2021/results/podiums) |
+| 383 | 3 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | [Korean Spring 2022](https://www.worldcubeassociation.org/competitions/KoreanSpring2022/results/podiums) |
+| 384 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/podiums) |
+| 385 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Silent Korea Open 2025](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2025/results/podiums) |
+| 386 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Seoul Silent Shhpring 2026](https://www.worldcubeassociation.org/competitions/SeoulSilentShhpring2026/results/podiums) |
+| 387 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026/results/podiums) |
+| 388 | 3 | [Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10) | [Silent Korea Open 2026](https://www.worldcubeassociation.org/competitions/SilentKoreaOpen2026/results/podiums) |
+| 389 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012/results/podiums) |
+| 390 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/podiums) |
+| 391 | 3 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2017](https://www.worldcubeassociation.org/competitions/KoreanChampionship2017/results/podiums) |
+| 392 | 3 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/podiums) |
+| 393 | 3 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018/results/podiums) |
+| 394 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Osan Summer 2025](https://www.worldcubeassociation.org/competitions/OsanSummer2025/results/podiums) |
+| 395 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [We Laugh Pohanghang 2025](https://www.worldcubeassociation.org/competitions/WeLaughPohanghang2025/results/podiums) |
+| 396 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Otsu Biwako Winter 2026](https://www.worldcubeassociation.org/competitions/OtsuBiwakoWinter2026/results/podiums) |
+| 397 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Anyang Haseyo 2026](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2026/results/podiums) |
+| 398 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Hamoye Jinju 2026](https://www.worldcubeassociation.org/competitions/HamoyeJinju2026/results/podiums) |
+| 399 | 3 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/podiums) |
+| 400 | 3 | [Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01) | [Cubing Korea January 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaJanuary2012/results/podiums) |
+| 401 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Korean Championship 2011](https://www.worldcubeassociation.org/competitions/KoreanChampionship2011/results/podiums) |
+| 402 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/podiums) |
+| 403 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012/results/podiums) |
+| 404 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Jeju Open 2017](https://www.worldcubeassociation.org/competitions/JejuOpen2017/results/podiums) |
+| 405 | 3 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | [Odd Cubing Day 2018](https://www.worldcubeassociation.org/competitions/OddCubingDay2018/results/podiums) |

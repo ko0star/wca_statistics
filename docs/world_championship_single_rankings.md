@@ -1,7 +1,7 @@
 ## World Championship single rankings
 
 *Note: Top 20 Korean competitors by event at World Championships.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Rubik's Cube
@@ -190,8 +190,8 @@
 | 5 | 25 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 6 | 28 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 7 | 29 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015) |
-| 8 | 29 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
-| 9 | 29 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 8 | 29 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
+| 9 | 29 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 10 | 29 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | Republic of Korea | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023) |
 | 11 | 30 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | Republic of Korea | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
 | 12 | 32 | [Choi Goho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01) | Republic of Korea | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |

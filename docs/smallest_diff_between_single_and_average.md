@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Rubik's Cube
@@ -272,12 +272,12 @@
 | 12 | 0.22 | [Chae Jiseok (채지석)](https://www.worldcubeassociation.org/persons/2008JISE02) | 7.96 | 8.18 | [Korea Winter 2015](https://www.worldcubeassociation.org/competitions/KoreaWinter2015/results/by_person#2008JISE02) |
 | 13 | 0.22 | [DaYeong Kim (김다영)](https://www.worldcubeassociation.org/persons/2016KIMD05) | 10.67 | 10.89 | [BC Championship 2026](https://www.worldcubeassociation.org/competitions/BCChampionship2026/results/by_person#2016KIMD05) |
 | 14 | 0.23 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.66 | 6.89 | [Brown Fall Seongnam 2024](https://www.worldcubeassociation.org/competitions/BrownFallSeongnam2024/results/by_person#2017PARK05) |
-| 15 | 0.24 | [Kunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMK01) | 8.10 | 8.34 | [Colorado Cubing Weekend 2025](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2025/results/by_person#2024KIMK01) |
-| 16 | 0.25 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | 3.86 | 4.11 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/by_person#2023NOHY01) |
-| 17 | 0.25 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) | 6.84 | 7.09 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/by_person#2023CHOI34) |
-| 18 | 0.25 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.78 | 8.03 | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2017CHOI07) |
-| 19 | 0.26 | [Jaehyeon Seo (서재현)](https://www.worldcubeassociation.org/persons/2024SEOJ06) | 7.38 | 7.64 | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/by_person#2024SEOJ06) |
-| 20 | 0.27 | [E-chan Jeon (전이찬)](https://www.worldcubeassociation.org/persons/2019JEON05) | 3.69 | 3.96 | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/by_person#2019JEON05) |
+| 15 | 0.24 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 3.50 | 3.74 | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/by_person#2023YANG73) |
+| 16 | 0.24 | [Kunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMK01) | 8.10 | 8.34 | [Colorado Cubing Weekend 2025](https://www.worldcubeassociation.org/competitions/ColoradoCubingWeekend2025/results/by_person#2024KIMK01) |
+| 17 | 0.25 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | 3.86 | 4.11 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/by_person#2023NOHY01) |
+| 18 | 0.25 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) | 6.84 | 7.09 | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/by_person#2023CHOI34) |
+| 19 | 0.25 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.78 | 8.03 | [WCC Western Championship 2022](https://www.worldcubeassociation.org/competitions/WCCWesternChampionship2022/results/by_person#2017CHOI07) |
+| 20 | 0.26 | [Jaehyeon Seo (서재현)](https://www.worldcubeassociation.org/persons/2024SEOJ06) | 7.38 | 7.64 | [Anyang Haseyo 2025](https://www.worldcubeassociation.org/competitions/AnyangHaseyo2025/results/by_person#2024SEOJ06) |
 
 ### Skewb
 

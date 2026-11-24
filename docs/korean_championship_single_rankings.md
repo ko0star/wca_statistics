@@ -1,7 +1,7 @@
 ## Korean Championship single rankings
 
 *Note: Top 20 Korean competitors by event at Korean Championships.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Rubik's Cube
@@ -43,8 +43,8 @@
 | 8 | 1.25 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) | Republic of Korea | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023) |
 | 9 | 1.27 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 10 | 1.27 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 11 | 1.31 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 12 | 1.31 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 11 | 1.31 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 12 | 1.31 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 13 | 1.32 | [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17) | Republic of Korea | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) |
 | 14 | 1.32 | [Seungheon Lee](https://www.worldcubeassociation.org/persons/2023LEES14) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 15 | 1.33 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | Republic of Korea | [Korean Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanChampionship2023) |
@@ -188,21 +188,21 @@
 | 3 | 20 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
 | 4 | 21 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean Championship 2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019) |
 | 5 | 21 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 6 | 21 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
-| 7 | 21 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
+| 6 | 21 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
+| 7 | 21 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
 | 8 | 22 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023) |
 | 9 | 22 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 10 | 23 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 10 | 23 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
 | 11 | 23 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 12 | 23 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 13 | 23 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 12 | 23 | [Jaehyun Jeong (정재현)](https://www.worldcubeassociation.org/persons/2016JEON02) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 13 | 23 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
 | 14 | 23 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
 | 15 | 23 | [Jihan Lee (이지한)](https://www.worldcubeassociation.org/persons/2025LEEJ41) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
 | 16 | 24 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2023](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2023) |
-| 17 | 24 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 18 | 24 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 19 | 24 | [Jang SeokWon (장석원)](https://www.worldcubeassociation.org/persons/2015SUCK01) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
-| 20 | 24 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
+| 17 | 24 | [Yunsu Nam (남윤수)](https://www.worldcubeassociation.org/persons/2008YUNS02) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 18 | 24 | [Jang SeokWon (장석원)](https://www.worldcubeassociation.org/persons/2015SUCK01) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 19 | 24 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | Republic of Korea | [Korean FMC Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2024) |
+| 20 | 24 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) | Republic of Korea | [Korean FMC Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanFMCChampionship2025) |
 
 ### 3x3x3 One-Handed
 
@@ -288,8 +288,8 @@
 | 3 | 3.04 | [Woo Seongmin (우성민)](https://www.worldcubeassociation.org/persons/2022SEON01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 4 | 3.13 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 5 | 3.32 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 6 | 3.41 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
-| 7 | 3.41 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 6 | 3.41 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
+| 7 | 3.41 | [YoungJin Noh (노영진)](https://www.worldcubeassociation.org/persons/2023NOHY01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 8 | 3.46 | [Hyunseong Hwang (황현성)](https://www.worldcubeassociation.org/persons/2024HWAN01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 9 | 3.57 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |
 | 10 | 3.57 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | Republic of Korea | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025) |

@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### World
@@ -80,31 +80,31 @@
 | 4 | 8 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/by_person#2013NAHM01) |
 | 5 | 8 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [China Championship 2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017/results/by_person#2013NAHM01) |
 | 6 | 8 | [Yoon Seon-Gyu](https://www.worldcubeassociation.org/persons/2006SEON01) | [Korea 2006](https://www.worldcubeassociation.org/competitions/Korea2006/results/by_person#2006SEON01) |
-| 7 | 7 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2013NAHM01) |
-| 8 | 7 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2008JONG03) |
+| 7 | 7 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011/results/by_person#2008JONG03) |
+| 8 | 7 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [WCA Asian Championship 2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018/results/by_person#2013NAHM01) |
 | 9 | 7 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013/results/by_person#2007SEUN04) |
 | 10 | 6 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [China Championship 2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018/results/by_person#2013NAHM01) |
 | 11 | 6 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/by_person#2013NAHM01) |
-| 12 | 5 | [Lee Min Woo](https://www.worldcubeassociation.org/persons/2011WOOL01) | [León Winter 2011](https://www.worldcubeassociation.org/competitions/LeonWinter2011/results/by_person#2011WOOL01) |
+| 12 | 5 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2013NAHM01) |
 | 13 | 5 | [JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007/results/by_person#2007JEON01) |
-| 14 | 5 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010/results/by_person#2007SEUN04) |
-| 15 | 5 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Singapore Championship 2023](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2023/results/by_person#2013NAHM01) |
-| 16 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [TCG & Friends 2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015/results/by_person#2008JONG03) |
-| 17 | 5 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007/results/by_person#2006HYUN01) |
-| 18 | 5 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012/results/by_person#2007SEUN04) |
-| 19 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
-| 20 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2013NAHM01) |
-| 21 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010/results/by_person#2010KIMB01) |
-| 22 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014/results/by_person#2008JONG03) |
-| 23 | 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [NTU Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/NTUBigCubeOpen2022/results/by_person#2017PARK05) |
+| 14 | 5 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCRC 2007](https://www.worldcubeassociation.org/competitions/KCRC2007/results/by_person#2006HYUN01) |
+| 15 | 5 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Cubing Korea New Years 2012](https://www.worldcubeassociation.org/competitions/CubingKoreaNewYears2012/results/by_person#2007SEUN04) |
+| 16 | 5 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2010](https://www.worldcubeassociation.org/competitions/Korea2010/results/by_person#2007SEUN04) |
+| 17 | 5 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [TCG & Friends 2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015/results/by_person#2008JONG03) |
+| 18 | 5 | [Lee Min Woo](https://www.worldcubeassociation.org/persons/2011WOOL01) | [León Winter 2011](https://www.worldcubeassociation.org/competitions/LeonWinter2011/results/by_person#2011WOOL01) |
+| 19 | 4 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [Wiscube 2014](https://www.worldcubeassociation.org/competitions/Wiscube2014/results/by_person#2012CHOS01) |
+| 20 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022/results/by_person#2013NAHM01) |
+| 21 | 4 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [Asian Championship 2012](https://www.worldcubeassociation.org/competitions/AsianChampionship2012/results/by_person#2011SUNG01) |
+| 22 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018/results/by_person#2013NAHM01) |
+| 23 | 4 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/by_person#2007SEUN04) |
 | 24 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Please Big Cubes Korea 2022](https://www.worldcubeassociation.org/competitions/PleaseBigCubesKorea2022/results/by_person#2013NAHM01) |
-| 25 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean Championship 2022](https://www.worldcubeassociation.org/competitions/KoreanChampionship2022/results/by_person#2013NAHM01) |
-| 26 | 4 | [Yi Seung-Woo (이승우)](https://www.worldcubeassociation.org/persons/2007SEUN04) | [Korean Championship 2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016/results/by_person#2007SEUN04) |
-| 27 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024/results/by_person#2013NAHM01) |
-| 28 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) | [Melbourne Winter Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2010/results/by_person#2010KIMB01) |
-| 29 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Korean Championship 2018](https://www.worldcubeassociation.org/competitions/KoreanChampionship2018/results/by_person#2013NAHM01) |
+| 25 | 4 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | [NTU Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/NTUBigCubeOpen2022/results/by_person#2017PARK05) |
+| 26 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Selangor Ace Cube 2023](https://www.worldcubeassociation.org/competitions/SelangorAceCube2023/results/by_person#2013NAHM01) |
+| 27 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) | [Australian Nationals 2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010/results/by_person#2010KIMB01) |
+| 28 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Daegu Cold Winter 2024](https://www.worldcubeassociation.org/competitions/DaeguColdWinter2024/results/by_person#2013NAHM01) |
+| 29 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Nottingham 2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014/results/by_person#2008JONG03) |
 | 30 | 4 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) | [KCA Korea Open 2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008/results/by_person#2006HYUN01) |
-| 31 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Korean Championship 2011](https://www.worldcubeassociation.org/competitions/KoreanChampionship2011/results/by_person#2008JONG03) |
-| 32 | 4 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) | [Asian Championship 2012](https://www.worldcubeassociation.org/competitions/AsianChampionship2012/results/by_person#2011SUNG01) |
-| 33 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/by_person#2008JONG03) |
-| 34 | 4 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) | [Wiscube 2014](https://www.worldcubeassociation.org/competitions/Wiscube2014/results/by_person#2012CHOS01) |
+| 31 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Cubing Korea December 2011](https://www.worldcubeassociation.org/competitions/CubingKoreaDecember2011/results/by_person#2008JONG03) |
+| 32 | 4 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) | [Korean Championship 2011](https://www.worldcubeassociation.org/competitions/KoreanChampionship2011/results/by_person#2008JONG03) |
+| 33 | 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | [Big Time Manila 2023](https://www.worldcubeassociation.org/competitions/BigTimeManila2023/results/by_person#2013NAHM01) |
+| 34 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) | [Melbourne Winter Open 2010](https://www.worldcubeassociation.org/competitions/MelbourneWinterOpen2010/results/by_person#2010KIMB01) |

@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### 100 Competitions
@@ -76,28 +76,28 @@
 | 4 | 260 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) |
 | 5 | 266 | [JuWan Jeon (전주완)](https://www.worldcubeassociation.org/persons/2023JEON15) |
 | 6 | 295 | [Haram Jang (장하람)](https://www.worldcubeassociation.org/persons/2024JANG06) |
-| 7 | 322 | [Leean Chun (천리안)](https://www.worldcubeassociation.org/persons/2022CHUN08) |
-| 8 | 322 | [Huisu Yu (유희수)](https://www.worldcubeassociation.org/persons/2022YUHU01) |
+| 7 | 322 | [Huisu Yu (유희수)](https://www.worldcubeassociation.org/persons/2022YUHU01) |
+| 8 | 322 | [Leean Chun (천리안)](https://www.worldcubeassociation.org/persons/2022CHUN08) |
 | 9 | 330 | [Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02) |
-| 10 | 338 | [Yunsung Nam](https://www.worldcubeassociation.org/persons/2024NAMY01) |
-| 11 | 338 | [Junghyun Kim](https://www.worldcubeassociation.org/persons/2014KIMJ06) |
-| 12 | 344 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) |
-| 13 | 344 | [Jaemin Lee (이재민)](https://www.worldcubeassociation.org/persons/2024LEEJ01) |
-| 14 | 344 | [Sangjin Na (나상진)](https://www.worldcubeassociation.org/persons/2023NASA01) |
+| 10 | 338 | [Junghyun Kim](https://www.worldcubeassociation.org/persons/2014KIMJ06) |
+| 11 | 338 | [Yunsung Nam](https://www.worldcubeassociation.org/persons/2024NAMY01) |
+| 12 | 344 | [Jaemin Lee (이재민)](https://www.worldcubeassociation.org/persons/2024LEEJ01) |
+| 13 | 344 | [Sangjin Na (나상진)](https://www.worldcubeassociation.org/persons/2023NASA01) |
+| 14 | 344 | [Hwanhui Choi (최환희)](https://www.worldcubeassociation.org/persons/2023CHOI34) |
 | 15 | 345 | [Juhyeok Park (박주혁)](https://www.worldcubeassociation.org/persons/2024PARK48) |
 | 16 | 350 | [Geunyeong Lee (이근영)](https://www.worldcubeassociation.org/persons/2023LEEG03) |
 | 17 | 351 | [A-Jung Kim (김아정)](https://www.worldcubeassociation.org/persons/2025KIMA01) |
 | 18 | 358 | [Sunwoo Kim](https://www.worldcubeassociation.org/persons/2024KIMS10) |
-| 19 | 372 | [Hajun Sung (성하준)](https://www.worldcubeassociation.org/persons/2024SUNG06) |
-| 20 | 372 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
+| 19 | 365 | [Goeun Jeong (정고은)](https://www.worldcubeassociation.org/persons/2025JEON17) |
+| 20 | 372 | [Hajun Sung (성하준)](https://www.worldcubeassociation.org/persons/2024SUNG06) |
 
 ### 5 Competitions
 
 | # | Days | Person |
 | ---: | ---: | :--- |
 | 1 | 70 | [Doyu Lee](https://www.worldcubeassociation.org/persons/2023LEED06) |
-| 2 | 98 | [Jihun Ock (옥지훈)](https://www.worldcubeassociation.org/persons/2023OCKJ01) |
-| 3 | 98 | [JuWan Jeon (전주완)](https://www.worldcubeassociation.org/persons/2023JEON15) |
+| 2 | 98 | [JuWan Jeon (전주완)](https://www.worldcubeassociation.org/persons/2023JEON15) |
+| 3 | 98 | [Jihun Ock (옥지훈)](https://www.worldcubeassociation.org/persons/2023OCKJ01) |
 | 4 | 99 | [Haram Jang (장하람)](https://www.worldcubeassociation.org/persons/2024JANG06) |
 | 5 | 105 | [JiO Han (한지오)](https://www.worldcubeassociation.org/persons/2023HANJ05) |
 | 6 | 106 | [Michael Deshazer](https://www.worldcubeassociation.org/persons/2024IIIM01) |
@@ -113,5 +113,5 @@
 | 16 | 127 | [Jung Yoonhoo](https://www.worldcubeassociation.org/persons/2024YOON02) |
 | 17 | 127 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
 | 18 | 127 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) |
-| 19 | 128 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2026KIMS03) |
-| 20 | 128 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) |
+| 19 | 128 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) |
+| 20 | 128 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2026KIMS03) |

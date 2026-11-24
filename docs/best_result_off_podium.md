@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals are taken into account.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 
 ### Rubik's Cube
@@ -20,14 +20,14 @@
 | 10 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.44 | **6.96** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 4 |
 | 11 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.02 | **7.00** | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/all#e333_f) | 4 |
 | 12 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.38 | **7.04** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e333_f) | 5 |
-| 13 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.13 | **7.16** | [Korea Open 2026](https://www.worldcubeassociation.org/competitions/KoreaOpen2026/results/all#e333_f) | 6 |
-| 14 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.45 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 4 |
-| 15 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 6.92 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 5 |
-| 16 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.74 | **7.18** | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/all#e333_f) | 4 |
-| 17 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 5.08 | **7.25** | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/all#e333_f) | 5 |
-| 18 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 7.20 | **7.29** | [Hamchang Winter 2024](https://www.worldcubeassociation.org/competitions/HamchangWinter2024/results/all#e333_f) | 4 |
-| 19 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 6.48 | **7.35** | [Korean Championship 2024](https://www.worldcubeassociation.org/competitions/KoreanChampionship2024/results/all#e333_f) | 4 |
-| 20 | [DongGun Kim (김동건)](https://www.worldcubeassociation.org/persons/2025KIMD13) | 6.57 | **7.35** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e333_f) | 5 |
+| 13 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.45 | **7.08** | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/all#e333_f) | 4 |
+| 14 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.13 | **7.16** | [Korea Open 2026](https://www.worldcubeassociation.org/competitions/KoreaOpen2026/results/all#e333_f) | 6 |
+| 15 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) | 6.45 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 4 |
+| 16 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) | 6.92 | **7.16** | [Hamchang Open 2023](https://www.worldcubeassociation.org/competitions/HamchangOpen2023/results/all#e333_f) | 5 |
+| 17 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 6.74 | **7.18** | [UCSD Extravaganza 2023](https://www.worldcubeassociation.org/competitions/UCSDExtravaganza2023/results/all#e333_f) | 4 |
+| 18 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 6.76 | **7.22** | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/all#e333_f) | 5 |
+| 19 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) | 5.08 | **7.25** | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/all#e333_f) | 5 |
+| 20 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) | 6.82 | **7.26** | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/all#e333_f) | 6 |
 
 ### 2x2x2 Cube
 
@@ -35,24 +35,24 @@
 | ---: | :--- | ---: | ---: | :--- | :--: |
 | 1 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.25 | **1.47** | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/all#e222_f) | 6 |
 | 2 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.13 | **1.76** | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/all#e222_f) | 7 |
-| 3 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.56 | **1.88** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e222_f) | 11 |
-| 4 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.22 | **1.91** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e222_f) | 11 |
-| 5 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.79 | **1.96** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e222_f) | 13 |
-| 6 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.75 | **1.98** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 4 |
-| 7 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.16 | **2.00** | [Corona Summer 2023](https://www.worldcubeassociation.org/competitions/CoronaSummer2023/results/all#e222_f) | 4 |
-| 8 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.35 | **2.03** | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026/results/all#e222_f) | 4 |
-| 9 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | 1.61 | **2.03** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#e222_f) | 5 |
-| 10 | [Yeohun Chwa (좌여훈)](https://www.worldcubeassociation.org/persons/2022CHWA01) | 1.54 | **2.05** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 4 |
-| 11 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.49 | **2.06** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 4 |
-| 12 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.80 | **2.07** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 5 |
-| 13 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 1.43 | **2.09** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 5 |
-| 14 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.44 | **2.09** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e222_f) | 4 |
-| 15 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.71 | **2.09** | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/all#e222_f) | 4 |
-| 16 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.33 | **2.10** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 5 |
-| 17 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1.67 | **2.11** | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/all#e222_f) | 4 |
-| 18 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.70 | **2.12** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 6 |
-| 19 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | 0.85 | **2.13** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 6 |
-| 20 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.78 | **2.14** | [Malaysia Cube Championship 2023](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2023/results/all#e222_f) | 4 |
+| 3 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.34 | **1.76** | [Secret Hwawon 2026](https://www.worldcubeassociation.org/competitions/SecretHwawon2026/results/all#e222_f) | 4 |
+| 4 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.56 | **1.88** | [Guangzhou Grand Open 2026](https://www.worldcubeassociation.org/competitions/GuangzhouGrandOpen2026/results/all#e222_f) | 11 |
+| 5 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.22 | **1.91** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e222_f) | 11 |
+| 6 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.79 | **1.96** | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/all#e222_f) | 13 |
+| 7 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.75 | **1.98** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 4 |
+| 8 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) | 1.16 | **2.00** | [Corona Summer 2023](https://www.worldcubeassociation.org/competitions/CoronaSummer2023/results/all#e222_f) | 4 |
+| 9 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.35 | **2.03** | [Cube Camp in Jeju 2026](https://www.worldcubeassociation.org/competitions/CubeCampinJeju2026/results/all#e222_f) | 4 |
+| 10 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) | 1.61 | **2.03** | [Daegu Autumn 2024](https://www.worldcubeassociation.org/competitions/DaeguAutumn2024/results/all#e222_f) | 5 |
+| 11 | [Yeohun Chwa (좌여훈)](https://www.worldcubeassociation.org/persons/2022CHWA01) | 1.54 | **2.05** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 4 |
+| 12 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) | 1.49 | **2.06** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 4 |
+| 13 | [Seojun Park](https://www.worldcubeassociation.org/persons/2023PARK56) | 1.80 | **2.07** | [Korea Open 2025](https://www.worldcubeassociation.org/competitions/KoreaOpen2025/results/all#e222_f) | 5 |
+| 14 | [Lee Seong Vin (이성빈)](https://www.worldcubeassociation.org/persons/2023VINL01) | 1.43 | **2.09** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 5 |
+| 15 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.44 | **2.09** | [Korean Championship 2025](https://www.worldcubeassociation.org/competitions/KoreanChampionship2025/results/all#e222_f) | 4 |
+| 16 | [Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01) | 1.71 | **2.09** | [Play Cube X4 2019](https://www.worldcubeassociation.org/competitions/PlayCubeX42019/results/all#e222_f) | 4 |
+| 17 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) | 1.33 | **2.10** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 5 |
+| 18 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) | 1.67 | **2.11** | [Okay Okcheon 2026](https://www.worldcubeassociation.org/competitions/OkayOkcheon2026/results/all#e222_f) | 4 |
+| 19 | [Seo Jin Yang (양서진)](https://www.worldcubeassociation.org/persons/2023YANG73) | 1.70 | **2.12** | [Seoul Winter 2024](https://www.worldcubeassociation.org/competitions/SeoulWinter2024/results/all#e222_f) | 6 |
+| 20 | [YoonSung Choi (최윤성)](https://www.worldcubeassociation.org/persons/2024CHOI36) | 0.85 | **2.13** | [Seoul Summer 2026](https://www.worldcubeassociation.org/competitions/SeoulSummer2026/results/all#e222_f) | 6 |
 
 ### 4x4x4 Cube
 

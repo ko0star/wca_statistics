@@ -1,17 +1,17 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  1 November 2026*
+*Updated on 22 November 2026*
 
 | # | 4th places | Person |
 | ---: | ---: | :--- |
-| 1 | 59 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
+| 1 | 60 | [Kyeongmin Choi (최경민)](https://www.worldcubeassociation.org/persons/2017CHOI07) |
 | 2 | 53 | [DongSoo Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05) |
 | 3 | 45 | [Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03) |
 | 4 | 31 | [Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01) |
-| 5 | 25 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
-| 6 | 25 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
-| 7 | 24 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) |
+| 5 | 26 | [Minseo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01) |
+| 6 | 25 | [Yoochan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03) |
+| 7 | 25 | [Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09) |
 | 8 | 23 | [Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04) |
 | 9 | 23 | [Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06) |
 | 10 | 23 | [Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01) |
@@ -28,18 +28,18 @@
 | 21 | 13 | [Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01) |
 | 22 | 13 | [SeungO Han (한승오)](https://www.worldcubeassociation.org/persons/2019HANS03) |
 | 23 | 12 | [MinGwan Yeo (여민관)](https://www.worldcubeassociation.org/persons/2018MING07) |
-| 24 | 11 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) |
-| 25 | 11 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
+| 24 | 12 | [Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03) |
+| 25 | 11 | [Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01) |
 | 26 | 11 | [Seungyong Han (한승용)](https://www.worldcubeassociation.org/persons/2021HANS08) |
-| 27 | 11 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
+| 27 | 11 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
 | 28 | 11 | [Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02) |
-| 29 | 11 | [Joon Cha (차준혁)](https://www.worldcubeassociation.org/persons/2012CHAJ01) |
-| 30 | 9 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) |
+| 29 | 11 | [Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01) |
+| 30 | 10 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) |
 | 31 | 9 | [Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03) |
 | 32 | 9 | [Hyunmin Roh (노현민)](https://www.worldcubeassociation.org/persons/2022ROHH01) |
-| 33 | 9 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
-| 34 | 9 | [Habin Kim (김하빈)](https://www.worldcubeassociation.org/persons/2013KIMH01) |
-| 35 | 8 | [HyunDong You (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01) |
+| 33 | 9 | [Taehoon Yoo](https://www.worldcubeassociation.org/persons/2024YOOT01) |
+| 34 | 9 | [Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01) |
+| 35 | 9 | [Habin Kim (김하빈)](https://www.worldcubeassociation.org/persons/2013KIMH01) |
 | 36 | 8 | [SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01) |
 | 37 | 8 | [Jihun Yang (양지훈)](https://www.worldcubeassociation.org/persons/2021YANG27) |
 | 38 | 8 | [Ilkyoo Choi (최일규)](https://www.worldcubeassociation.org/persons/2008CHOI04) |
@@ -58,28 +58,28 @@
 | 51 | 5 | [Nahyun Jung (정나현)](https://www.worldcubeassociation.org/persons/2023JUNG04) |
 | 52 | 5 | [Park Ji Won (박지원)](https://www.worldcubeassociation.org/persons/2017WONP01) |
 | 53 | 5 | [Park Sang-Min (박상민)](https://www.worldcubeassociation.org/persons/2008SANG04) |
-| 54 | 4 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) |
+| 54 | 4 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2022KIMS12) |
 | 55 | 4 | [Yongjun Dan (단용준)](https://www.worldcubeassociation.org/persons/2014DANY02) |
-| 56 | 4 | [Siwoo Kim](https://www.worldcubeassociation.org/persons/2022KIMS12) |
+| 56 | 4 | [An JiWan (안지완)](https://www.worldcubeassociation.org/persons/2023JIWA01) |
 | 57 | 4 | [On Yu (온유)](https://www.worldcubeassociation.org/persons/2019YUON01) |
 | 58 | 4 | [Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01) |
-| 59 | 4 | [JeYoung Park (박제영)](https://www.worldcubeassociation.org/persons/2024PARK56) |
-| 60 | 4 | [Lee Tae-Sub (이태섭)](https://www.worldcubeassociation.org/persons/2010TAES01) |
-| 61 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) |
-| 62 | 4 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) |
+| 59 | 4 | [Lee Tae-Sub (이태섭)](https://www.worldcubeassociation.org/persons/2010TAES01) |
+| 60 | 4 | [Brian Kim](https://www.worldcubeassociation.org/persons/2010KIMB01) |
+| 61 | 4 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) |
+| 62 | 4 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) |
 | 63 | 4 | [YuSung An](https://www.worldcubeassociation.org/persons/2017ANYU01) |
 | 64 | 4 | [JaeMin Kim (김재민)](https://www.worldcubeassociation.org/persons/2008JAEM01) |
 | 65 | 4 | [Choi Hyo-Jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01) |
-| 66 | 4 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) |
-| 67 | 4 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) |
-| 68 | 4 | [Jun Doo-Young (전두영)](https://www.worldcubeassociation.org/persons/2010DOOY01) |
-| 69 | 4 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) |
-| 70 | 4 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
-| 71 | 3 | [Lee Jin-Hyung (이진형)](https://www.worldcubeassociation.org/persons/2010JINH01) |
-| 72 | 3 | [Yeojun Hwang (황여준)](https://www.worldcubeassociation.org/persons/2024HWAN04) |
+| 66 | 4 | [JeYoung Park (박제영)](https://www.worldcubeassociation.org/persons/2024PARK56) |
+| 67 | 4 | [Hahoon Kim](https://www.worldcubeassociation.org/persons/2024KIMH03) |
+| 68 | 4 | [Kim Yong-Hun](https://www.worldcubeassociation.org/persons/2008YONG02) |
+| 69 | 4 | [JiHun Yim (임지훈)](https://www.worldcubeassociation.org/persons/2023YIMJ01) |
+| 70 | 4 | [Jinsol Hong](https://www.worldcubeassociation.org/persons/2022HONG01) |
+| 71 | 4 | [SeungWoon Lee (이승운)](https://www.worldcubeassociation.org/persons/2006SEUN02) |
+| 72 | 3 | [Lee Jin-Hyung (이진형)](https://www.worldcubeassociation.org/persons/2010JINH01) |
 | 73 | 3 | [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01) |
-| 74 | 3 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) |
-| 75 | 3 | [Sung Hyun Park (박성현)](https://www.worldcubeassociation.org/persons/2011PARK06) |
+| 74 | 3 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) |
+| 75 | 3 | [Seongjun Kang](https://www.worldcubeassociation.org/persons/2019KANG11) |
 | 76 | 3 | [Changseok Yang](https://www.worldcubeassociation.org/persons/2021YANG26) |
 | 77 | 3 | [Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01) |
 | 78 | 3 | [Taewon Hwang (황태원)](https://www.worldcubeassociation.org/persons/2012HWAN01) |
@@ -96,12 +96,12 @@
 | 89 | 3 | [Kim Minjong (김민종)](https://www.worldcubeassociation.org/persons/2022MINJ05) |
 | 90 | 3 | [Kim Dong-Young (김동영)](https://www.worldcubeassociation.org/persons/2008DONG02) |
 | 91 | 3 | [Choi Do-Hee](https://www.worldcubeassociation.org/persons/2008DOHE01) |
-| 92 | 3 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
-| 93 | 3 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) |
-| 94 | 3 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) |
-| 95 | 3 | [Lee Jae-Yong](https://www.worldcubeassociation.org/persons/2007JAEY02) |
-| 96 | 3 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) |
+| 92 | 3 | [Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01) |
+| 93 | 3 | [Jonghyun Choi (최종현)](https://www.worldcubeassociation.org/persons/2016CHOI13) |
+| 94 | 3 | [Lee Jae-Yong](https://www.worldcubeassociation.org/persons/2007JAEY02) |
+| 95 | 3 | [Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01) |
+| 96 | 3 | [Kim Eden (김이든)](https://www.worldcubeassociation.org/persons/2024EDEN01) |
 | 97 | 3 | [Jin Young Kim (김진영)](https://www.worldcubeassociation.org/persons/2018KIMJ03) |
-| 98 | 3 | [TaeHan Park (박태한)](https://www.worldcubeassociation.org/persons/2024PARK49) |
+| 98 | 3 | [DoHyeon Lee (이도현)](https://www.worldcubeassociation.org/persons/2024LEED07) |
 | 99 | 3 | [JaeYoung Chun (천재영)](https://www.worldcubeassociation.org/persons/2006JAEY01) |
 | 100 | 3 | [Kim Hyung-Sub](https://www.worldcubeassociation.org/persons/2006HYUN01) |
